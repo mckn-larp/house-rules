@@ -1,4 +1,4 @@
-# 🖤 Black Carding: Player Discomfort During Intense Scenes
+# Black Carding: Player Discomfort During Intense Scenes
 
 While our goal is to tell a story that embraces the darker, more challenging elements of the World of Darkness, we understand that there are some topics players may find uncomfortable or distressing.
 
