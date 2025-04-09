@@ -54,7 +54,7 @@ Click on each section below to view our local rulings and clarifications:
 - [**Territories**](./territory/README.md)  
   The territories held by various groups and factions around Knoxville.
 
-- [**Disciplinary Policy**](./discipline/README.md)
+- [**Disciplinary Policy**](./discipline/README.md)  
   Chronicle Discpline policies.
 
 
