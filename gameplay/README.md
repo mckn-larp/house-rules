@@ -33,7 +33,7 @@ At check-in, a **feeding or refresh challenge** may be required at ST discretion
 
 ---
 
-## 🏷Appearance & Required Tags
+## Appearance & Required Tags
 
 The following tags must be worn or displayed clearly if applicable:
 
@@ -57,13 +57,13 @@ Any obvious features or traits visible to other characters must be tagged, inclu
 
 ---
 
-## 🔁 Rule of Five
+## Rule of Five
 
 Any mechanic that allows variable trait expenditures is limited to **five traits maximum**, unless otherwise specified in an official **Mind’s Eye Theatre** book. This is subject to **Storyteller discretion**.
 
 ---
 
-## 💥 Carrier Attacks  
+## Carrier Attacks  
 Specific genre powers are also listed within their group.
 
 Carrier Attacks are:
@@ -94,7 +94,7 @@ The STs may classify additional powers as Carrier Attacks as needed.
 
 ---
 
-## 🛡️ Additional Defenses
+## Additional Defenses
 
 In combat, a defender may **spend 1 additional Temporary Willpower** to retest against certain effects. STs have discretion in awarding this opportunity.
 
