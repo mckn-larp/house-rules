@@ -1,7 +1,7 @@
 # DISCIPLINES & COMBINATION POWERS
 
-[← Back to Main Rules README](../README.md)  
-[← Back to Vampire README](./README.md)
+[← Back to Chronicle Rules](../README.md)  
+[← Back to Genre rules](./README.md)
 
 ---
 
@@ -129,3 +129,7 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 - **Aggressor**: Bids **Social + Intimidation**
 - **Defender**: Bids **Willpower + Courage**
   - May **retest** using both Willpower and Courage
+
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
