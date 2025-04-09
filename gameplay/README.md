@@ -1,5 +1,9 @@
 # GAMEPLAY: RULES REFERENCE AND NOTES
 
+[← Back to Chronicle Rules](../README.md)  
+
+-----
+
 Welcome to the Knoxville: Marble City gameplay reference. These documents contain local chronicle rulings and clarifications built on top of the Mind's Eye Theatre and Western Shore ruleset.
 
 Refer to the sections below for detailed information:
@@ -23,3 +27,8 @@ These may be masked with Rituals, Obfuscate, or relevant abilities.
 - Active powers
 - Vicissitude modifications
 - Wards or visible weapons
+
+-----
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
