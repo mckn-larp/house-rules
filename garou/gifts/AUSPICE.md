@@ -140,7 +140,154 @@
 
 [Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
 -----
+## Theurge Auspice Gifts
 
+### Basic Gifts
+
+- **Airt Perception (BoA)**  
+  Track spirits in the Umbra like tracking animals in the material realm.
+
+- **Battle Mandala (W20)**  
+  Spend 1 Gnosis. Mental Challenge (Occult), difficulty 7. Creates a mandala 50 × Mental traits radius. Non-pack totem spirits lose 1 Essence per turn. Lasts until end of scene or user leaves area. Bound spirits, caern totems, and Incarna unaffected.
+
+- **Blood Life (W20:CW)**  
+  As per *W20: Changing Ways*.
+
+- **Command Spirit (LOTWR)**  
+  Per *Laws of the Wild Revised*.
+
+- **Eyes of the Lynx (W20:CW)**  
+  Mental Challenge (Awareness). See through solid objects up to a distance equal to Awareness rating (in yards).
+
+- **Hear the Silence (W20:CW)**  
+  As per *W20: Changing Ways*.
+
+- **Mother’s Touch (LOTWR)**  
+  Per *LOTWR*.
+
+- **Name the Spirit (LOTWR)**  
+  Per *Lupus* Gift.
+
+- **Sense Chiminage (BoA)**  
+  Mental Challenge (Subterfuge). Learn spirit debt status. Spend 3 Mental Traits to reveal the most recently offended spirit (if any).
+
+- **Sense Weaver / Wyld / Wyrm (Umbra)**  
+  As appropriate. Works like *Sense Wyrm*, focused on the designated Triat aspect.
+
+- **Sight from Beyond (LOTWR)**  
+  Per *LOTWR*.
+
+- **Spirit Knife (BoA)**  
+  Spend 1 Gnosis. Imbue a personally crafted weapon to strike across the Gauntlet (if Gauntlet ≤ user’s permanent Gnosis). Does not aid in targeting.
+
+- **Spirit Skin (PGG)**  
+  Spend 1 Gnosis. Social Challenge (Subterfuge), difficulty 6 (wolf spirit) or 8 (others). Appears as a spirit in the Umbra for 1 hour per Social trait spent.
+
+- **Spirit Snare (W20)**  
+  Spend 1 Gnosis. Mental Challenge (Occult). Reduces target spirit’s effective Willpower by 2 for combat for the scene. Not stackable.
+
+- **Spirit Speech (LOTWR)**  
+  May function on Wraiths in some cases.
+
+- **The Spirit’s Displeasure (BoA)**  
+  Spend 1 Gnosis. Burn effigy. Social Challenge (Occult), difficulty 7. Target automatically fails one challenge in the story. Irresponsible use may backfire.
+
+- **Tinker’s Touch (WWW)**  
+  Spend 1 Gnosis. Repair broken (not destroyed) item.
+
+- **Umbral Tether (W20)**  
+  Create a silver tether from Umbra entry. Spend 1 Gnosis/day to maintain. Otherwise, it decays back toward the user.
+
+- **Whispers from Thoth (WWW)**  
+  Spend 1 Gnosis. Mental (Enigmas) Challenge, difficulty = Shroud rating + 3. Hear conversations across the Shroud for the scene.
+
+### Intermediate Gifts
+
+- **Blurring the Mirror (W20)**  
+  Spend 1 Gnosis per target. Gauntlet rating increases by 5 for them for the scene.
+
+- **Castigate (BoA)**  
+  State the spirit offense. Spend 1–5 Gnosis depending on Gift level blocked. Social Challenge (Intimidation) vs. target’s Gnosis +3. Adds 1 month to their next rank wait time. Target loses use of selected Gift type for 3 months.
+
+- **Grasp the Beyond (LOTWR)**  
+  Per *LOTWR*.
+
+- **Evocation of the Ceremony (BoA)**  
+  Gain +4 Social Traits for ritualism challenges to inspire, unify, or command. Requires Social Challenge.
+
+- **Exorcism (LOTWR)**  
+  If unwilling: Social Challenge (Intimidation) vs. spirit’s Willpower × 3. If willing: Static Social Challenge, difficulty 8. May expel possessing spirits or cure Fomori (host may die without healing).
+
+- **Placation (BoA)**  
+  Mental Challenge, difficulty 10 (Occult retest). Learn what sacrifice a spirit demands to atone for offense. More severe if offender is absent or unrepentant.
+
+- **Pulse of the Invisible (LOTWR)**  
+  Per *LOTWR*.
+
+- **Parting the Velvet Curtain (Umbra)**  
+  Spend 1 Gnosis. Open Gauntlet for non-shifters (adds +1 difficulty per guest). Max 8 others. Guests are tethered by a silver cord. May sever and eject with Willpower. Targets may resist (Willpower vs. Occult).
+
+- **Prophecy (BoA)**  
+  Player receives a Storyteller-generated vision.
+
+- **Prophetic Vision (RATH)**  
+  Spend 1 Gnosis. Mental Challenge (Enigmas or Garou/Umbra Cosmology), difficulty 10. Gain prophetic insight. Directed questions possible, but outcome is Storyteller’s discretion.
+
+- **Shadowplay (PG2)**  
+  Spend 1 Gnosis. Static Physical Challenge (Enigmas), difficulty 10. Animate your shadow for tasks or combat. Shadow has your Physical Traits and Abilities; inflicts 1 lethal. Operates up to 10 yards even in darkness.
+
+- **Spirit Blossom (W20:CW)**  
+  Spend 2 Gnosis. Plant a body part to grow a spiritually linked plant. Once per day, regain ½ your permanent Gnosis by communing. If destroyed:  
+    - Win Simple Test = 1 unsoakable lethal  
+    - Tie = ½ Gnosis in unsoakable lethal  
+    - Lose = Gnosis in unsoakable lethal
+
+- **Spirit Drain (LOTWR)**  
+  Static Gnosis vs. spirit’s Gnosis. If successful, drain 2 Essence → gain 1 Willpower. May repeat twice more.
+
+- **Spirit Path (PG2)**  
+  Spend 1 Gnosis. Mental Challenge (Enigmas). Locate a spirit whose true name you know. May combine with *Name the Spirit*.
+
+- **Spirit Ward (LOTWR)**  
+  Per *Homid* Gift.
+
+- **Umbral Camouflage (W20)**  
+  Spend 1 Gnosis. Invisible to spiritual senses for the scene. Ends if any attack is made.
+
+- **Umbral Tracking (PGG)**  
+  Spend 1 Gnosis. See all Umbral tethers nearby. Break tether via Physical Challenge vs. owner's challenge pool (retest Occult).
+
+- **Watchful Eyes (W20:CW)**  
+  Spend 1 Gnosis. Gain +5 Traits to Intimidate, Persuade, or Impress.
+
+- **Web Walker (W20/Umbra)**  
+  Spend 1 Gnosis. Social Challenge (Science), difficulty 10. Use the Pattern Web like a Moon Bridge for rapid Umbra travel.
+
+### Advanced Gifts
+
+- **Feral Lobotomy (LOTWR)**  
+  When used on a target, add +3 to their Willpower after doubling (per Temper rules).
+
+- **Healing the Soul (BoA)**  
+  A week-long retreat cures emotional/spiritual trauma. May remove insanity, desensitization, or temporary afflictions. Cannot cure Harano or Silver Fang Quirk but may alleviate. On vampires/wraiths: may restore 1 Humanity or reduce Angst by up to 2 levels.
+
+- **Malleable Spirit (LOTWR)**  
+  Grants the power to mold spirits, but does not work on Caern totems or higher.
+
+- **Poisoned Legacy (BoA)**  
+  Confront target with a malediction. Spend 1 Gnosis & 1 Willpower. Extended Social Challenge (Occult retest). Gain *Cursed* flaw equal to successes; 6+ = *Dark Fate*. No points are gained for these flaws.
+
+- **Spirit Vessel (PG2)**  
+  Spend 1 Gnosis. Static Gnosis Challenge (Occult), difficulty 12. Fuel spirit Charms using Gnosis (max 5 Gnosis per activation).
+
+- **Ultimate Argument of Logic (W20)**  
+  Engage in 3 contested Social (Performance) vs. Mental (Enigmas) challenges.  
+    - 1 success = lasts scene  
+    - 2 successes = lasts session  
+    - 3 successes = permanent  
+  Causes target to believe a statement as absolute truth.
+
+[Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
 -----
 <p align="center" style="background-color: #000; padding: 20px;">
   <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
