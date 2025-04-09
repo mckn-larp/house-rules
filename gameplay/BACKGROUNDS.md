@@ -1,5 +1,10 @@
 # Backgrounds, Resources & Systems
 
+[← Back to Chronicle Rules](../README.md)  
+[← Back to Genre rules](./README.md)
+
+-----
+
 ## Retainers
 
 Retainers can die. They must have an approved sheet in Haller to earn XP.
@@ -50,3 +55,8 @@ Requires a private residence and a written description.
 ## Influences
 
 Handled as per *Dark Epics*, using the same stacking rules described above.
+
+-----
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
