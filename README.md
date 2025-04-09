@@ -33,8 +33,8 @@ Click on each section below to view our local rulings and clarifications:
 - [**Discipline Rulings**](./discipline/README.md)  
   Chronicle Discpline policies.
 
-- [**Player Policies**](./players/README.md)
-- Player standards, policies, and conduct.
+- [**Player Policies**](./players/README.md)  
+  Player standards, policies, and conduct.
 
 - [**Character Creation**](./creation/README.md)  
   Local character creation guidelines, including XP bonuses and clan considerations.
