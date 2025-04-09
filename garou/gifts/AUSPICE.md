@@ -7,25 +7,25 @@
 -----
 ## Navigation  
 ### Ragabash Gifts  
-- Ragabash > Basic Gifts  
-- Ragabash > Intermediate Gifts  
-- Ragabash > Advanced Gifts  
+- [Ragabash > Basic Gifts](#ragabash-basic-gifts)  
+- [Ragabash > Intermediate Gifts](#ragabash-intermidate-gifts)  
+- [Ragabash > Advanced Gifts](#ragabash-advanced-gifts)  
 ### Theurge Gifts  
-- Theurge > Basic Gifts  
-- Theurge > Intermediate Gifts  
-- Theurge > Advanced Gifts  
+- [Theurge > Basic Gifts](#theurge-basic-gifts)  
+- [Theurge > Intermediate Gifts](#theurge-intermediate-gifts)  
+- [Theurge > Advanced Gifts](#theurge-advanced-gifts)  
 ### Philodox Gifts  
-- Philodox > Basic Gifts  
-- Philodox > Intermediate Gifts  
-- Philodox > Advanced Gifts  
+- [Philodox > Basic Gifts](#philodox-basic-gifts)  
+- [Philodox > Intermediate Gifts](#philodox-intermediate-gifts)  
+- [Philodox > Advanced Gifts](#philodox-advanced-gifts)  
 ### Galliard Gifts  
-- Galliard > Basic Gifts  
-- Galliard > Intermediate Gifts  
-- Galliard > Advanced Gifts  
+- [Galliard > Basic Gifts](#galliard-basic-gifts)  
+- [Galliard > Intermediate Gifts](#galliard-intermediate-gifts)  
+- [Galliard > Advanced Gifts](#galliard-advanced-gifts)  
 ### Ahroun Gifts  
-- Ahroun > Basic Gifts  
-- Ahroun > Intermediate Gifts  
-- Ahroun > Advanced Gifts  
+- [Ahroun > Basic Gifts](#ahroun-basic-gifts)  
+- [Ahroun > Intermediate Gifts](#ahroun-intermediate-gifts)  
+- [Ahroun > Advanced Gifts](#ahroun-advanced-gifts)  
 -----
 ## Ragabash Auspice Gifts
 
@@ -292,7 +292,7 @@
 
 ## Philodox Auspice Gifts
 
-## Philodox Basic Gifts
+### Philodox Basic Gifts
 
 - **Aura of the Just (WWC)**  
   Spend 1 Willpower. When the Garou commits a just act, all Garou present intuitively recognize its fairness. This aura does not guarantee respect but eliminates doubt of merit.
@@ -354,7 +354,7 @@
 - **Wrongful Death (GT)**  
   Mental Challenge (Occult retest). Reveals if the death was natural. Detects if the soul became a Wraith.
 
-## Philodox Intermediate Gifts
+### Philodox Intermediate Gifts
 
 - **Balance of Man and Beast (LOTWW)**  
   Per *Laws of the Wild West*.
@@ -407,7 +407,7 @@
 - **Wisdom of the Ancient Ways (LOTWR)**  
   Per *LOTWR*.
 
-## Philodox Advanced Gifts
+### Philodox Advanced Gifts
 
 - **Geas (LOTWR)**  
   Per *LOTWR*.
@@ -426,12 +426,251 @@
 
 ## Galliard Auspice Gifts
 
+### Galliard Basic Gifts
+
+- **Battle Cry (W20:CW)**  
+  Static Social Challenge (Expression retest). All allies gain +5 initiative for the rest of the scene.
+
+- **Beast Speech (LOTWR)**  
+  Per *LOTWR*.
+
+- **Call of the Wyld (LOTWR)**  
+  Per *LOTWR*. Additional positive effects may be applied per ST discretion.
+
+- **Call of the Wyrm (LOTWR)**  
+  Per *LOTWR*.
+
+- **Canine Call (W20:CW)**  
+  Spend 1 Gnosis. Your howls can only be heard by canines (includes canine Changing Breeds). Works with howl Gifts, not with rites.
+
+- **Command the Gathering (W20)**  
+  Per *Philodox* Gift.
+
+- **Coyote Howl (WWC)**  
+  No challenge required. Must howl all night. Listeners lose 1 trait from all Mental Challenges for the next day. Galliard is refreshed the next morning.
+
+- **Distractions (LOTWR)**  
+  Per *LOTWR*.
+
+- **Dreamchaser (WWC)**  
+  Spend 1 Gnosis. Stay within arm's reach of a sleeping target overnight. Experience their dreams. Visions are up to ST discretion.
+
+- **Dreamspeak (LOTWR)**  
+  Per *LOTWR*.
+
+- **Heightened Senses (LOTWR)**  
+  Per *Lupus* Gift.
+
+- **Howls in the Night (W20)**  
+  Spend 1 Gnosis. Static Social Challenge (Primal Urge retest), difficulty 7. Wyrm creatures who hear it cannot sleep for 3 hours + 3 more per trait spent.
+
+- **Memory Circle (PGG)**  
+  Spend 1 Gnosis to memorize spoken words. Spend 1 Willpower later to recall them exactly. Leaves visible spirit marks in the Umbra.
+
+- **Mimic (PG2)**  
+  Per *Changing Breeds 1*, *Corax* section: *Voice of the Mimic*.
+
+- **Mindspeak (LOTWR)**  
+  Per *LOTWR*.
+
+- **Perfect Recall (W20)**  
+  Per *W20*.
+
+- **Primal Song (WWC)**  
+  Automatically remember any song, dance, or story you hear as if you created it. Performance still governs effectiveness.
+
+- **Reverie (Fianna Tribebook)**  
+  Per *Fianna Tribebook Revised*.
+
+- **Ritual Tuning (W20:CW)**  
+  Spend 1 Gnosis to enhance another’s rite. Grants either bonus traits for the rite (equal to Performance) or additional successes if applicable.
+
+- **Unified Force (BoA)**  
+  Spend 1 Gnosis each turn to activate. All pack members act on the highest initiative. Ends if any member frenzies.
+
+### Galliard Intermediate Gifts
+
+- **Book of Years (BoA)**  
+  Mental Challenge (Enigmas retest), difficulty = Gauntlet rating. Enter a trance and receive ancestor memories. Each hour = 500 years. Willpower challenge (diff 7) each hour to continue. Failure may send you to Legendary Realm or Battlefield.
+
+- **Bridge Walker (W20)**  
+  Personal-use moon bridge. Spend 3 Willpower to make it last until next full moon. Range = Gnosis (miles). Travel = 1% of normal time.
+
+- **Eye of the Cobra / Come Hither (LOTWR)**  
+  Per *LOTWR*.
+
+- **Fog of War (Fianna Tribebook Revised)**  
+  Per *Ragabash* Gift.
+
+- **Gift of Dreams (W20)**  
+  Spend 1 Gnosis. Mental Challenge (Expression) vs. sleeping target. Breathe the dream into their mouth. Dreams are vivid and may seem meaningful.
+
+- **Scent of Distinction (Umbra)**  
+  Sniff the area, meditate 10 minutes, spend 1 Gnosis. Static Mental Challenge (ST sets difficulty). Retest with Streetwise (urban) or Survival (wilderness). Reveals spiritual type and history of area.
+
+- **Shadows by the Firelight (LOTWR)**  
+  Galliard tells a story (not commands) to direct others. In combat: one simple sentence per round. Requires full concentration. Only defensive actions allowed.
+
+- **Sing the Spirits (PGG)**  
+  Call a spirit’s name. Spend 1 Gnosis. Physical Challenge (Occult) vs. spirit. Success: spirit cannot approach singer or anyone they touch.
+
+- **Song of Heroes (W20)**  
+  Tell an epic tale (several minutes). Static Social Challenge (Performance retest), difficulty 8. Spend 2 traits per bonus dot (up to 10) in an Ability shared by all Garou/Kinfolk listening. Lasts until sunrise.
+
+- **Song of Rage / Fighting Words (LOTWR)**  
+  Per *LOTWR*.
+
+- **Song of the Siren (W20)**  
+  Spend 1 Gnosis. Social Challenge (Performance retest) vs. highest Willpower. On success, targets are stunned for 1 + number of Social traits spent (max 5). Targets may spend 1 Willpower per turn to act.
+
+- **Social Butterfly (W20:CW)**  
+  Social Challenge (Etiquette retest). Gain temporary Contacts related to a group of humans for one month, rating per ST.
+
+- **Words Like Wind (W20:CW)**  
+  Spend 1 Gnosis. Gain 2 dots of *Fame* for trendsetting communications (memes, posts, etc.) for the month.
+
+- **View the Battlefield (BoA)**  
+  Spend 1 Gnosis. Static Mental Challenge (Investigation), difficulty 7–12 depending on area size. Success grants overhead view of battlefield, prevents ambush, reveals dangers. Lasts 1 turn + 1 per Mental Trait spent.
+
+
+### Galliard Advanced Gifts
+
+- **Fabric of the Mind (LOTWR)**  
+  Per *LOTWR*.
+
+- **Head Games (LOTWR)**  
+  Per *LOTWR*.
+
+- **Legend’s Insight (BoA)**  
+  Requires *Ancestor* background. Social Challenge, difficulty 14. Spend Ancestor dots to boost one Ability by 5 dots (max 10 total in that Ability).
 
 [Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
 -----
 
 ## Ahroun Auspice Gifts
 
+### Ahroun Basic Gifts
+
+- **Empathy of Hatred (BoA)**  
+  Spend an action focusing on a target to learn their temporary and permanent Rage Traits. Blocked by *Aura of Confidence*.
+
+- **Falling Touch (LOTWR)**  
+  Effect lasts for four actions or two turns, whichever comes first.
+
+- **Inspiration (LOTWR)**  
+  The Willpower success granted may only be used in defense.
+
+- **Iron Claws (FS)**  
+  Spend 1 Rage and touch an iron object. Your claws gain Cold Iron properties and deal +1 damage for the scene.
+
+- **Loyal Defender (W20:CW)**  
+  Permanent effect. Down 2 traits to attack packmates. After harming a packmate via frenzy/control, make a Willpower vs. Rage Challenge. Success ends the effect and grants a Rage.
+
+- **Pack Tactics (BoA)**  
+  Spend 1 Willpower before the pack uses a tactic. All members gain +1 trait per Leadership or Tactics dot the Ahroun has.
+
+- **Razor Claws (LOTWR)**  
+  Per *LOTWR*.
+
+- **Renewed Vigor (BoA)**  
+  If you kill an enemy in spectacular fashion (3+ HLs past Incapacitated) and spend 3 Rage in the same turn, you may spend 1 Willpower to give allies temporary Rage equal to your Rank.
+
+- **Rhythm of War (W20:CW)**  
+  Spend 1 Rage. Attack once per turn while active. Immune to all Stunning effects.
+
+- **Pack Shield (W20:CW)**  
+  Static Social Challenge (Intimidation). Take an action to draw attention. Enemies are down 1 trait against all others. Spend more Social traits to increase the penalty.
+
+- **Sense Silver (LOTWR)**  
+  As per *Metis* Gift.
+
+- **Shield of Rage (W20)**  
+  Spend 1 Willpower. Spirits treat their Rage as 2 lower for damage purposes against the Ahroun.
+
+- **Spirit of the Fray (LOTWR)**  
+  Bonus traits only affect Initiative calculation.
+
+- **Spiritual Wrath (BoA)**  
+  Spend 1 Gnosis. Next claw attack bypasses armor against creatures with a single nature (mortals, spirits, wraiths). Missed attack wastes the Gift.
+
+- **Spur Claws (PGG)**  
+  Spend 1 Rage. Next successful claw attack plants claws in target. Target is down 2 traits until claws are removed. User regrows claws in 1 turn. Other claw-related Gifts are lost on this attack.
+
+- **Steadfast (WWC)**  
+  Spend 1 Rage. Free retest on all non-combat Stamina challenges for the scene.
+
+- **Trick Shot (LOTWW)**  
+  As per *Glass Walker* Gift.
+
+- **Strength of the Pack (WWC)**  
+  Spend 1 Rage. Reduce own Physical Traits (min 1) and give them to packmates by touch. Lasts one scene. Cannot lend traits from form bonuses.
+
+- **True Fear (LOTWR)**  
+  Per *LOTWR*.
+
+### Ahroun Intermediate Gifts
+
+- **Black Mamba Strike (W20:CW)**  
+  Spend 1 Rage. For the scene, you may attack and move double your distance without penalty.
+
+- **Body Shift (W20)**  
+  Per *Homid* Gift.
+
+- **Clenched Jaw (LOTWR)**  
+  Per *LOTWR*.
+
+- **Combat Healing (PG2)**  
+  Per *W20*.
+
+- **Full Moon’s Light (W20)**  
+  Per *W20*.
+
+- **Heart of Fury (LOTWR)**  
+  Win ties on frenzy checks for scene. At scene's end, spend 1 Willpower or check for frenzy immediately.
+
+- **Home Turf (W20:CW)**  
+  Social Challenge (Intimidation). Opponents are penalized or allies are boosted for intimidation based on user's Rage rating. Affects 10 × permanent Rage in yards.
+
+- **Purity of Spirit (BoA)**  
+  Spend Gnosis to reduce silver damage taken by that amount per round for that many turns. May not be active with Luna’s Armor.
+
+- **Shake the Earth (WWC)**  
+  Spend 1 Rage. Split ground 10' x 3' x 10' deep. Opponents must make Static Physical Challenge (Athletics), difficulty 15 to avoid falling. Spend more Rage to make more holes or deepen existing one.
+
+- **Shatter Bone (PG2)**  
+  Spend 1 Rage + 1 Willpower before striking a limb. On hit, limb is crushed (useless), takes 2 unsoakable Lethal HLs. Inflicts *Clumsy* and *Lame*. Traits stack. No other damage from strike. Broken limbs impair actions.
+
+- **Silver Claws (LOTWR)**  
+  Per *LOTWR*.
+
+- **Spirit Savage (Umbra)**  
+  After biting a spirit, spend 1 Rage and make Physical Challenge (Brawl retest) vs. spirit’s Willpower. Reduces spirit’s effective Rage by 1 + 1/Physical trait spent (min 1). Cannot drop to 0. Traits return at scene’s end.
+
+- **Stoking Fury’s Furnace (LOTWR)**  
+  Per *LOTWR*.
+
+- **Touch of Rage (BoA)**  
+  Spend 1 Willpower (2 if mortal), plus any number of Rage. Target gains that Rage (even exceeding their permanent Rage) and can spend it normally. Only works on beings that already have Rage or humans.
+
+- **Wind Claws (W20)**  
+  Spend 1 Rage. All natural attacks for the turn ignore armor. Does not bypass health levels from other sources.
+
+### Ahroun Advanced Gifts
+
+- **Aegis Shield (BoA)**  
+  Spend 1 Willpower. For the scene, you may force retests on any successful attack against you. If you win the initial challenge, convert damage to Bashing even if they win retest.
+
+- **Kiss of Helios (LOTWR)**  
+  Per *LOTWR*. Does not protect against Balefire.
+
+- **Shared Strength (PGG)**  
+  Spend 2 Gnosis and declare duration. Target Garou within line of sight gains your Physical Traits and combat Abilities (Brawl, Dodge, Survival, Melee) if theirs are lower. You drop to 3 Physical Traits and 0 in those Abilities during effect. No XP may be spent to raise shared Traits.
+
+- **Strength of Will (LOTWR)**  
+  Per *LOTWR*.
+
+- **Hail of Bullets (LOTWW)**  
+  Per *LOTWW*.
 
 [Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
 -----
