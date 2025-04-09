@@ -1,4 +1,4 @@
-# Player Policies and the Shared World
+# PLAYER POLICIES AND THE SHARED WORLD
 
 Our chronicle thrives on **collaboration, respect, and shared storytelling**. Every scene, every interaction, and every moment of drama is made possible because of the players — and that includes our staff.
 
@@ -38,7 +38,7 @@ At **Knoxville: Marble City**, we are committed to fostering a **respectful, inc
 - **Accountability and forgiveness** both have a place in our culture.
 
 
-## ❤A Shared Love of the Game
+## A Shared Love of the Game
 
 We come together because we love this world, this system, and the stories we create. That love is the foundation we return to when misunderstandings arise.
 
