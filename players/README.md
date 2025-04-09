@@ -1,5 +1,9 @@
 # PLAYER POLICIES AND THE SHARED WORLD
 
+[← Back to Chronicle Rules](../README.md)  
+
+-----
+
 Our chronicle thrives on **collaboration, respect, and shared storytelling**. Every scene, every interaction, and every moment of drama is made possible because of the players — and that includes our staff.
 
 This is a **shared environment**, built by the community for the community. Whether you’re a new face or a seasoned veteran, everyone is part of shaping the story. We value your contributions, creativity, and engagement.
@@ -74,3 +78,8 @@ In the event of a **PvP (player vs. player)** situation:
 - **The 10-minute break or "follow mode" cannot be used to avoid PvP.**
 
 Our chronicle values both immersive storytelling and the well-being of our players. Safety and mutual respect come first.
+
+-----
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
