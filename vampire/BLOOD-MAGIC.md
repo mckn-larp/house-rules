@@ -1,5 +1,8 @@
 # Blood Magic Rules & Clarifications
 
+[← Back to Chronicle Rules](../README.md)  
+[← Back to Genre rules](./README.md)
+
 Characters are allowed to learn **multiple styles of Blood Magic**, but these must follow a strict hierarchy of mastery.
 
 ---
