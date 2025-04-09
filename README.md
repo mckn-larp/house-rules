@@ -30,9 +30,6 @@ This repository outlines those local rulings. If a rule or mechanic is not speci
 
 Click on each section below to view our local rulings and clarifications:
 
-- [**Discipline Rulings**](./discipline/README.md)  
-  Chronicle Discpline policies.
-
 - [**Player Policies**](./players/README.md)  
   Player standards, policies, and conduct.
 
@@ -56,6 +53,10 @@ Click on each section below to view our local rulings and clarifications:
 
 - [**Territories**](./territory/README.md)  
   The territories held by various groups and factions around Knoxville.
+
+- [**Disciplinary Policy**](./discipline/README.md)
+  Chronicle Discpline policies.
+
 
 ---
 
