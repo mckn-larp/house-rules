@@ -1,8 +1,11 @@
 # VAMPIRE SPECIFIC RULES  
 
+[← Back to Chronicle Rules](../README.md)  
+
+-----
 This section outlines general rules and clarifications that apply specifically to **Vampire characters** in the Knoxville: Marble City chronicle.
 
----
+-----
 
 ## Character Creation: Sabbat Clans
 
