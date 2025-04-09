@@ -8,8 +8,7 @@
 - [**Abilities**](./ABILITIES.md)
 - [**Backgrounds**](./BACKGROUNDS.md)
 - [**Merits & Flaws**](./MERITS-FLAWS.md)
-- [**Gifts**](./GIFTS.md)
-- [**Rites**](./RITES.md)
+- [**Gifts & Rites**](./GIFTS-RITES.md)
 - [**Items, Fetishes, & Talens**](ITEMS.md)
 
 -----
