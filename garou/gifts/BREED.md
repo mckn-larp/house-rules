@@ -11,19 +11,19 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 ## Navigation
 
 ### Homid
-- [Homid > Basic](#homid-basic)
-- [Homid > Intermediate](#homid-intermediate)
-- [Homid > Advanced](#homid-advanced)
+- [Homid > Basic](#homid--basic)
+- [Homid > Intermediate](#homid--intermediate)
+- [Homid > Advanced](#homid--advanced)
 
 ### Metis
-- [Metis > Basic](#metis-basic)
-- [Metis > Intermediate](#metis-intermediate)
-- [Metis > Advanced](#metis-advanced)
+- [Metis > Basic](#metis--basic)
+- [Metis > Intermediate](#metis--intermediate)
+- [Metis > Advanced](#metis--advanced)
 
 ### Lupus
-- [Lupus > Basic](#lupus-basic)
-- [Lupus > Intermediate](#lupus-intermediate)
-- [Lupus > Advanced](#lupus-advanced)
+- [Lupus > Basic](#lupus--basic)
+- [Lupus > Intermediate](#lupus--intermediate)
+- [Lupus > Advanced](#lupus--advanced)
 
 ---
 ## Homid
