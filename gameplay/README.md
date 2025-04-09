@@ -37,12 +37,9 @@ At check-in, a **feeding or refresh challenge** may be required at ST discretion
 
 The following tags must be worn or displayed clearly if applicable:
 
-### Non-Sabbat Characters
-- **Humanity 4 or lower**, or on a **Path of Enlightenment**: Wear a tag labeled `"Inhumane"`.
-- **Anarchs**: Must denote **Humanity 4 or higher**.
-
 ### Sabbat Characters
 - **Humanity 6 or higher**: Wear a tag labeled `"Humane"`.
+- **Humanity 4 or lower**, or on a **Path of Enlightenment**: Wear a tag labeled `"Inhumane"`.
 
 > *Note: These conditions may be masked with Rituals, Obfuscate: Mask of a Thousand Faces, and appropriate Abilities (e.g., Acting or Subterfuge).*
 
@@ -66,7 +63,8 @@ Any mechanic that allows variable trait expenditures is limited to **five traits
 
 ---
 
-## 💥 Carrier Attacks
+## 💥 Carrier Attacks  
+Specific genre powers are also listed within their group.
 
 Carrier Attacks are:
 - Limited to **one per round**
@@ -74,7 +72,7 @@ Carrier Attacks are:
 
 The STs may classify additional powers as Carrier Attacks as needed.
 
-### Listed Carrier Attacks
+### Listed Carrier Attacks  
 
 - **Animalism**: Quell the Beast
 - **Necromancy**: Mortus Path – Mercy for Seth
