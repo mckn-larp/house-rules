@@ -6,7 +6,7 @@ Our chronicle uses the [**Western Shore House Rules**] as our **baseline ruleset
 
 This repository outlines those local rulings. If a rule or mechanic is not specifically mentioned here, please refer to the **Western Shore House Rules** for guidance.
 
-> ⚠️ **All rules are subject to change at storyteller discretion.** When in doubt, contact staff.
+⚠️ **All rules are subject to change at storyteller discretion.** When in doubt, contact staff.
 
 ---
 
