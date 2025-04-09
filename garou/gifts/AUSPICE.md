@@ -142,7 +142,7 @@
 -----
 ## Theurge Auspice Gifts
 
-### Basic Gifts
+### Theurge Basic Gifts
 
 - **Airt Perception (BoA)**  
   Track spirits in the Umbra like tracking animals in the material realm.
@@ -201,7 +201,7 @@
 - **Whispers from Thoth (WWW)**  
   Spend 1 Gnosis. Mental (Enigmas) Challenge, difficulty = Shroud rating + 3. Hear conversations across the Shroud for the scene.
 
-### Intermediate Gifts
+### Theurge Intermediate Gifts
 
 - **Blurring the Mirror (W20)**  
   Spend 1 Gnosis per target. Gauntlet rating increases by 5 for them for the scene.
@@ -263,7 +263,7 @@
 - **Web Walker (W20/Umbra)**  
   Spend 1 Gnosis. Social Challenge (Science), difficulty 10. Use the Pattern Web like a Moon Bridge for rapid Umbra travel.
 
-### Advanced Gifts
+### Theurge Advanced Gifts
 
 - **Feral Lobotomy (LOTWR)**  
   When used on a target, add +3 to their Willpower after doubling (per Temper rules).
@@ -286,6 +286,152 @@
     - 2 successes = lasts session  
     - 3 successes = permanent  
   Causes target to believe a statement as absolute truth.
+
+[Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
+-----
+
+## Philodox Auspice Gifts
+
+## Philodox Basic Gifts
+
+- **Aura of the Just (WWC)**  
+  Spend 1 Willpower. When the Garou commits a just act, all Garou present intuitively recognize its fairness. This aura does not guarantee respect but eliminates doubt of merit.
+
+- **Building a Legend (W20:CW)**  
+  *This Gift is not used in this chronicle.*
+
+- **Call to Arms (WWW)**  
+  Functions as *Call to Duty*, except the spirits are low-powered (ST discretion), and the Garou may specify the type of spirit summoned.
+
+- **Call to Duty (LOTWR)**  
+  Summons Gaian spirits.
+
+- **Command the Gathering (W20)**  
+  Spend 1 Willpower. Social Challenge (Leadership) vs. highest Willpower present. If successful, audience falls silent and listens. Interruption requires spending 2 Willpower.
+
+- **Fangs of Judgment (W20)**  
+  Spend 1 Willpower. For one day, all natural weapon damage vs. corrupted beings (e.g. BSDs, Fomori) does +2 damage. Banes created as Wyrm agents are unaffected.
+
+- **Firm Stance (W20:CW)**  
+  Spend 1 Willpower. Add your Honor to defense in Social Challenges, but only if your Honor exceeds your opponent’s.
+
+- **King of the Beasts (LOTWR)**  
+  Per *LOTWR*.
+
+- **Ma’at Feather (PGG)**  
+  Mental Challenge vs. deceased's Gnosis (Occult retest). Success reveals if they fell to the Wyrm or violated Gaia’s laws. Auto-success if they died in Gaia’s service.
+
+- **Moon Lore (BoA)**  
+  Mental Challenge (Primal Urge retest), difficulty 6. Learn target’s auspice moon phase. Spend 1 Mental Trait to also learn waxing/waning status.
+
+- **Omen of Truth (BoA)**  
+  Spend 1 Gnosis. Mental Challenge (Enigmas), difficulty based on location (e.g. 9 = empty room, 5 = wilderness). ST provides a clue. Spend 30 mins = +2 trait bonus on the challenge.
+
+- **Persuasion (LOTWR)**  
+  Per *Homid* Gift.
+
+- **Realm Wisdom (Umbra)**  
+  Spend 1 Gnosis. Static Mental Challenge (difficulty varies). Success grants one fact about a spirit realm. Spend Mental Traits (max 5) for additional facts. One use per realm visit.
+
+- **Resist Pain (LOTWR)**  
+  Side effects of the Incapacitated level are also ignored.
+
+- **Scent of the True Form (LOTWR)**  
+  Per *LOTWR*. Also auto-detects Kinfolk and other Garou per *W20*.
+
+- **Sense Trauma (W20:CW)**  
+  Contested Mental Challenge (Empathy retest). Detects derangements and Delirium level by scent.
+
+- **Strength of Purpose (LOTWR)**  
+  Per *LOTWR*.
+
+- **Strength of Vision (FS)**  
+  Spend 1 Willpower. Instantly recall any information needed to achieve your purpose, undistracted.
+
+- **Truth of Gaia (LOTWR)**  
+  Retest is Empathy.
+
+- **Wrongful Death (GT)**  
+  Mental Challenge (Occult retest). Reveals if the death was natural. Detects if the soul became a Wraith.
+
+## Philodox Intermediate Gifts
+
+- **Balance of Man and Beast (LOTWW)**  
+  Per *Laws of the Wild West*.
+
+- **Bonds that Tie Us (PGG)**  
+  Spend 1 Rage. Whisper a name. You feel your target’s emotions toward that person. Supernatural targets may resist with Willpower vs. Rage.
+
+- **Curse the Betrayer (WWC)**  
+  Create a pact via a shared gesture (handshake, smoke, toast). If broken, ST may call up to 3 retests against the betrayer per session for 3 months.
+
+- **Divided Heart (BoA)**  
+  Social Challenge (Primal Urge). Success: target ignores penalties from Rage > Willpower for the scene.
+
+- **Flow Like Water (W20:CW)**  
+  Spend 1 Willpower. Gain +1 Trait on attack and defense challenges for the scene.
+
+- **Mend the Forked Tongue (LOTWW)**  
+  Per *Laws of the Wild West*.
+
+- **Mental Speech (LOTWR)**  
+  Per *Metis* Gift.
+
+- **Power of the Ways (Umbra)**  
+  Extended Willpower Challenge, difficulty 8. Regain 1 point of Rage, Gnosis, or Willpower. May be used once per temper per scene/hour. Cannot exceed permanent ratings.
+
+- **Reality’s Path (BoA)**  
+  May only be used after a successful *Truth of Gaia* where the target believes what they said.
+
+- **Rebirth (W20:CW)**  
+  Revive a dead animal ≤ your Gnosis in months old. Spend 1 Gnosis, take 1–4 Health Levels damage. Social Challenge (Primal Urge). Creature is loyal for the scene, then dies again.
+
+- **Roll Over (LOTWR)**  
+  Per *LOTWR*.
+
+- **Scent of Beyond (LOTWR)**  
+  Works across a single realm barrier (e.g., Material ↔ Penumbra, Penumbra ↔ Spirit Realm).
+
+- **Scent of the Oathbreaker (W20)**  
+  Spend 1 Gnosis to sanctify an oath. If broken, you are alerted and gain +4 traits when tracking by scent. Bonus lasts until you see the oathbreaker again.
+
+- **Sense Balance (W20)**  
+  Spend 1 Gnosis. Static Mental Challenge (Enigmas retest), difficulty 10. Assess balance of a person, place, or object. Cannot be used in combat.
+
+- **Take the True Form (PG2)**  
+  Opposed Social Challenge (Primal Urge retest) vs. target’s Willpower.
+
+- **Weak Arm (LOTWR)**  
+  Observe target for 1 round. Mental Challenge (Brawl). Success = either +3 Traits or +1 Health Level damage vs. target for the scene.
+
+- **Wisdom of the Ancient Ways (LOTWR)**  
+  Per *LOTWR*.
+
+## Philodox Advanced Gifts
+
+- **Geas (LOTWR)**  
+  Per *LOTWR*.
+
+- **Rally to the Cause (WWW)**  
+  Deliver a rousing speech. Social Challenge (Leadership) vs. highest Willpower among dissenters. Success: dissenters follow Philodox unless they spend 1 Willpower. Followers gain 1 free retest toward the shared goal. They are treated as a pack for frenzy and Gift purposes.
+
+- **Soul’s Guilt (BoA)**  
+  Focus for 1 turn, then Mental Challenge (Empathy). Success: learn the guilt that weighs most on the target's soul. Subjective; ST adjudication recommended.
+
+- **Wall of Granite (LOTWR)**  
+  Per *LOTWR*.
+
+[Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
+-----
+
+## Galliard Auspice Gifts
+
+
+[Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
+-----
+
+## Ahroun Auspice Gifts
+
 
 [Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
 -----
