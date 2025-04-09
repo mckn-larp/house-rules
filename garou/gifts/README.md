@@ -25,7 +25,9 @@
   -   [Croatan](./CROATAN.md)
   -   [Black Spiral Dancers](./BSD.md)
 
+
 Any gifts or powers of other fera will be published should they come into play. For refernce, we will use the Changing Breeds House Rules from Chicago: New Moon Rising barring any changes herein.
+
 -----
 <p align="center" style="background-color: #000; padding: 20px;">
   <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
