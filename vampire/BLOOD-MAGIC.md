@@ -144,3 +144,7 @@ Characters are allowed to learn **multiple styles of Blood Magic**, but these mu
 ---
 
 **These rules are subject to change at Storyteller discretion.**
+
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
