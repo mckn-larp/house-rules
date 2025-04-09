@@ -39,6 +39,9 @@ Click on each section below to view our local rulings and clarifications:
 - [**Character Creation**](./creation/README.md)  
   Local character creation guidelines, including XP bonuses and clan considerations.
 
+- [**Game Play**](./gameplay/README.md)
+  Basic, in-game mechanics rules.
+
 - [**Changeling Rules**](./changeling/README.md)  
   Specific rulings for Kithain and Nunnehi play in the Knoxville chronicle.
 
