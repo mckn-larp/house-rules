@@ -1,5 +1,9 @@
 # DISCIPLINARY POLICY
 
+[← Back to Chronicle Rules](../README.md)  
+
+-----
+
 **OWBN Knoxville** expects all players — both local and visiting — to abide by the [**Code of Conduct**](http://www.owbn.net/content/code-of-conduct) as written for **One World by Night (OWbN)**.
 
 Any player who wishes to review the Code of Conduct can find it on the OWbN website, and the staff will happily email it to anyone upon request.
@@ -51,6 +55,11 @@ Any player who wishes to review the Code of Conduct can find it on the OWbN webs
 
 5. **💀 Generate New Character (GNC)**
    - The character is permanently destroyed and may not be played again.
+
+-----
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
 
 6. **Additional Note**
    - Any punishment beyond a Warning will impact the player’s ability to create **Rare & Unusual (R&U)** characters.
