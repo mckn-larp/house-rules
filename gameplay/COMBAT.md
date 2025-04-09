@@ -1,5 +1,10 @@
 # Combat Rules & Mechanics
 
+[← Back to Chronicle Rules](../README.md)  
+[← Back to Genre rules](./README.md)
+
+-----
+
 ## Storyteller Oversight
 
 Once you have signed in, you are under the control of the Storyteller (ST) staff until the end of that game. Unique situations may require this control to extend longer.
@@ -176,3 +181,8 @@ Only **one retest per source** is allowed per challenge. Sources include:
 ---
 
 Let me know if you’d like this broken further into collapsible sections for GitHub or split by phase of combat (e.g., pre-round, resolution, post-round) for even easier use at the table or online.
+
+-----
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
