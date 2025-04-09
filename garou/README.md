@@ -10,6 +10,7 @@
 - [**Merits & Flaws**](./MERITS-FLAWS.md)
 - [**Gifts & Rites**](./gifts/README.md)
 - [**Renown & Rank**](./RENOWN.md)
+- [**Garou-Specific Mechanics**](./MECHANICS.md)
 - [**Items, Fetishes, & Talens**](ITEMS.md)
 
 -----
