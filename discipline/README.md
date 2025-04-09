@@ -1,4 +1,4 @@
-# 🛡️ DISCIPLINARY POLICY
+# DISCIPLINARY POLICY
 
 **OWBN Knoxville** expects all players — both local and visiting — to abide by the [**Code of Conduct**](http://www.owbn.net/content/code-of-conduct) as written for **One World by Night (OWbN)**.
 
