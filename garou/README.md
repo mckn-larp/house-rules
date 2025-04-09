@@ -4,7 +4,6 @@
 
 -----
 - [**Creation**](./CREATION.md)
-- [**Breed, Auspice, & Tribe Rules**](./BAT.md)
 - [**Abilities**](./ABILITIES.md)
 - [**Backgrounds**](./BACKGROUNDS.md)
 - [**Merits & Flaws**](./MERITS-FLAWS.md)
