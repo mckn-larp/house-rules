@@ -32,7 +32,7 @@ Click on each section below to view our local rulings and clarifications:
 - [**Cosmology & Umbra**](./cosmology/README.md)  
   How spirits, realms, and metaphysical systems function in our chronicle.
 
-- [**Territories**](./territory/README.md)
+- [**Territories**](./territory/README.md)  
   The territories held by various groups and factions around Knoxville.
 
 ---
