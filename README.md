@@ -32,6 +32,9 @@ Click on each section below to view our local rulings and clarifications:
 - [**Cosmology & Umbra**](./cosmology/README.md)  
   How spirits, realms, and metaphysical systems function in our chronicle.
 
+- [**Territories**](./territory/README.md)
+  The territories held by various groups and factions around Knoxville.
+
 ---
 
 If you have questions about any rule listed here or would like to propose a clarification or update, please open a [Discussion](https://github.com/mckn-larp/house-rules/discussions) or speak with a storyteller directly.
