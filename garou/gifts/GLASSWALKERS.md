@@ -5,7 +5,7 @@
 [← Back to Gifts](./README.md)
 
 -----
-## Basic
+## Basic Gifts
 - **Control Simple Machine** (LOTWR) - Per LOTWR.
 - **Cybersenses** (LOTWR) - The machine or item that has the sense you wish to exchange must be in nearby vicinity.
 - **Heat Metal** (LOTWRed) - Spend a Gnosis trait to drastically heat a small visible object. Resolve with simple test; deals 5 agg, can destroy non-magical items.
@@ -29,7 +29,7 @@
 - **Trick Shot** (LOTWR) - Add twice rank instead of Glory traits.
 - **Weaver’s Eyes** (BoC) - Willpower + Mental Challenge (diff 10 – Gauntlet, retest Computers) to crack encryption, even magical.
 
-## Intermediate
+## Intermediate Gifts
 - **Attunement** (LOTWR) - Per Bone Gnawer Gift.
 - **Call the City’s Wolves** (BoC) - Spend 1 Rage, Mental challenge (diff 7, retest Leadership). Summon 1–4 urban allies.
 - **Camera Eye** (WPG) - Spend 1 Gnosis. Mental challenge (Investigation, diff 10) to record visual memory.
@@ -51,7 +51,7 @@
 - **Virtual Umbra** (Umbra) - Spend 1 Gnosis. Static Mental challenge (diff 8 or 10 if with group) to enter Cyber Realm.
 - **Web Walker** (Umbra/W20) - Per Theurge gift.
 
-## Advanced
+## Advanced Gifts
 - **Calm the Flock** (W20) - Static Social challenge (retest Subterfuge). Hide Delirium/Curse effects for 1 hour per social trait.
 - **Chaos Mechanics** (LOTWR) - Per LOTWR.
 - **Custom Built** (Glass Walker Tribebook Revised) - Per Glass Walker Tribebook Revised.
@@ -67,67 +67,67 @@
 # Camp Gifts
 
 ## Boli Zouhisze
-**Basic**
+**Basic Gifts**
 - **Fu Xi’s Honor** - Spend 1 Rage to gain twice your Rank in Physical Traits when defending helpless family or pack.
 - **Sheng-Nong’s Eyes** - Per Glass Walker Tribebook Revised.
 
-**Intermediate**
+**Intermediate Gifts**
 - **Elemental Favor / Yao’s Command** - Per LOTWR. Elemental choice: Water, Wood, Fire, Earth, Metal.
 - **Heart of the Mountain / Yu’s Endurance** - Per Glass Walker Tribebook Revised.
 
-**Advanced**
+**Advanced Gifts**
 - **Huang Di’s Sacrifice** - Per Glass Walker Tribebook Revised.
 
 ## City Farmers
-**Basic**
+**Basic Gifts**
 - **Agro Culture** - Social challenge (retest Science or Herbology) to plant seeds and purify toxic ground. Diff set by ST.
 
 ## Corporate Wolves
-**Basic**
+**Basic Gifts**
 - **Budget Approval Process** - Per Glass Walker Tribebook Revised.
 - **Buzzword Language** - Per Glass Walker Tribebook Revised.
 
-**Advanced**
+**Advanced Gifts**
 - **Takeover** - Per Glass Walker Tribebook Revised.
 
 ## Cyber Dogs
-**Basic**
+**Basic Gifts**
 - **Cool Mind** - Per Glass Walker Tribebook Revised.
 - **Steel Made Flesh** - Per Glass Walker Tribebook Revised.
 
 ## Dies Ultimae
-**Basic**
+**Basic Gifts**
 - **Last Ditch** - Per Glass Walker Tribebook Revised.
 - **Well-Oiled Running** - Per Glass Walker Tribebook Revised.
 
-**Intermediate**
+**Intermediate Gifts**
 - **Steel Blowfish** - Per Glass Walker Tribebook Revised.
 
 ## Random Interrupts
-**Basic**
+**Basic Gifts**
 - **Mind Partition** - Per Glass Walker Tribebook Revised. Does not allow multiple combat actions.
 - **Network Terminal** - Per Glass Walker Tribebook Revised.
 
-**Intermediate**
+**Intermediate Gifts**
 - **Cooling System** - As Wendigo Gift Chill of the Early Frost.
 - **Universal Interface** - Per Glass Walker Tribebook Revised.
 
-**Advanced**
+**Advanced Gifts**
 - **Phone Travel** - Superseded by Signal Rider.
 
 ## Wise Guys
-**Basic**
+**Basic Gifts**
 - **Tommy’s New Trick** - Spend 1 Gnosis. Firearms challenge vs multiple targets. Spend Willpower to turn failures into single target success.
 - **Mother’s Touch** - Per Theurge Gift.
 - **Image of the Saints** - Per Glass Walker Tribebook Revised.
 - **Garafena’s Crown** - Superseded by Hands Full of Thunder.
 
-**Intermediate**
+**Intermediate Gifts**
 - **Corner Shot** - Per Glass Walker Tribebook Revised.
 - **Whispers on the Street** - Per Glass Walker Tribebook Revised.
 - **Umbral Motorcade** - Per Glass Walker Tribebook Revised.
 
-**Advanced**
+**Advanced Gifts**
 - **Family Debt** - Per Glass Walker Tribebook Revised.
 -----
 <p align="center" style="background-color: #000; padding: 20px;">
