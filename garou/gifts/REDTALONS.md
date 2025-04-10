@@ -5,7 +5,7 @@
 [← Back to Gifts](./README.md)
 
 -----
-## ● Basic
+## Basic
 - **Aura of Ferocity** (WWW) - Per the Intermediate Wild West Lupus Gift *Wyld Ferocity*.
 - **Beast Speech** (LOTWR) - Per the Galliard Gift.
 - **Beastmind** (LOTWR) - Per LOTWR.
@@ -24,7 +24,7 @@
 - **Water Sense** (WWC) - Static Mental Challenge (retest Survival, diff 6). Detects water sources within 100 yards +100 per Mental Trait spent.
 - **Wolf at the Door** (LOTWR) - Per LOTWR.
 
-## ● Intermediate
+## Intermediate
 - **Avalanche** (WtA2) - Spend 1 Gnosis, Social Challenge (retest Survival). Triggers avalanche/mudslide based on terrain and Traits spent.
 - **Dust Squall** (WWW) - Spend 1 Gnosis, Static Social Challenge (retest Primal-Urge, diff 12). Blinds and penalizes foes for 1 turn +1 per Social Trait spent.
 - **Elemental Favor** (LOTWR) - Per LOTWR.
@@ -42,7 +42,7 @@
 - **Territory / Predator’s Many Eyes** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
 - **Trackless Waste** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
 
-## ● Advanced
+## Advanced
 - **Blessing of the First Pack** (Red Talon Tribebook Revised) - Per Revised, except tempers gained increase rating.
 - **Curse of Lycaon** (LOTWR) - Per LOTWR.
 - **Gaia’s Vengeance** (LOTWR) - Per LOTWR.
