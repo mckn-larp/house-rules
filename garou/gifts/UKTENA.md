@@ -35,8 +35,6 @@
 - **Strut** — _Uktena Tribebook Revised_
 - **Uktena’s Freezing Stare** — _Uktena Tribebook Revised_
 
----
-
 ## Intermediate Gifts
 
 - **Banish Totem** — _LOTWR_
@@ -66,8 +64,6 @@
 - **Wisdom of the Ancient Ways** — _See: Philodox gift_
 - **Wyrm Whispers** — Mental, retest Enigmas. Detect Wyrm minds, may cause derangement or taint.
 
----
-
 ## Advanced Gifts
 
 - **Call on Ancient Medicine** — _LOTWW_, use Ancestors in place of Past Lives.
@@ -87,29 +83,21 @@
 **Intermediate Gifts**
 - **Strength of the Guardian** — Gnosis challenge. Boost Strength, Stamina, Charisma, etc. Traits lost afterward.
 
----
-
 ### Earth Guides
 
 **Intermediate Gifts**
 - **Ancestral Recall** — Mental, retest Enigmas. Spend Mental + 1 Gnosis to access lost tribal lore.
 - **Bare the Heart** — Gnosis + Mental (Empathy). Reveals masks, corruption, and intent of target.
 
----
-
 ### Scouts
 
 **Basic Gifts**
 - **Fast Track** — Static Physical, retest Athletics. Makes forced march without exhaustion.
 
----
-
 ### Skywalkers
 
 **Basic Gifts**
 - **Umbral Compass** — Static Mental, retest Survival. Lowers Gauntlet diff or helps pathfind. Failure risks being trapped.
-
----
 
 ### Wyld Children
 
