@@ -5,7 +5,7 @@
 [← Back to Gifts](./README.md)
 
 -----
-## ● Basic
+## Basic
 - **Control Simple Machine** (LOTWR) - Per LOTWR.
 - **Cybersenses** (LOTWR) - The machine or item that has the sense you wish to exchange must be in nearby vicinity.
 - **Heat Metal** (LOTWRed) - Spend a Gnosis trait to drastically heat a small visible object. Resolve with simple test; deals 5 agg, can destroy non-magical items.
@@ -29,7 +29,7 @@
 - **Trick Shot** (LOTWR) - Add twice rank instead of Glory traits.
 - **Weaver’s Eyes** (BoC) - Willpower + Mental Challenge (diff 10 – Gauntlet, retest Computers) to crack encryption, even magical.
 
-## ● Intermediate
+## Intermediate
 - **Attunement** (LOTWR) - Per Bone Gnawer Gift.
 - **Call the City’s Wolves** (BoC) - Spend 1 Rage, Mental challenge (diff 7, retest Leadership). Summon 1–4 urban allies.
 - **Camera Eye** (WPG) - Spend 1 Gnosis. Mental challenge (Investigation, diff 10) to record visual memory.
@@ -51,7 +51,7 @@
 - **Virtual Umbra** (Umbra) - Spend 1 Gnosis. Static Mental challenge (diff 8 or 10 if with group) to enter Cyber Realm.
 - **Web Walker** (Umbra/W20) - Per Theurge gift.
 
-## ● Advanced
+## Advanced
 - **Calm the Flock** (W20) - Static Social challenge (retest Subterfuge). Hide Delirium/Curse effects for 1 hour per social trait.
 - **Chaos Mechanics** (LOTWR) - Per LOTWR.
 - **Custom Built** (Glass Walker Tribebook Revised) - Per Glass Walker Tribebook Revised.
