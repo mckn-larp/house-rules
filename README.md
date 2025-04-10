@@ -22,9 +22,8 @@ Our chronicle uses the [**Western Shore House Rules**] as our **baseline ruleset
 
 This repository outlines those local rulings. If a rule or mechanic is not specifically mentioned here, please refer to the **Western Shore House Rules** for guidance.
 
-⚠️ **All rules are subject to change at storyteller discretion.** When in doubt, contact staff.
+> ⚠️ **All rules are subject to change at storyteller discretion.** When in doubt, contact staff.
 
----
 
 ## Rule Sections
 
@@ -57,9 +56,10 @@ Click on each section below to view our local rulings and clarifications:
 - [**Disciplinary Policy**](./discipline/README.md)  
   Chronicle Discpline policies.
 
-
----
-
 If you have questions about any rule listed here or would like to propose a clarification or update, please open a [Discussion](https://github.com/mckn-larp/house-rules/discussions) or speak with a storyteller directly.
 
 Let’s keep Knoxville dark, strange, and unforgettable.
+-----
+<p align="center" style="background-color: #000; padding: 20px;">
+  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
+</p>
