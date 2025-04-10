@@ -5,7 +5,7 @@
 [← Back to Gifts](./README.md)
 
 -----
-## ● Basic
+## Basic
 - **Aura of Confidence** (LOTWR) - Per LOTWR.
 - **Aura of Nobility** (WWC) - Spend 1 Gnosis to negate one loss of Honor, once per session.
 - **Clap of Thunder** (LOTWR) - Per LOTWR. Difficulty 8.
@@ -24,7 +24,7 @@
 - **Storm Winds Slash** (Hakken) - Per *Hengeyokai MET*, weapon deals base mundane lethal damage.
 - **Whisper Catching** (Shadow Lord Tribebook Revised) - Per Shadow Lord Tribebook Revised.
 
-## ● Intermediate
+## Intermediate
 - **Call the Storm** (Shadow Lord Tribebook Revised) - Per Shadow Lord Tribebook Revised.
 - **Curse of Corruption** (PG2) - Spend 1 Willpower + Gnosis Challenge (Subterfuge). Victim sounds untrustworthy for the scene.
 - **Dark of Night** (Hakken) - Per *Hengeyokai MET*.
@@ -44,7 +44,7 @@
 - **Under the Gun** (W20) - Spend 1 Gnosis + Social Challenge (retest Firearms). Target takes 4-trait penalty dodging projectiles for 1 day per Social Trait spent.
 - **Unwitting Pawn** (WWC) - Spend 1 Gnosis per day to cultivate a target’s loyalty. Can evolve into obsession over time.
 
-## ● Advanced
+## Advanced
 - **Divine Wind** (Hakken) - Per *Hengeyokai MET*.
 - **Obedience** (LOTWR) - Per LOTWR.
 - **Shadow Pack** (LOTWR) - Per LOTWR.
