@@ -41,13 +41,69 @@ At **Knoxville: Marble City**, we are committed to fostering a **respectful, inc
 - **Accountability and forgiveness** both have a place in our culture.
 
 ## Consent is Key
-Character actions are never more important than real life people.
 
-While we play in a World of Darkness, and this game will explore a wide variety of adult and horrible themes, we all have a responsibility to ensure that our fellow players are comfortable with the material presented.  Every person has their own tolerance, and their own lines in the sand, and it is the duty of other players and staff to be respectful of that.  During scenes involving any controversial material, staff will Check-In with the players as things progress to ensure that no one is being pushed outside of their comfort zone.  Likewise, when engaging in PvP actions or controversial roleplay, players may be advised to change the nature of their actions, should other players be made uncomfortable by them.  This is not removing consequences of roleplay, but rather altering aspects of it so that we are all still having fun with a game.  No one wants to be traumatized by their hobby.
+**Character actions are never more important than real-life people.**
 
-At any time, players may withdraw their consent for being in a scene, interaction or circumstances, and be allowed to leave.  Storytellers will determine the effect on their characters, if any, and may change the actions of anyone within a scene as necessary.  While we apologize to any other players impacted by those changes, this policy is not negotiable.
+While we play in a *World of Darkness*, and this chronicle explores a wide range of intense and mature themes, we all share the responsibility to ensure that every player feels respected, safe, and comfortable. Individual boundaries vary, and it is the duty of both players and staff to uphold them.
 
-Again, this is not a means of avoiding consequences, but rather that we play in a game where the only limit is our imaginations, and so consequences can be changed to suit individual needs.  If a player has personal issues being subject to Specific Situation X, we can all imagine doing literally anything else.  We all deserve a game that makes us feel welcome and valued, and it is all of our responsibility to provide that to one another.
+During scenes involving emotionally charged, violent, or controversial subject matter, staff will perform *Check-Ins* with participants to ensure everyone is comfortable with the direction and tone of the roleplay. Likewise, in moments of PvP (Player vs. Player) conflict or distressing interactions, players may be asked to adjust the nature of their actions if they are making others uncomfortable. This is not about removing consequences—it’s about adapting them to keep the game safe, fun, and immersive for all.
+
+
+**Withdrawing Consent from a Scene**
+
+At any time, a player may **withdraw their consent** from a scene, interaction, or environment they no longer wish to be part of. No justification is required. If this occurs:
+
+- **The player will be allowed to step out immediately.**
+- **Storytellers will determine the results for the character**, including how they exit the scene and what consequences (if any) follow.
+
+These outcomes may include:
+
+- The character being placed under “follow mode” (present but directed by STs).
+- Scene adjustments or retcons that preserve player well-being while keeping narrative flow.
+- Application of realistic consequences — **including injury, disappearance, or character death** — if such outcomes are appropriate for the in-game circumstances.
+
+Storytellers will always consider the narrative, context, and character history—but stepping away from a scene does **not** protect a character from logical danger. The world continues, even if the player must step away.
+
+This policy is **non-negotiable**. Player safety comes first. The Storytellers are empowered to make decisions that preserve that safety while maintaining continuity for everyone else at the table.
+
+
+**This Is Not a Way to Avoid Consequences**
+
+This is **not** a loophole to avoid danger, escape conflict, or "pause" the game. It is a **creative fail-safe** that ensures we tell collaborative, respectful stories that adapt to real-life needs.
+
+- If you’re uncomfortable with a theme, we’ll find another path.
+- If a situation is too intense, we’ll handle it discreetly.
+- If you step away from the story, it doesn’t freeze around your absence.
+
+Consequences will still exist. They may simply be handled differently, behind the scenes, or off-camera. No one gets a free pass, but no one gets punished for caring for themselves, either.
+
+**Death Tax: When a Character Is Removed from Play**
+
+Our game encourages deep roleplay and long-term storytelling. Removing another player’s character from the game—whether by death, banishment, or permanent harm—should be a **last resort**, not a shortcut to solve a conflict.
+
+As such, any time a **player character permanently removes another player character** from play, a **Death Tax** may be applied:
+
+- The aggressor may lose **0% t0 25% of the XP total of the character they removed**, depending on circumstances and ST judgment.
+- This may include **XP deduction**, **loss of items, powers, or Influence**, or other narrative setbacks.
+- This applies to **death**, **banishment**, **permanent incapacitation**, or any similar outcome that makes a character unplayable in this game.
+
+The tax is based on:
+
+- The aggressor’s **in-character justification** for the action.
+- The **effort made to resolve the issue through roleplay** before reaching for violence.
+- The **tone and conduct of the scene** (i.e., was it dramatic storytelling or out-of-game frustration?).
+
+**This policy exists to protect characters as story assets, not invulnerability.** Sometimes a character must die—but it should mean something.
+
+**TL;DR**
+
+- Players may leave a scene at any time.
+- Storytellers will resolve the results for the character—and those results **may include death**.
+- Players who remove other characters from play may be taxed XP or resources depending on the circumstances.
+- The goal is always immersive consequence, not mechanical punishment.
+- Player safety comes first. The story comes next.
+
+Everyone deserves a game where they feel **welcome, valued, and safe**—even while playing monsters. We build that environment together, with care, flexibility, and respect for both the story and each other.
 
 ## A Shared Love of the Game
 
