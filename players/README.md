@@ -49,7 +49,7 @@ While we play in a *World of Darkness*, and this chronicle explores a wide range
 During scenes involving emotionally charged, violent, or controversial subject matter, staff will perform *Check-Ins* with participants to ensure everyone is comfortable with the direction and tone of the roleplay. Likewise, in moments of PvP (Player vs. Player) conflict or distressing interactions, players may be asked to adjust the nature of their actions if they are making others uncomfortable. This is not about removing consequences—it’s about adapting them to keep the game safe, fun, and immersive for all.
 
 
-**Withdrawing Consent from a Scene**
+### Withdrawing Consent from a Scene
 
 At any time, a player may **withdraw their consent** from a scene, interaction, or environment they no longer wish to be part of. No justification is required. If this occurs:
 
@@ -67,7 +67,7 @@ Storytellers will always consider the narrative, context, and character history�
 This policy is **non-negotiable**. Player safety comes first. The Storytellers are empowered to make decisions that preserve that safety while maintaining continuity for everyone else at the table.
 
 
-**This Is Not a Way to Avoid Consequences**
+### This Is Not a Way to Avoid Consequences
 
 This is **not** a loophole to avoid danger, escape conflict, or "pause" the game. It is a **creative fail-safe** that ensures we tell collaborative, respectful stories that adapt to real-life needs.
 
@@ -77,7 +77,7 @@ This is **not** a loophole to avoid danger, escape conflict, or "pause" the game
 
 Consequences will still exist. They may simply be handled differently, behind the scenes, or off-camera. No one gets a free pass, but no one gets punished for caring for themselves, either.
 
-**Death Tax: When a Character Is Removed from Play**
+### Death Tax: When a Character Is Removed from Play
 
 Our game encourages deep roleplay and long-term storytelling. Removing another player’s character from the game—whether by death, banishment, or permanent harm—should be a **last resort**, not a shortcut to solve a conflict.
 
@@ -95,7 +95,7 @@ The tax is based on:
 
 **This policy exists to protect characters as story assets, not invulnerability.** Sometimes a character must die—but it should mean something.
 
-**TL;DR**
+### TL;DR
 
 - Players may leave a scene at any time.
 - Storytellers will resolve the results for the character—and those results **may include death**.
