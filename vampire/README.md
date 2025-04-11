@@ -33,7 +33,7 @@ While these clans are mechanically available, players are strongly encouraged to
 - **Toreador Antitribu**
 - **Tzimisce**
 
-> \# Requires a background submission if the character will have **Blood Magic**, per chronicle policy.
+> Requires a background submission if the character will have **Blood Magic**, per chronicle policy.
 
 ---
 
