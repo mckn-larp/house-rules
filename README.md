@@ -52,7 +52,8 @@ Click on each section below to view our local rulings and clarifications:
 
 If you have questions about any rule listed here or would like to propose a clarification or update, please open a [Discussion](https://github.com/mckn-larp/house-rules/discussions) or speak with a storyteller directly.
 
-Let’s keep Knoxville dark, strange, and unforgettable.
+> Let’s keep Knoxville dark, strange, and unforgettable.
+
 -----
 <p align="center" style="background-color: #000; padding: 20px;">
   <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
