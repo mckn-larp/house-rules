@@ -25,7 +25,6 @@ Let’s tell an unforgettable story — together.
 ## Code of Conduct
 At **Knoxville: Marble City**, we are committed to fostering a **respectful, inclusive, and collaborative environment** for all players, staff, and guests. The strength of our chronicle lies in the shared passion we all bring to the World of Darkness — and in the way we treat one another both in and out of character.
 
-
 ## How We Treat Each Other
 
 - We speak and act with **respect**, even in disagreement.
@@ -41,6 +40,14 @@ At **Knoxville: Marble City**, we are committed to fostering a **respectful, inc
 - Our community is at its best when we act in the spirit of **collaboration, not competition**.
 - **Accountability and forgiveness** both have a place in our culture.
 
+## Consent is Key
+Character actions are never more important than real life people.
+
+While we play in a World of Darkness, and this game will explore a wide variety of adult and horrible themes, we all have a responsibility to ensure that our fellow players are comfortable with the material presented.  Every person has their own tolerance, and their own lines in the sand, and it is the duty of other players and staff to be respectful of that.  During scenes involving any controversial material, staff will Check-In with the players as things progress to ensure that no one is being pushed outside of their comfort zone.  Likewise, when engaging in PvP actions or controversial roleplay, players may be advised to change the nature of their actions, should other players be made uncomfortable by them.  This is not removing consequences of roleplay, but rather altering aspects of it so that we are all still having fun with a game.  No one wants to be traumatized by their hobby.
+
+At any time, players may withdraw their consent for being in a scene, interaction or circumstances, and be allowed to leave.  Storytellers will determine the effect on their characters, if any, and may change the actions of anyone within a scene as necessary.  While we apologize to any other players impacted by those changes, this policy is not negotiable.
+
+Again, this is not a means of avoiding consequences, but rather that we play in a game where the only limit is our imaginations, and so consequences can be changed to suit individual needs.  If a player has personal issues being subject to Specific Situation X, we can all imagine doing literally anything else.  We all deserve a game that makes us feel welcome and valued, and it is all of our responsibility to provide that to one another.
 
 ## A Shared Love of the Game
 
