@@ -3,10 +3,17 @@
 [← Back to Chronicle Rules](../README.md)  
 
 -----
+## Additional Resources
 
-This section outlines the specific process for creating **Sabbat Vampire characters** in the *Knoxville: Marble City* chronicle. It replaces and updates prior Vampire-specific creation sections and brings Sabbat-specific systems in line with current play guidelines and OWBN approval processes.
+- [**Disciplines**](./DISCIPLINES.md)
+- [**Blood Magics**](./BLOOD-MAGIC.md)
+- [**Paths of Enlightenment**](./PATHS.md)
+- [**Ritae**](./RITAE.md)
+- [**Status**](./STATUS.md)
 
 -----
+
+This section outlines the specific process for creating **Sabbat Vampire characters** in the *Knoxville: Marble City* chronicle. It replaces and updates prior Vampire-specific creation sections and brings Sabbat-specific systems in line with current play guidelines and OWBN approval processes.
 
 ## Character Creation Steps
 
@@ -111,15 +118,6 @@ If your concept involves something not listed above, **please work with staff** 
 
 -----
 
-## Additional Resources
-
-- [**Disciplines**](./DISCIPLINES.md)
-- [**Blood Magics**](./BLOOD-MAGIC.md)
-- [**Paths of Enlightenment**](./PATHS.md)
-- [**Ritae**](./RITAE.md)
-- [**Status**](./STATUS.md)
-
------
 <p align="center" style="background-color: #000; padding: 20px;">
   <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
 </p>
