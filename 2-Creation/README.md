@@ -1,10 +1,12 @@
 # CHARACTER CREATION RULES
 
-[← Back to Chronicle Rules](../README.md)  
-
 -----
 
+[Vampire Creation Steps](../4-Vampire/README.md#character-creation-steps)  
+[Garou Creation Steps](../5-Garou/README.md#character-creation-steps)  
+[Changling Creation Steps](../6-Changeling/README.md#character-creation-steps)  
 
+## General Creation Rules
 
 -----
 <p align="center" style="background-color: #000; padding: 20px;">

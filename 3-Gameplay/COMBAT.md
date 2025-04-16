@@ -1,8 +1,5 @@
 # Combat Rules & Mechanics
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 ## Storyteller Oversight
@@ -180,7 +177,54 @@ Only **one retest per source** is allowed per challenge. Sources include:
 
 ---
 
-Let me know if you’d like this broken further into collapsible sections for GitHub or split by phase of combat (e.g., pre-round, resolution, post-round) for even easier use at the table or online.
+
+## Mass Combat Rules
+
+These rules outline the structure, etiquette, and mechanical systems in place during large-scale combat scenarios.
+
+---
+
+## Player Responsibilities During Combat
+
+- **Know your declared number of traits** before throwing a challenge.
+- Be able to **explain where your traits come from** if asked by an ST.
+- **Know your action** before your turn in initiative.
+- Be **prompt** and **avoid unnecessary chatter** during combat.
+- **Do not coach other players** on how to run their sheets.
+- **Ask rules questions to the ST** only — not to other players.
+- **Know your damage output** and its sources. Be able to explain this to an ST.
+  - Players may ask STs about **other players’ combat stats** (not directly to other players).
+
+---
+
+## Initiative & Turn Order
+
+- **Initiative is based solely on Initiative traits** (Attribute traits, Tempers, and Initiative-modifying stats).
+- Unless a power or effect **explicitly modifies initiative**, it does not apply.
+
+---
+
+## Challenges & Retests
+
+- You may only have **one retest per category**, unless otherwise noted.
+
+### Retest Categories:
+- **Ability**
+- **Gift**
+- **Fetish**
+- **Rite**
+- **Merit**
+- **Tribal Advantage**
+- **Temper**
+
+---
+
+## Damage Reduction (Armor & Similar Effects)
+
+- **Flat damage reduction effects do not function as per book.**
+- Instead, they provide **temporary Healthy health levels** equal to the stated reduction value.
+  - These health levels **refresh at the beginning of the next round**, unless stated otherwise in house rules.
+  - They can be **damaged like normal health levels**.
 
 -----
 <p align="center" style="background-color: #000; padding: 20px;">

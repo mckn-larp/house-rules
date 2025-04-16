@@ -1,7 +1,5 @@
 # COSMOLOGY AND THE UMBRA
 
-[← Back to Chronicle Rules](../README.md)  
-
 -----
 
 

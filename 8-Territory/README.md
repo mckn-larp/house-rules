@@ -1,7 +1,5 @@
 # TERRITORIES
 
-[← Back to Chronicle Rules](../README.md)  
-
 -----
 
 **Counties**

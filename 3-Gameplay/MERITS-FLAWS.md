@@ -1,8 +1,5 @@
 # Merits, Flaws, and Additional Mechanics
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 ## Merits

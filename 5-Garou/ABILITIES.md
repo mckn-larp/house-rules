@@ -1,8 +1,5 @@
 # Abilities
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 All **non-Garou** and **non–Changing Breed-specific abilities** are **subject to Storyteller approval**.
@@ -151,7 +148,7 @@ Used to represent **instinctive insight** and "sixth sense" reasoning.
 
 ---
 
-### Lore (General & Triatic)
+### Lore *(General & Triatic)*
 
 - Most Lores are **Storyteller-gated**
 - **Lores over 3** require a learning source

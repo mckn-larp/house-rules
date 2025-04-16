@@ -1,9 +1,5 @@
 # GIFTS: BREED
 
-[← Back to Chronicle Rules](../../README.md)  
-[← Back to Garou rules](../README.md)  
-[← Back to Gifts rules](./README.md)
-
 -----
 
 This document details Breed-specific Gifts, sorted by Breed and Level. Click a link below to jump to a specific section:

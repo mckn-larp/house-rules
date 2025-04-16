@@ -1,9 +1,5 @@
 # Black Spiral Dancer Gifts
 
-[← Back to Chronicle Rules](../../README.md)  
-[← Back to Genre rules](../README.md)  
-[← Back to Gifts](./README.md)
-
 -----
 ## Basic Gifts
 - **Bane Protector** (Wyrm)
@@ -22,31 +18,31 @@
 ## Advanced Gifts
 - **Totem Form** (Wyrm)
 
-# Ragabash Gifts
-## Basic Gifts
+## Ragabash Gifts
+### Basic Gifts
 - **Defise Tension** (Wyrm)
-## Intermediate Gifts
+### Intermediate Gifts
 - **Touch of the Eel** (Wyrm)
 
-# Theurge Gifts
-## Basic Gifts
+## Theurge Gifts
+### Basic Gifts
 - **Distract Spirit** (Wyrm)
-## Intermediate Gifts
+### Intermediate Gifts
 - **Blood Omen** (Wyrm)
 
-# Philodox Gifts
-## Basic Gifts
+## Philodox Gifts
+### Basic Gifts
 - **Smell Fear** (Wyrm)
 - **A Thousand Voices** (Wyrm)
 
-# Galliard Gifts
-## Basic Gifts
+## Galliard Gifts
+### Basic Gifts
 - **Cover Scent** (Wyrm)
-## Intermediate Gifts
+### Intermediate Gifts
 - **Allies Below** (Wyrm)
 
-# Ahroun Gifts
-## Basic Gifts
+## Ahroun Gifts
+### Basic Gifts
 - **Horns of the Impaler** (Wyrm)
 
 

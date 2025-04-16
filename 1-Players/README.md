@@ -1,7 +1,5 @@
 # PLAYER POLICIES AND THE SHARED WORLD
 
-[← Back to Chronicle Rules](../README.md)  
-
 -----
 
 Our chronicle thrives on **collaboration, respect, and shared storytelling**. Every scene, every interaction, and every moment of drama is made possible because of the players — and that includes our staff.

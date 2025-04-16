@@ -1,8 +1,5 @@
 # Item Rules & Crafting Guidelines
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 This section outlines the policies for item usage, magic item handling, and crafting within the Knoxville: Marble City chronicle. All items must be registered and approved by staff before gameplay.
@@ -13,14 +10,14 @@ This section outlines the policies for item usage, magic item handling, and craf
 
 You are limited to **5 items per category** at any given time. Items must be recorded on index cards, with **three separate cards** for the following item types:
 
-### 1. **Major Items**
+### 1. Major Items
 These create **permanent magical effects** and include:
 - Fetishes
 - Mage Talismans
 - Mage Enchantments
 - Vampiric Blood Magic Wards
 
-### 2. **Minor Items**
+### 2. Minor Items
 These create **one-time magical effects** and include:
 - Kyasid Potions
 - Incantation Items
@@ -29,7 +26,7 @@ These create **one-time magical effects** and include:
 
 > **Note**: A blood bead item card counts as one item. Check with staff for quantity limits.
 
-### 3. **Mundane Items**
+### 3. Mundane Items
 These are non-magical and include:
 - Vehicles
 - Regular Weapons (e.g., stakes)

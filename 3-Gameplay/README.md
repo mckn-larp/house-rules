@@ -1,7 +1,5 @@
 # GAMEPLAY: RULES REFERENCE AND NOTES
 
-[← Back to Chronicle Rules](../README.md)  
-
 -----
 
 Welcome to the Knoxville: Marble City gameplay reference. These documents contain local chronicle rulings and clarifications built on top of the Mind's Eye Theatre and Western Shore ruleset.

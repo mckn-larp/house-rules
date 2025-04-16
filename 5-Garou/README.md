@@ -1,7 +1,5 @@
 # GAROU & CHANGING BREEDS SPECIFIC RULES
 
-[← Back to Chronicle Rules](../README.md)  
-
 -----
 ## Additional Resources
 

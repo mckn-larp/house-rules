@@ -1,8 +1,5 @@
 # Status & Reputation
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 

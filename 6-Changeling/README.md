@@ -1,8 +1,5 @@
 # CHANGELING SPECIFIC RULES
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 - [**Abilities**](./ABILITIES.md)

@@ -1,9 +1,5 @@
 # Silver Fang Gifts
 
-[← Back to Chronicle Rules](../../README.md)  
-[← Back to Genre rules](../README.md)  
-[← Back to Gifts](./README.md)
-
 -----
 ## Basic Gifts
 - **Awe** (WtA2) – Static Social challenge (retest Empathy) vs target’s Willpower. Success grants +1 Social trait on challenges vs the target, and target is -1 trait to hit the Garou.

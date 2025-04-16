@@ -1,9 +1,5 @@
 # GIFTS & RITES
 
-[← Back to Chronicle Rules](../../README.md)  
-[← Back to Garou rules](../README.md)  
-[← Back to Gifts rules](./README.md)
-
 -----
 
 [**Breed Gifts**](./BREED.md)  

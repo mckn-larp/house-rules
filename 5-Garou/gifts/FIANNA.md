@@ -1,9 +1,5 @@
 #  Fianna Gifts
 
-[← Back to Chronicle Rules](../../README.md)  
-[← Back to Genre rules](../README.md)  
-[← Back to Gifts](./README.md)
-
 -----
 
 ## Basic Gifts

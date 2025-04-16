@@ -1,11 +1,6 @@
 # Merits & Flaws
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
-# Merits & Flaws
-
 This section covers special traits that provide characters with advantages (**Merits**) or disadvantages (**Flaws**). These traits are designed to enhance roleplay and mechanical diversity.
 
 ---
@@ -89,7 +84,7 @@ These merits introduce roleplaying and mechanical advantages. Some require ST ap
 
 ---
 
-### Merits (Alphabetical)
+### Merits *(Alphabetical)*
 
 - **Animal Magnetism (2 pt)**  
   +3 bonus traits to attract others, as described in the book.
@@ -325,7 +320,7 @@ These flaws introduce roleplaying and mechanical challenges. Some require ST app
 
 ---
 
-### Flaw List (Alphabetical)
+### Flaw List *(Alphabetical)*
 
 - **Amnesia (2 pt)**  
   Player builds base sheet. ST assigns additional character creation points based on conversation.

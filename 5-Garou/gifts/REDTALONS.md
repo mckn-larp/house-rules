@@ -1,9 +1,5 @@
 # Red Talons Gifts
 
-[← Back to Chronicle Rules](../../README.md)  
-[← Back to Genre rules](../README.md)  
-[← Back to Gifts](./README.md)
-
 -----
 ## Basic
 - **Aura of Ferocity** (WWW) - Per the Intermediate Wild West Lupus Gift *Wyld Ferocity*.

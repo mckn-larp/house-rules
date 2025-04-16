@@ -1,9 +1,5 @@
 # Bone Gnawers Gifts
 
-[← Back to Chronicle Rules](../../README.md)  
-[← Back to Genre rules](../README.md)  
-[← Back to Gifts](./README.md)
-
 -----
 
 > **Note:** Patrol gifts are done via Storyteller only. Spirit Players do not exist in this chronicle.

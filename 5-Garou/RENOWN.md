@@ -1,8 +1,5 @@
 # Renown & Rank
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 This section explains how characters progress in Rank, how Renown is handled, and how to track your eligibility over time.

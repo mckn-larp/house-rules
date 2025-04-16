@@ -1,8 +1,5 @@
 # Disciplines & Combination Powers
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 ---
 
 Unless otherwise noted below, all **Disciplines** and **Combination Powers** will be run according to their most recent **Mind’s Eye Theatre (MET)** write-up.
@@ -20,7 +17,7 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 
 ---
 
-## Discipline Rulings (Alphabetical)
+## Discipline Rulings *(Alphabetical)*
 
 ### Animalism
 **Quell the Beast**  
@@ -49,7 +46,7 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 
 ### Fortitude
 **Aegis** *(Provisional Rule)*  
-- Aegis negates all damage taken **before and after** declaration.  
+- Aegis negates all damage taken **before and after** declaration *for the current round only*.  
 - Carrier attacks that require damage to resolve are considered to have **failed**.
 
 ### Obtenebration
@@ -100,7 +97,7 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 
 ---
 
-## Combination Powers (Alphabetical)
+## Combination Powers *(Alphabetical)*
 
 ### Alpha Glint
 - The invoker is considered the **defender in trait comparison ties**.  

@@ -1,8 +1,5 @@
 # Backgrounds
 
-[← Back to Chronicle Rules](../README.md)  
-[← Back to Genre rules](./README.md)
-
 -----
 
 This section outlines specific rulings, exceptions, and clarifications for Backgrounds in play. Refer to appropriate sourcebooks for mechanics unless otherwise specified.
