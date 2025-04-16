@@ -1,12 +1,10 @@
 # Combat Rules & Mechanics
-
------
+--
 
 ## Storyteller Oversight
 
 Once you have signed in, you are under the control of the Storyteller (ST) staff until the end of that game. Unique situations may require this control to extend longer.
 
----
 
 ## General Combat Rules
 
@@ -14,20 +12,16 @@ Once you have signed in, you are under the control of the Storyteller (ST) staff
 - Hard Trait Cap for PCs: 30 (applies in and out of combat).
 - All activations must be declared in the presence of a storyteller.
 
----
 
 ## Buffs
 
 - Only **chronicle-controlled NPCs** may provide buffs to PCs.
 - **Retainers** must have an approved sheet on file to be valid sources of buffs.
 
----
+## Initiative & Turn Order
 
-## Initiative
-
-Initiative = **Base Traits + Named Traits** from applicable sources.
-
----
+- Initiative = **Base Traits + Named Traits** from applicable sources.
+- Unless a power or effect **explicitly modifies initiative**, it does not apply.
 
 ## Combat Order of Operations (Per Round)
 
@@ -50,7 +44,6 @@ Initiative = **Base Traits + Named Traits** from applicable sources.
     - Shroud
     - Shapechanging
 
----
 
 ## Shapechanging Activation Times
 
@@ -61,14 +54,15 @@ Initiative = **Base Traits + Named Traits** from applicable sources.
 | Tenebrous Form       | —    | 3 rounds, full concentration |
 | Feral Claws          | 1B   | End of round     |
 | Shape of the Beast   | 1B   | 3 rounds         |
-|                      | 2B   | 2 rounds         |
-|                      | 3B   | 1 round          |
+|    ^^                | 2B   | 2 rounds         |
+|    ^^                | 3B   | 1 round          |
 | Mist Form            | 1B   | 3 rounds         |
-|                      | 2B   | 2 rounds         |
-|                      | 3B   | 1 round          |
+|    ^^                | 2B   | 2 rounds         |
+|    ^^                | 3B   | 1 round          |
 | Ashes to Ashes       | 2B   | 1 round, full concentration |
 | Horrid Form          | 2B   | End of round     |
 | Elemental Form       | —    | Immediate on activation |
+| CB Form Shift        | —    |  |
 
 **Elemental Form bonuses:**
 - Fire: +1 aggravated damage in Brawl
@@ -76,13 +70,11 @@ Initiative = **Base Traits + Named Traits** from applicable sources.
 - Air: Free retest on stealth
 - Water: +2 steps of movement per action
 
----
 
 ## Rule of Five
 
 Any game mechanic with a variable trait expenditure is capped at **5 traits max**, unless otherwise specified by a published rule. STs may override this.
 
----
 
 ## Carrier Attacks
 
@@ -108,7 +100,6 @@ Carrier attacks are:
 - Hands of Destruction: Atrophy
 - Any Ritual requiring touch
 
----
 
 ## Additional Defenses
 
@@ -122,31 +113,41 @@ Defenders may spend **1 additional Temporary Willpower** to retest the following
 - Mastery of the Mortal Shell: Body Failure
 - Path of Du’at: Consignment to Du’at
 
----
 
 ## Ties in Challenges
 
 When a trait total tie occurs:
 - Each party may add their **permanent levels of one appropriate Ability**.
+- Adding traits **only** applies on challenges that tie on trait totals
 
 **Example**:  
 Bob (attacker) may add **Brawl**. Tina (defender) may add **Dodge**.
 
-Additional resources for tie resolution:
-- Weapon stats
-- Specializations
+Additional resources for traits in challenge resolution:
+- Weapon stats **(limit one item)**
+- Specializations **(limit one specialization)**
 - Merits
 - Disciplines
-- Magic Items
+- Magic Items **(limit one item)**
+
+### Retest Categories:
+- **Ability**
+- **Gift**
+- **Fetish**
+- **Rite**
+- **Merit**
+- **Tribal Advantage**
+- **Temper**
+
 
 **Auspex vs. Obfuscate Tie**:  
 - Add **levels of Auspex + Investigation** for detection  
 - Add **levels of Obfuscate + Stealth** for concealment  
 - Each level = +1 Trait
+- Combination powers **do not** add levels above the core discipline
 
 If both parties have **"Win on Ties"**, it is treated as if neither has it.
 
----
 
 ## Bidding Addendum
 
@@ -157,7 +158,6 @@ Allowed to exceed the cap:
 - Pater Szlachta
 - Other ST-approved powers or merits
 
----
 
 ## Retests
 
@@ -175,14 +175,12 @@ Only **one retest per source** is allowed per challenge. Sources include:
 
 **Magical effect retests (e.g., Fascination)** can only be used **once per challenge**.
 
----
 
 
 ## Mass Combat Rules
 
 These rules outline the structure, etiquette, and mechanical systems in place during large-scale combat scenarios.
 
----
 
 ## Player Responsibilities During Combat
 
@@ -195,29 +193,13 @@ These rules outline the structure, etiquette, and mechanical systems in place du
 - **Know your damage output** and its sources. Be able to explain this to an ST.
   - Players may ask STs about **other players’ combat stats** (not directly to other players).
 
----
 
-## Initiative & Turn Order
 
-- **Initiative is based solely on Initiative traits** (Attribute traits, Tempers, and Initiative-modifying stats).
-- Unless a power or effect **explicitly modifies initiative**, it does not apply.
-
----
 
 ## Challenges & Retests
 
 - You may only have **one retest per category**, unless otherwise noted.
 
-### Retest Categories:
-- **Ability**
-- **Gift**
-- **Fetish**
-- **Rite**
-- **Merit**
-- **Tribal Advantage**
-- **Temper**
-
----
 
 ## Damage Reduction (Armor & Similar Effects)
 
@@ -225,8 +207,7 @@ These rules outline the structure, etiquette, and mechanical systems in place du
 - Instead, they provide **temporary Healthy health levels** equal to the stated reduction value.
   - These health levels **refresh at the beginning of the next round**, unless stated otherwise in house rules.
   - They can be **damaged like normal health levels**.
-
------
+--
 <p align="center" style="background-color: #000; padding: 20px;">
   <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
 </p>

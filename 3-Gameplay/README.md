@@ -17,7 +17,13 @@ Refer to the sections below for detailed information:
 - Humanity 6 or higher: "Humane"
 - Humanity 4 or lower or Path: "Inhumane"
 
-These may be masked with Rituals, Obfuscate, or relevant abilities.
+These may be masked with Rituals, Obfuscate, or relevant abilities when approved by staff
+
+### Garou & Changing Breeds Characters
+- Your current form
+
+### Changeling Characters
+
 
 ### Tag Required for Visible Traits
 - Beast Traits or Monstrous Features
