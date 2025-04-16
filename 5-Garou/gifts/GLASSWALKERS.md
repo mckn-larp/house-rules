@@ -47,7 +47,7 @@
 - **Tech Speak** (Glass Walker Tribebook Revised) - Per Glass Walker Tribebook Revised.
 - **Ten Thousand Bullets** (LOTWW) - Per LOTWW.
 - **Tongues** (W20) - Per Homid Gift.
-- **Tractor Beam** (Glass Walker Tribebook 1st Ed) - Spend 1 Willpower per item (weight ≤ Garou’s). Teleports it to Umbra.
+- **Tractor Beam** (Glass Walker Tribebook 1st Ed) - Spend 1 Willpower per item (weight <= Garou’s). Teleports it to Umbra.
 - **Virtual Umbra** (Umbra) - Spend 1 Gnosis. Static Mental challenge (diff 8 or 10 if with group) to enter Cyber Realm.
 - **Web Walker** (Umbra/W20) - Per Theurge gift.
 

@@ -23,13 +23,13 @@ You **must email staff** to notify them of the date your **last rank challenge**
 
 ### Advancement Requirements
 
-| Rank Transition     | Total XP Required | Time Required      | Notes                         |
-|---------------------|-------------------|---------------------|-------------------------------|
-| Rank 0 ➝ Rank 1     | 25 XP             | 1 month             | Requires Den Parent permission |
-| Rank 1 ➝ Rank 2     | 75 XP             | 3 months            |                               |
-| Rank 2 ➝ Rank 3     | 125 XP            | 6 months            |                               |
-| Rank 3 ➝ Rank 4     | 175 XP            | 9 months            |                               |
-| Rank 4 ➝ Rank 5     | 300 XP            | 1 year              |                               |
+| Rank Transition     | Total XP Required | Time Required       | Notes                          |
+|---------------------|-------------------|---------------------|--------------------------------|
+| Rank 0 -> Rank 1    | 25 XP             | 1 month             | Requires Den Parent permission |
+| Rank 1 -> Rank 2    | 75 XP             | 3 months            |                                |
+| Rank 2 -> Rank 3    | 125 XP            | 6 months            |                                |
+| Rank 3 -> Rank 4    | 175 XP            | 9 months            |                                |
+| Rank 4 -> Rank 5    | 300 XP            | 1 year              |                                |
 
 > **See the Punishment Rites** section for any modifications to XP or time requirements.
 

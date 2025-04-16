@@ -32,28 +32,28 @@ Any player who wishes to review the Code of Conduct can find it on the OWbN webs
 
 ---
 
-## 🔨 Disciplinary Actions
+## Disciplinary Actions
 
-1. **⚠️ Warning**
+1. **Warning**
    - A verbal or written notice from staff that a rule has been violated.
    - A warning is simply that — a warning — and will not be held against the player unless the behavior continues.
 
-2. **❗ Strike**
+2. **Strike**
    - Issued if a player's behavior exceeds the bounds of a warning, or if multiple warnings are ignored.
    - A strike will expire after 3 months, provided the player complies with rules and adjusts their behavior.
 
-3. **⛔ Temporary Ban**
+3. **Temporary Ban**
    - Issued after receiving 3 strikes.
    - Duration: 1–3 games (determined by staff).
    - After the ban period, the player may return, and one strike will be removed from their record.
    - All characters will be **shelved** during the ban.
 
-4. **🚫 Indefinite Ban**
+4. **Indefinite Ban**
    - Player is removed from game indefinitely.
    - Must **petition staff** to return.
    - Characters not GNC’d must be transferred to another chronicle or will remain shelved.
 
-5. **💀 Generate New Character (GNC)**
+5. **Generate New Character (GNC)**
    - The character is permanently destroyed and may not be played again.
 
 6. **Additional Note**

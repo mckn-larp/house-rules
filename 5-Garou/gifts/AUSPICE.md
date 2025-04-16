@@ -178,7 +178,7 @@
   Per *LOTWR*.
 
 - **Spirit Knife (BoA)**  
-  Spend 1 Gnosis. Imbue a personally crafted weapon to strike across the Gauntlet (if Gauntlet ≤ user’s permanent Gnosis). Does not aid in targeting.
+  Spend 1 Gnosis. Imbue a personally crafted weapon to strike across the Gauntlet (if Gauntlet <= user’s permanent Gnosis). Does not aid in targeting.
 
 - **Spirit Skin (PGG)**  
   Spend 1 Gnosis. Social Challenge (Subterfuge), difficulty 6 (wolf spirit) or 8 (others). Appears as a spirit in the Umbra for 1 hour per Social trait spent.
@@ -384,13 +384,13 @@
   May only be used after a successful *Truth of Gaia* where the target believes what they said.
 
 - **Rebirth (W20:CW)**  
-  Revive a dead animal ≤ your Gnosis in months old. Spend 1 Gnosis, take 1–4 Health Levels damage. Social Challenge (Primal Urge). Creature is loyal for the scene, then dies again.
+  Revive a dead animal <= your Gnosis in months old. Spend 1 Gnosis, take 1–4 Health Levels damage. Social Challenge (Primal Urge). Creature is loyal for the scene, then dies again.
 
 - **Roll Over (LOTWR)**  
   Per *LOTWR*.
 
 - **Scent of Beyond (LOTWR)**  
-  Works across a single realm barrier (e.g., Material ↔ Penumbra, Penumbra ↔ Spirit Realm).
+  Works across a single realm barrier (e.g., Material <-> Penumbra, Penumbra <-> Spirit Realm).
 
 - **Scent of the Oathbreaker (W20)**  
   Spend 1 Gnosis to sanctify an oath. If broken, you are alerted and gain +4 traits when tracking by scent. Bonus lasts until you see the oathbreaker again.

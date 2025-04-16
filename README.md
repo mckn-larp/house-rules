@@ -16,38 +16,38 @@ Our chronicle uses the [**Western Shore House Rules**] as our **baseline ruleset
 
 This repository outlines those local rulings. If a rule or mechanic is not specifically mentioned here, please refer to the **Western Shore House Rules** for guidance.
 
-> ⚠️ **All rules are subject to change at storyteller discretion.** When in doubt, contact staff.
+> **All rules are subject to change at storyteller discretion.** When in doubt, contact staff.
 
 
 ## Rule Sections
 
 Click on each section below to view our local rulings and clarifications:
 
-- [**Player Policies**](./players/README.md)  
+- [**Player Policies**](./1-Players/README.md)  
   Player standards, policies, and conduct.
 
-- [**Character Creation**](./creation/README.md)  
+- [**Character Creation**](./2-Creation/README.md)  
   Local character creation guidelines, including XP bonuses and clan considerations.
 
-- [**Game Play**](./gameplay/README.md)  
+- [**Game Play**](./3-Gameplay/README.md)  
   Basic, in-game mechanics rules.
 
-- [**Vampire Rules**](./vampire/README.md)  
+- [**Vampire Rules**](./4-Vampire/README.md)  
   Sect-specific adjustments, paths, advantages, and play expectations.
   
-- [**Garou Rules**](./garou/README.md)  
+- [**Garou Rules**](./5-Garou/README.md)  
   Local rulings, flavor elements, and crossover limitations for Garou.
 
-- [**Changeling Rules**](./changeling/README.md)  
+- [**Changeling Rules**](./6-Changeling/README.md)  
   Specific rulings for Kithain and Nunnehi play in the Knoxville chronicle.
 
-- [**Cosmology & Umbra**](./cosmology/README.md)  
+- [**Cosmology & Umbra**](./7-Cosmology/README.md)  
   How spirits, realms, and metaphysical systems function in our chronicle.
 
-- [**Territories**](./territory/README.md)  
+- [**Territories**](./8-Territory/README.md)  
   The territories held by various groups and factions around Knoxville.
 
-- [**Disciplinary Policy**](./discipline/README.md)  
+- [**Disciplinary Policy**](./9-Discipline/README.md)  
   Chronicle Discpline policies.
 
 If you have questions about any rule listed here or would like to propose a clarification or update, please open a [Discussion](https://github.com/mckn-larp/house-rules/discussions) or speak with a storyteller directly.

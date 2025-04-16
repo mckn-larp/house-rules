@@ -102,7 +102,7 @@ If you choose to chop with a Storyteller for a **special modification**, the fol
 - The Storyteller chooses a benefit appropriate to the item.
   - *Examples*: “High Caliber” (gun), “Shield Break” (sword), etc.
 
-### ⚖On a Tie
+### On a Tie
 - You may choose **one of the following**:
   - Gain a Bonus Trait
   - Remove a Negative Trait
