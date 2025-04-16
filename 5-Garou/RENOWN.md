@@ -1,4 +1,4 @@
-# RENOWN & RANK
+# Renown & Rank
 
 [← Back to Chronicle Rules](../README.md)  
 [← Back to Genre rules](./README.md)

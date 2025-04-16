@@ -1,11 +1,11 @@
-# Sabbat Vampire Character Creation
+# SABBAT & VAMPIRE SPECIFIC RULES
 
 [← Back to Chronicle Rules](../README.md)  
 
 -----
 ## Additional Resources
 
-- [**Disciplines**](./9-DisciplineS.md)
+- [**Disciplines**](./DISCIPLINES.md)
 - [**Blood Magics**](./BLOOD-MAGIC.md)
 - [**Paths of Enlightenment**](./PATHS.md)
 - [**Ritae**](./RITAE.md)

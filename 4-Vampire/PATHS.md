@@ -1,4 +1,4 @@
-# PATHS OF ENLIGHTENMENT
+# Paths Of Enlightenment
 
 [← Back to Chronicle Rules](../README.md)  
 [← Back to Genre rules](./README.md)

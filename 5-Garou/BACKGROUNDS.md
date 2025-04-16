@@ -1,4 +1,4 @@
-# BACKGROUNDS
+# Backgrounds
 
 [← Back to Chronicle Rules](../README.md)  
 [← Back to Genre rules](./README.md)
