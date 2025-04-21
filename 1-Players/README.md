@@ -21,6 +21,9 @@ This section is dedicated to you, the players — the lifeblood of Knoxville: Ma
 Let’s tell an unforgettable story — together.
 
 ## Code of Conduct
+
+> Our Code of Conduct is based on and fully supports the organization's code of conduct, available at [OWBN Code of Conduct](https://www.owbn.net/content/code-of-conduct).
+
 At **Knoxville: Marble City**, we are committed to fostering a **respectful, inclusive, and collaborative environment** for all players, staff, and guests. The strength of our chronicle lies in the shared passion we all bring to the World of Darkness — and in the way we treat one another both in and out of character.
 
 ## How We Treat Each Other
