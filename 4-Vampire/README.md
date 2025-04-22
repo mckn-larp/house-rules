@@ -73,13 +73,23 @@ This section outlines the specific process for creating **Sabbat Vampire charact
 
 19. **Gain 30 Starting XP**
 
-20. **Assign Blood Traits**  
+20. **Record Blood Traits**  
     Based on Generation and Chronicle standards.
 
-21. **Assign Willpower Traits**  
+21. **Record Willpower Traits**  
     As determined by your Path and Backgrounds.
 
------
+| Generation | Max. Traits | Max. Abilities | Blood\*  | Willpower\^ |
+|------------|-------------|----------------|--------|-----------|
+| Thirteen   | 10          | 5              | 10/1   | 2/6       |
+| Twelve     | 10          | 5              | 11/1   | 2/8       |
+| Eleven     | 11          | 5              | 12/1   | 4/8       |
+| Ten        | 12          | 5              | 13/1   | 4/10      |
+| Nine       | 13          | 5              | 14/2   | 6/10      |
+| Eight      | 14          | 5              | 15/3   | 6/12      |
+
+\*: Blood is total traits / maximum spent per round.
+\^: Willpower is starting traits / maximum traits.
 
 ## Available Sabbat Clans
 
@@ -101,8 +111,6 @@ All **non-R&U Sabbat Clans** are open for play with Storyteller approval:
 
 > Clans with access to **Blood Magic** will require a **background submission** and potential approval in accordance with House Rules.
 
------
-
 ## Sabbat Factions
 
 You may select a Sabbat Faction for flavor, advantages, or RP focus. The following **require additional approval** in accordance with OWBN bylaws:
@@ -113,6 +121,3 @@ You may select a Sabbat Faction for flavor, advantages, or RP focus. The followi
 - **The Cult of Lilith**
 
 If your concept involves something not listed above, **please work with staff** to explore possibilities and approvals.
-
------
-

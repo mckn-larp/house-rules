@@ -4,10 +4,9 @@
 
 ## Retainers
 
-Retainers can die. They must have an approved sheet in Haller to earn XP.
+Retainers can die. They must have an approved sheet in BE to earn XP.
 
 ## Stacking Backgrounds
-
 Use the Laws of Ascension method:
 
 1. Start with the highest rating
@@ -32,7 +31,6 @@ Players track their own Resource cards. Money is distributed per session attende
 | 6+    | At ST discretion |
 
 ## Haven
-
 Requires a private residence and a written description.
 
 - Haven 1: One un-cancelable retest
@@ -52,6 +50,3 @@ Requires a private residence and a written description.
 ## Influences
 
 Handled as per *Dark Epics*, using the same stacking rules described above.
-
------
-

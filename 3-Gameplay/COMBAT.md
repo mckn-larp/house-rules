@@ -125,18 +125,20 @@ Additional resources for traits in challenge resolution:
 
 ### Retest Categories:
 - **Ability**
-- **Gift**
-- **Fetish**
-- **Rite**
+- **Supernatural Power(Discipline/Gift/Arcanoi)**
+- **Item**
+- **Rite/Ritae/Ritual**
 - **Merit**
-- **Tribal Advantage**
+- **Advantage (Tribe, Effect, etc.)**
 - **Temper**
+> Note, you can only declare and use **one and only one** retest per category.
 
 **Auspex vs. Obfuscate Tie**:  
 - Add **levels of Auspex + Investigation** for detection  
 - Add **levels of Obfuscate + Stealth** for concealment  
 - Each level = +1 Trait
 - Combination powers **do not** add levels above the core discipline
+> Note that Combination powers **still** gain the benefits of the core discipline so using *See the True Form* (Auspex 2, Protean 4) with Auspex 5 and 5 levels of Investigation would net +10 traits.
 
 If both parties have **"Win on Ties"**, it is treated as if neither has it.
 
