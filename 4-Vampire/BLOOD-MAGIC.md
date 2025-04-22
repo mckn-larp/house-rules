@@ -1,8 +1,8 @@
 # Blood Magic Rules & Clarifications
 
-Characters are allowed to learn **multiple styles of Blood Magic**, but these must follow a strict hierarchy of mastery.
-
 ---
+
+Characters are allowed to learn **multiple styles of Blood Magic**, but these must follow a strict hierarchy of mastery.
 
 ## Style Hierarchy
 
@@ -11,7 +11,6 @@ Characters are allowed to learn **multiple styles of Blood Magic**, but these mu
 - A **tertiary style** cannot exceed the mastery of your secondary, and so on.
 
 ### Example Progression:
-
 **Primary Style:**
 - 2 Paths at Advanced
 - 1 at Intermediate, 1 at Basic
@@ -25,20 +24,14 @@ Characters are allowed to learn **multiple styles of Blood Magic**, but these mu
 - 1 Path at Intermediate, 1 at Basic
 - 8 Basic Rituals, 3 Intermediate
 
----
-
 ## Ritual Casting
-
 - At sign-in, characters may pre-cast a number of rituals equal to their **Occult rating** without needing to throw challenges.
 - Any **additional rituals** cast at game require **downtime equal to half the listed casting time**.
 - **Exception**: Rituals that take over an hour still require the full time listed.
 
----
-
 ## Style-Specific Clarifications
 
 ### Necromancy
-
 **Ash Path: Ex Nihilio**
 - Test difficulty equals **Shroud Rating**.
 - A doorway must be drawn as part of activation.
@@ -49,25 +42,17 @@ Characters are allowed to learn **multiple styles of Blood Magic**, but these mu
 **Voudoun Path: Baleful Doll**
 - The doll may only be **stabbed 4 times** before becoming inert.
 
----
-
 ### Setite Sorcery
-
 - Considered **Social Magic** by default.
 - If a Path or Ritual does not specify a test type, use **Social**.
 - Physical contact or sympathetic links are **still required** as written.
 
----
-
 ### Dur-An-Ki
-
 - All uses require an **Ascension scene**, even if guided.
 - These must be run by the **home chronicle STs**, unless otherwise approved.
-
----
+- We **do not** leverage the current "chart" for ascension requirements.
 
 ### Thaumaturgy
-
 > For general rules, refer to the **OWBN Thaumaturgy and Sorcery packets**.
 
 **Path of Blood (Rego Vitae): Taste of Blood**
@@ -109,18 +94,16 @@ Characters are allowed to learn **multiple styles of Blood Magic**, but these mu
 **Path of Transmutation: Gaol**
 - Requires a **Mental vs. Physical challenge** to activate.
 
----
-
 ## Rituals
 
 **Pavis of the Foul Presence**
-- Number of charges = **Permanent Occult rating**.
+- Number of charges = **Permanent Occult Ability rating**.
 - Cancels **one Presence effect (level 5 or lower)** per charge.
-- Each charge blocks one **Presence-based effect**, including combo powers.
+- Each charge blocks one **Presence-based effect**, including combination powers.
 - Blocks the **first X Presence effects** in order received.
 
 **Dur-An-Ki: Pebble from the Mountain**
-- The caster must be **present** at the game or **hard-proxied into game control**.
+- The caster must be **present** at the game or **proxied into game control**.
 
 **Dur-An-Ki: Touch the Earth**
 - Same requirements as *Pebble from the Mountain*.
@@ -134,15 +117,9 @@ Characters are allowed to learn **multiple styles of Blood Magic**, but these mu
 - Reverts the target to the form they had at the time of Embrace.
 - **Lost modifications** purchased as Merits may be regained **without repurchase**.
 
----
-
 ## Modifying Items with Blood Magic
 
 - An item may only be modified a number of times **equal to its Trait rating**.
 - Items with **no traits** may receive **1 modification**.
 
----
-
 **These rules are subject to change at Storyteller discretion.**
-
-

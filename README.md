@@ -18,6 +18,19 @@ This repository outlines those local rulings. If a rule or mechanic is not speci
 
 > **All rules are subject to change at storyteller discretion.** When in doubt, contact staff.
 
+## Signing In
+
+By signing into this game, each participant affirms their understanding and acceptance of all house rules as defined by the Marble City: Knoxville Nights storytelling staff. This includes compliance with OWbN bylaws, organizational policies, and the standards of our local chronicle.
+
+Signing in also serves as confirmation that **both the player and their character are authorized for play** within the One World By Night organization. Characters who have not been formally reviewed, approved, or updated to meet current chronicle or organizational standards may be restricted from play until resolved.
+
+We recognize and allow the use of **proxy characters** — characters played on behalf of another player with their permission. However, all proxies in this chronicle are considered **hard proxies**. This means:
+
+- They are **fully subject to in-character consequences** and the same rules as if the original player were present.
+- Signing in as a proxy constitutes **implied consent** to be involved in scenes, actions, or outcomes, including those that may result in injury, loss, or character death.
+- The storytelling staff will do their best to represent the absent player’s intent, but **narrative continuity will not be suspended** for characters played via proxy.
+
+By signing in—whether for yourself or as a proxy — you acknowledge your responsibility to engage with the game in good faith, uphold our consent and safety standards, and respect the integrity of the shared story world.
 
 ## Rule Sections
 
