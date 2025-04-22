@@ -58,6 +58,4 @@ Any player who wishes to review the Code of Conduct can find it on the OWbN webs
    - Any punishment beyond a Warning will impact the player’s ability to create **Rare & Unusual (R&U)** characters.
 
 -----
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+

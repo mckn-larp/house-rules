@@ -1,39 +1,25 @@
-# Backgrounds
-
------
-
-This section outlines specific rulings, exceptions, and clarifications for Backgrounds in play. Refer to appropriate sourcebooks for mechanics unless otherwise specified.
+# Backgrounds: Garou & Changing Breeds Specific
 
 ---
 
-## Disallowed Backgrounds
+This section outlines specific rulings, exceptions, and clarifications for Backgrounds in play. Refer to appropriate sourcebooks for mechanics unless otherwise specified.
 
+
+## Disallowed Backgrounds
 - **Garou Favor**
 - **Past Lives**
 - All **non-Garou** and **non–Changing Breeds-specific** backgrounds require **Storyteller approval**.
 
----
-
-## Background Stacking
-
-- Backgrounds stack **as per *Laws of Ascension*** rules.
-
----
-
 ## Backgrounds by Type
 
 ### Colony *(Ratkin)*
-
 - Use as written in *Changing Breeds Book 3 (CB3)*.
 
----
 
 ### Den Realm / Umbral Glade *(Bastet / Gurahl)*
-
 These are consolidated into a **joint background** and function as the owner’s personal Umbral Domain.
 
 #### Domain Mechanics
-
 - Appears as a **Domain** in the Umbra.
 - Cannot be accessed without the owner’s permission.
 - First-time intruders may roll a **Mental Challenge (Umbral Lore retest)**, difficulty 20.
@@ -44,7 +30,6 @@ These are consolidated into a **joint background** and function as the owner’s
   - Success or failure: **Owner is notified**.
 
 #### Owner Benefits
-
 - Step sideways within the Domain: **Difficulty 3**.
 - Spend **1 Gnosis**, teleport anywhere within the Domain. Limit: **Gnosis rating per scene**.
 - Attacks on the Domain register as **cold pain in the heart**.
@@ -53,7 +38,6 @@ These are consolidated into a **joint background** and function as the owner’s
 - Spirits within the Domain are **protective of the owner and the space**.
 
 #### Ratings & Size / Gnosis
-
 | Dots | Urban Size / Rural Size | Gnosis per Day |
 |------|--------------------------|----------------|
 | 1    | House / 1 sq. mile       | 1              |
@@ -62,16 +46,13 @@ These are consolidated into a **joint background** and function as the owner’s
 | 4    | 2 blocks / 10 sq. miles  | 4              |
 | 5    | 5 blocks / 20 sq. miles  | 5              |
 
----
 
 ### Equipment *(Kinfolk)*
-
 Access to **specialized, rare, or supernatural equipment** not otherwise available.
 
 > Items are **not replaceable** through dots once used, lost, or destroyed. Must be reacquired via roleplay.
 
 #### Equipment Tiers
-
 | Dots | Examples |
 |------|----------|
 | 1 | Silver bullets, Kevlar vests, street-level drugs |
@@ -80,37 +61,22 @@ Access to **specialized, rare, or supernatural equipment** not otherwise availab
 | 4 | Specialized vehicles, military firearms, electron microscopes, greater Talen (with Gnosis 6 Merit) |
 | 5 | Unique items (experimental firearms, crystal balls, untraceable poisons); may own a powerful Talen (with Gnosis 7 Merit) — *requires ST approval* |
 
----
 
 ### Fate / Destiny
-
 - **ST approval required**.
 - Use **Fate** and **Destiny** as the **same background**.
 - Once per game session **per dot**, you may:
   - Spend a level to **retest when your death is at stake** in a challenge.
 
----
 
 ### Fetish
-
 - If points are spent on Fetish, it may always be **remade for you**, even if destroyed or lost.
 - You may purchase **Named Fetish backgrounds** up to your **Rank**.
 
----
 
 ### Freak Factor *(Ratkin)*
-
 - Use as per *CB3*.
 - **Costs more** than standard backgrounds (up to **15 points** for full benefits).
-
----
-
-### Influence
-
-- Varies by **local game**.
-- Check with **local Influence ST** for application.
-
----
 
 ### Kinfolk  
 *(Includes all Non-Garou Changing Breeds)*
@@ -118,14 +84,12 @@ Access to **specialized, rare, or supernatural equipment** not otherwise availab
 This background can be purchased **multiple times**. Declare **Standard** or **Retainer** Kinfolk at purchase.
 
 #### Standard Kinfolk
-
 - **No sheet** required.
 - Represents a number of helpful/supportive kinfolk.
 - May purchase up to **5 dots**.
 - Follow appropriate breed-specific rules per sourcebook.
 
 #### Retainer Kinfolk
-
 - **Requires a character sheet**.
 - Gains **XP per month equal to dot rating**, if the player attends game and submits for it.
 - Created using base character creation rules.
@@ -146,22 +110,16 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
 - STs have **final authority** on Retainer Kinfolk.
   - Retainers may die on missions; points are then lost.
 
----
 
 ### Jamak *(Bastet)*
-
 - Use as written in *CB1*.
 
----
 
 ### Mentor
-
 - **Level 5** grants an **immensely powerful mentor**, not a "Legend Mentor".
 
----
 
 ## Numen
-
 > **May not be combined with Spirit Familiar.**
 
 - A **spirit was bound to you at birth** by your family or sept, exchanging service for protection.
@@ -178,24 +136,18 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
 
 > **Character Creation only. Requires Storyteller approval.**
 
----
 
 ## Plague *(Ratkin)*
-
 - As per *Changing Breeds Book 3 (CB3)*.
 
----
 
 ## Pure Breed
-
 - If your tribe does **not match** your Pure Breed heritage, **you lose this background** (*per W20*).
 - Pure Breed only works with **your own species**.
 - **Kinfolk cannot perceive** Pure Breed (*per Kinfolk: Unsung Heroes*).
 
----
 
 ## Renown *(Kinfolk)*
-
 - Allows a Kinfolk to begin with **temporary Renown** in **Glory, Honor, Wisdom**, or a mix.
 - Must coordinate with ST on why/how Renown was earned.
 - Kinfolk **can never gain Garou rank**, but may still be recognized for service.
@@ -210,29 +162,7 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
 
 > **Note**: Kinfolk with this background must **wear a visible tag** showing their prestige.
 
----
-
-## Resources
-
-- Players must have a **Resources card**.
-- Must **declare collection** each downtime cycle or at game; no retroactive collection allowed.
-
-**Updated Disposable Income (Inflation Adjusted):**
-
-| Level | Income |
-|-------|--------|
-| 0     | $400 and a bus pass |
-| 1     | $1,000 |
-| 2     | $2,000 |
-| 3     | $6,000 |
-| 4     | $20,000 |
-| 5     | $60,000 |
-| 6+    | At ST discretion |
-
----
-
 ## Rites *(CB PCs)*
-
 > **Character Creation only.**
 
 - May take rites **above your Rank**, but must pay additional cost:
@@ -250,26 +180,20 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
 
 > After creation, Rites cost 1/2/4/6 **unless learned with a teacher**.
 
----
 
 ## Rites *(Kinfolk PCs)*
-
 > **Character Creation only.**
 
 - May only learn **Basic** or **Intermediate Kinfolk Rites**
 - 1 point = Basic; 3 points = Intermediate
 - Points spent determine the **number of Rite points** received
 
----
 
 ## Secrets *(Bastet / Corax)*
-
 > **Buyable at Character Creation only!**
 
----
 
 ## Spirit Familiar
-
 > **May not be combined with Numen.**
 
 You have a **bonded spirit companion** who stores supernatural energy for you.
@@ -282,20 +206,15 @@ You have a **bonded spirit companion** who stores supernatural energy for you.
 | 4 | Bright Jaggling. Telepathy if nearby. Mutual sight and awareness. Stores 5 points (any mix). Can Manifest. |
 | 5 | Intelligent Jaggling tied to an Incarna. Unlimited distance telepathy. Share senses and Gifts. Stores 6 points (any mix). |
 
----
 
 ## Spirit Heritage
-
 You receive bonuses **only when dealing with a broad class of spirits** (e.g., elementals, banes, nature spirits, a brood, etc.).
 
----
 
 ## Totem
-
 > Characters may only have **one Totem**: Personal, Pack, Sept, or Tribal.
 
 ### Pack Totem Benefits
-
 - Requires **at least 1 dot** to access **Pack Mind Link**.
 - If all packmates have **full investment**, gain:
   - Totem can **always locate** pack members
@@ -306,32 +225,21 @@ You receive bonuses **only when dealing with a broad class of spirits** (e.g., e
 > Visitors must notify staff if they bring a Totem to the game.
 
 ### Gurahl Totems
-
 If not benefiting from a purchased Totem or multi-fera pack Totem, Gurahl are considered to have **Bear** as their Personal Totem.
 
 Must choose one at creation:
-
 | Bear Totem | Benefits |
 |------------|----------|
 | First Cub / Ursa Minor | +1 Expression, +1 Larceny, +1 Survival |
 | Great She-Bear / Ursa Major | +1 Medicine, +1 Empathy, +1 Survival |
 | Mangi, the Death Bear | +1 Brawl, +1 Enigmas, +1 Survival |
 
----
 
 ## Trinket *(Bastet)*
-
 - As per *Changing Breeds Book 1 (CB1)*.
 
----
 
 ## Umbral Maps *(Nuwisha / Corax / Silent Strider)*
-
 - As per *CB1*
 - STs may grant **bonuses or retests** based on location and context.
 - **Other Fera** may learn this background **at ST discretion**.
-
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>

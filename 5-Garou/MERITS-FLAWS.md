@@ -1,4 +1,4 @@
-# Merits & Flaws
+# Merits & Flaws: Garou & Changing Breeds Specific
 
 -----
 This section covers special traits that provide characters with advantages (**Merits**) or disadvantages (**Flaws**). These traits are designed to enhance roleplay and mechanical diversity.
@@ -402,6 +402,4 @@ These flaws introduce roleplaying and mechanical challenges. Some require ST app
   You are tainted by the Wyrm. Expect consequences.
 
 -----
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+

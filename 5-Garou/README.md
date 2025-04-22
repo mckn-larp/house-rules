@@ -1,6 +1,5 @@
-# GAROU & CHANGING BREEDS SPECIFIC RULES
+# Rules: Garou & Changing Breeds Specific
 
------
 ## Additional Resources
 
 - [**Abilities**](./ABILITIES.md)
@@ -11,7 +10,6 @@
 - [**Garou-Specific Mechanics**](./MECHANICS.md)
 - [**Items, Fetishes, & Talens**](ITEMS.md)
 
------
 ## Character Creation Steps
 
 1. **Choose Breed, Auspice, and Tribe**  
@@ -79,8 +77,6 @@
    - Submit your complete character sheet and background within **90 days** detailed below.  
    - After that time, no mechanical changes are permitted without ST approval.
 
----
-
 ## Notes on Advancement & House Rulings
 
 - All character builds use a **160-point creation pool**, excluding freebies and XP.  
@@ -92,8 +88,6 @@
 - **No Talents/Skills/Knowledges split** — only **Abilities** are used.  
 - No Ability or Trait may exceed **5** without **explicit Storyteller approval** and justification.
 
----
-
 ## Character Sheet Changes
 
 - You have **90 days** to make adjustments to your character sheet as part of character creation.
@@ -102,8 +96,6 @@
   - If you do not submit your background within that time:
     - And you have already spent the background points,
     - **Those points will be removed** by staff.
-
----
 
 ## Fera Character Creation
 
@@ -117,8 +109,6 @@ Unless otherwise noted, **Fera characters** follow the house rules and the appro
 | Rank 1 | No Additional Cost |
 | Rank 2 | **Requires Background** + ST Approval. Costs **2 XP per Permanent Renown** needed for the rank. |
 
----
-
 ## Allowed Starting Gifts
 
 The following Gifts from *Laws of the Wyld Revised* (LOTWR) and *Werewolf: the Apocalypse 20th Anniversary Edition* (W20) are allowed during character creation.
@@ -131,8 +121,6 @@ The following Gifts from *Laws of the Wyld Revised* (LOTWR) and *Werewolf: the A
 | Lupus | Hare’s Leap, Heightened Senses, Predator’s Arsenal, Prey Mind, Sense Prey |
 | Metis | Create Element, Primal Anger, Rat Head, Sense Wyrm, Shed |
 
----
-
 ### Auspice Gifts
 
 | Auspice   | Allowed Gifts |
@@ -142,8 +130,6 @@ The following Gifts from *Laws of the Wyld Revised* (LOTWR) and *Werewolf: the A
 | Philodox  | Fangs of Judgment, Persuasion, Resist Pain, Scent of the True Form, Truth of Gaia |
 | Galliard  | Beast Speech, Call of the Wyld, Heightened Senses, Mindspeak, Perfect Recall |
 | Ahroun    | Falling Touch, Inspiration, Pack Tactics, Razor Claws, Spur Claws |
-
----
 
 ### Tribe Gifts
 
@@ -163,7 +149,6 @@ The following Gifts from *Laws of the Wyld Revised* (LOTWR) and *Werewolf: the A
 | Uktena | Sense Magic, Sense Wyrm, Shroud, Spirit of the Lizard, Spirit Speech |
 | Wendigo | Beat of the Heart-drum, Call the Breeze, Camouflage, Ice Echo, Resist Pain |
 
------
 ## Rare and Unusual (R&U) Characters
 
 - To play a **Rare and Unusual** character, you must:
@@ -171,7 +156,17 @@ The following Gifts from *Laws of the Wyld Revised* (LOTWR) and *Werewolf: the A
   2. Include your **proposed character sheet** and **background**.
 - The R&U listings can be found at [owbn.net](http://www.owbn.net).
 
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+
+## Trait Maximums
+You may have a total of Traits in each category (Physical, Social, and Mental) no greater than a limit set by your Rank:
+
+
+| Rank     | Trait Maximum |
+|----------|----------------|
+| Kinfolk  | 13 Traits      |
+| Cub      | 10 Traits      |
+| Cliath   | 11 Traits      |
+| Fostern  | 12 Traits      |
+| Adren    | 14 Traits      |
+| Athro    | 16 Traits      |
+| Elder    | 18 Traits      |

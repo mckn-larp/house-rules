@@ -670,6 +670,4 @@
 
 [Back to Top](#navigation) | [Ragabash](#ragabash-aupsice-gifts) | [Theurge](#theurge-auspice-gifts) | [Philodox](#philodox-auspice-gifts) | [Galliard](#galliard-auspice-gifts) | [Ahroun](#ahroun-auspice-gifts)
 -----
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+

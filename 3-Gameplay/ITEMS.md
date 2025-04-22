@@ -32,8 +32,6 @@ These are non-magical and include:
 - Regular Weapons (e.g., stakes)
 - Regular Armor
 
----
-
 ## Magic Items
 
 All magical items must include:
@@ -44,13 +42,9 @@ All magical items must include:
   - Contained spirit type
   - Spirit statistics or additional magical information
 
----
-
 ## Fetishes & Talens
 
 You may not carry more **fetishes or talens** than **half your permanent Willpower**, rounded up.
-
----
 
 ## Weapon Enchantments
 
@@ -60,8 +54,6 @@ Weapons may only be enchanted with a number of rituals **equal to or less than t
 
 > This rule **does not retroactively affect** existing enchanted items.
 
----
-
 ## Crafting Rules
 
 ### Time to Craft
@@ -70,8 +62,6 @@ Weapons may only be enchanted with a number of rituals **equal to or less than t
 - Use *Dark Epics* for base stats unless a different source is cited.
 - To create a **Craft 5** item, you must have **Craft 5 Ability**.
 - If crafting a **modified item**, that project must be your **sole focus** for the downtime cycle.
-
----
 
 ## Modifications
 
@@ -87,8 +77,6 @@ Weapons may only be enchanted with a number of rituals **equal to or less than t
 - Remove a **Negative Trait**
 - Deliver or soak **+1 additional damage**
 - Adjust **rate of fire** on ranged weapons
-
----
 
 ## Special Modification Chop Results
 
@@ -113,11 +101,4 @@ If you choose to chop with a Storyteller for a **special modification**, the fol
 
 > The player does **not get to choose** the effect in either case.
 
----
-
-Let staff know if you'd like help building your item index cards or to check if something falls under a Major, Minor, or Mundane category.
-
------
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+> Let staff know if you'd like help building your item index cards or to check if something falls under a Major, Minor, or Mundane category.

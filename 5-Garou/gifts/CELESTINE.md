@@ -290,6 +290,4 @@
 - **Pack Mind**  
   Spend 1 Gnosis and defeat your targets in a Willpower Challenge (Primal-Urge). All targets mimic the first actor’s actions each turn (e.g., if one punches, all punch), ignoring their own strategies or weapons.
 -----
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+

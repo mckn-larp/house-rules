@@ -106,6 +106,4 @@
 **Advanced**
 - **Mask Taint** - Spend 1 Gnosis + Social Challenge (retest Subterfuge, diff 8). You cannot be detected for Wyrm taint for the scene. Simple test on use: failure adds Wyrm taint. May not be used by fully fallen Garou.
 -----
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+

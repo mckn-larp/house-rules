@@ -55,6 +55,4 @@ If you have questions about any rule listed here or would like to propose a clar
 > Let’s keep Knoxville dark, strange, and unforgettable.
 
 -----
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
+

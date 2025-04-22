@@ -5,13 +5,11 @@
 
 Once you have signed in, you are under the control of the Storyteller (ST) staff until the end of that game. Unique situations may require this control to extend longer.
 
-
 ## General Combat Rules
 
 - No combat may be initiated within 1 hour of game-off.
 - Hard Trait Cap for PCs: 30 (applies in and out of combat).
 - All activations must be declared in the presence of a storyteller.
-
 
 ## Buffs
 
@@ -44,7 +42,6 @@ Once you have signed in, you are under the control of the Storyteller (ST) staff
     - Shroud
     - Shapechanging
 
-
 ## Shapechanging Activation Times
 
 | Power                | Cost | Time to Activate |
@@ -70,11 +67,9 @@ Once you have signed in, you are under the control of the Storyteller (ST) staff
 - Air: Free retest on stealth
 - Water: +2 steps of movement per action
 
-
 ## Rule of Five
 
 Any game mechanic with a variable trait expenditure is capped at **5 traits max**, unless otherwise specified by a published rule. STs may override this.
-
 
 ## Carrier Attacks
 
@@ -100,7 +95,6 @@ Carrier attacks are:
 - Hands of Destruction: Atrophy
 - Any Ritual requiring touch
 
-
 ## Additional Defenses
 
 Defenders may spend **1 additional Temporary Willpower** to retest the following powers:
@@ -112,7 +106,6 @@ Defenders may spend **1 additional Temporary Willpower** to retest the following
 - Thaumaturgy: Gift of Morpheus – Enchanted Slumber
 - Mastery of the Mortal Shell: Body Failure
 - Path of Du’at: Consignment to Du’at
-
 
 ## Ties in Challenges
 
@@ -139,7 +132,6 @@ Additional resources for traits in challenge resolution:
 - **Tribal Advantage**
 - **Temper**
 
-
 **Auspex vs. Obfuscate Tie**:  
 - Add **levels of Auspex + Investigation** for detection  
 - Add **levels of Obfuscate + Stealth** for concealment  
@@ -147,7 +139,6 @@ Additional resources for traits in challenge resolution:
 - Combination powers **do not** add levels above the core discipline
 
 If both parties have **"Win on Ties"**, it is treated as if neither has it.
-
 
 ## Bidding Addendum
 
@@ -157,7 +148,6 @@ Allowed to exceed the cap:
 - Impressive Visage
 - Pater Szlachta
 - Other ST-approved powers or merits
-
 
 ## Retests
 
@@ -175,12 +165,9 @@ Only **one retest per source** is allowed per challenge. Sources include:
 
 **Magical effect retests (e.g., Fascination)** can only be used **once per challenge**.
 
-
-
 ## Mass Combat Rules
 
 These rules outline the structure, etiquette, and mechanical systems in place during large-scale combat scenarios.
-
 
 ## Player Responsibilities During Combat
 
@@ -193,13 +180,16 @@ These rules outline the structure, etiquette, and mechanical systems in place du
 - **Know your damage output** and its sources. Be able to explain this to an ST.
   - Players may ask STs about **other players’ combat stats** (not directly to other players).
 
+## Armor Hierarchy  
+You are allowed 3 types of armor and this is the order the armor levels are utilized when taking damage.
 
-
+1. Barrier (like a shield bubble around your person, first to take damage)
+2. Clothing (Bullet proof vest, padded armor, plate mail)
+3. Skin (Anything that adds health levels to your body)
 
 ## Challenges & Retests
 
 - You may only have **one retest per category**, unless otherwise noted.
-
 
 ## Damage Reduction (Armor & Similar Effects)
 
@@ -207,7 +197,3 @@ These rules outline the structure, etiquette, and mechanical systems in place du
 - Instead, they provide **temporary Healthy health levels** equal to the stated reduction value.
   - These health levels **refresh at the beginning of the next round**, unless stated otherwise in house rules.
   - They can be **damaged like normal health levels**.
---
-<p align="center" style="background-color: #000; padding: 20px;">
-  <img src="https://raw.githubusercontent.com/mckn-larp/.github/main/profile/05-queen-glow.png" alt="Knoxville Crown Footer" width="80" style="margin: 0 20px; vertical-align: middle;" />
-</p>
