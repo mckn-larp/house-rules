@@ -123,11 +123,11 @@ Let staff know if you'd like help building your item index cards or to check if 
 | Torch| +2  | Clumsy | Jacket| One Bashing (unlit) | Incendiary when lit, Versatile  |
 | Wooden Stake  | +2  | Short  | Sleeve| One Lethal | Staking, Versatile  |
 | Battle-Axe | +3  | Heavy, Clumsy| None  | Two Lethal | Destroy Shield, Two-hand Requirement, Versatile|
-| Broadsword/Longsword| +3  | Heavy  | Trenchcoat  | Two Lethal | Versatile  |
+| Broadsword / Longsword| +3  | Heavy  | Trenchcoat  | Two Lethal | Versatile  |
 | Fencing Blade | +3  | Fragile| Trenchcoat  | One Lethal | Speed |
 | Lance| +3  | Heavy, Slow  | None  | Three Lethal  | Versatile, Staking (if wooden tipped and sharpened)  |
 | Morning Star  | +3  | Clumsy | Trenchcoat  | Two Bashing| Versatile  |
-| Spear/Staff/Trident | +3  | Heavy  | None  | Spear/Pitchfork: Two Lethal; Staff: Two Bashing | Two-hand Requirement, Versatile, Staking (if wooden tipped and sharpened) |
+| Spear / Staff / Trident | +3  | Heavy  | None  | Spear/Pitchfork: Two Lethal; Staff: Two Bashing | Two-hand Requirement, Versatile, Staking (if wooden tipped and sharpened) |
 | Greatsword / Polearm / Scythe | +4  | Clumsy, Heavy| None  | Two Lethal | Two-hand Requirement, Versatile |
 
 #### Thrown
