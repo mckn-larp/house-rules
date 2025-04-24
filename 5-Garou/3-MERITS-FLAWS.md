@@ -1,4 +1,4 @@
-# Merits & Flaws: Garou & Changing Breeds Specific
+# Merits & Flaws: Garou & Fera Specific
 
 -----
 This section covers special traits that provide characters with advantages (**Merits**) or disadvantages (**Flaws**). These traits are designed to enhance roleplay and mechanical diversity.

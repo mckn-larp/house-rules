@@ -2,13 +2,13 @@
 
 ## Additional Resources
 
-- [**Abilities**](./ABILITIES.md)
-- [**Backgrounds**](./BACKGROUNDS.md)
-- [**Merits & Flaws**](./MERITS-FLAWS.md)
+- [**Abilities**](./1-ABILITIES.md)
+- [**Backgrounds**](./2-BACKGROUNDS.md)
+- [**Merits & Flaws**](./3-MERITS-FLAWS.md)
 - [**Gifts & Rites**](./gifts/README.md)
-- [**Renown & Rank**](./RENOWN.md)
-- [**Garou-Specific Mechanics**](./MECHANICS.md)
-- [**Items, Fetishes, & Talens**](ITEMS.md)
+- [**Renown & Rank**](./5-RENOWN.md)
+- [**Garou-Specific Mechanics**](./6-MECHANICS.md)
+- [**Items, Fetishes, & Talens**](./7-ITEMS.md)
 
 ## Character Creation Steps
 
