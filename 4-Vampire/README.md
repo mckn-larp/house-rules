@@ -6,10 +6,10 @@
 
 - [**Disciplines**](./1-DISCIPLINES.md)
 - [**Blood Magics**](./BLOOD-MAGIC.md)
-- [**Paths of Enlightenment**](./PATHS.md)
-- [**Ritae**](./RITAE.md)
-- [**Status**](./STATUS.md)
-- [**Magic Items**](./MAGIC_ITEMS.md)
+- [**Paths of Enlightenment**](./3-PATHS.md)
+- [**Ritae**](./4-RITAE.md)
+- [**Status**](./5-STATUS.md)
+- [**Magic Items**](./6-MAGIC_ITEMS.md)
 
 This section outlines the specific process for creating **Sabbat Vampire characters** in the *Knoxville: Marble City* chronicle. It replaces and updates prior Vampire-specific creation sections and brings Sabbat-specific systems in line with current play guidelines and OWBN approval processes.
 
