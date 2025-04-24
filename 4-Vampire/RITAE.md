@@ -57,6 +57,8 @@ This ritus mobilizes Sabbat packs to hunt and destroy a powerful enemy, often a 
 Used to punish traitors who have endangered the Sabbat, this grim ritus involves hunting, torture, interrogation, and ultimate destruction of the offender and their accomplices. It reaffirms unity through vengeance.  
 *System:* May be replaced with Contrition Ritus at ST discretion. Otherwise, generally results in Final Death for the traitor and accomplices.
 
+---
+
 ## Ignoblis Ritae
 
 **Acceptance Ritus**  
@@ -163,7 +165,9 @@ A long-lost rite offering protection against faith; now rare, only a few ancient
 A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St. Gustav’s guidance. It’s deeply revered by the Order of St. Blaise.  
 *System:* Ventrue antitribu with no Presence may roll Int + Occult (diff 7) to replace Presence with Auspex; 5+ successes may grant “Blessed by St. Gustav” Merit.
 
-## Factional
+---
+
+## Factional Ritae
 
 - **Moderates**
 
@@ -184,9 +188,9 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     **Calling the Directions**  
     Channeling native traditions, this rite connects the Loyalists to elemental spirits through ecstatic practice. Each direction invoked grants a unique benefit until sunrise.  
     *System:*  
-    - **East:** +1 Bonus Trait to initiative.  
-    - **South:** +1 Trait interacting with mortals or ignoring Path penalties.  
-    - **West:** +1 Trait to a chosen non-combat skill.  
+    - **East:** +1 Bonus Trait to initiative.
+    - **South:** +1 Trait interacting with mortals or ignoring Path penalties.
+    - **West:** +1 Trait to a chosen non-combat skill.
     - **North:** Gain one additional Healthy wound box.
 
     **Fury of Caine**  
@@ -196,7 +200,6 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     **Run This Town**  
     Performed when new territory is claimed, this ritus binds Loyalists to the land and alerts them when danger arises.  
     *System:* For one month, Loyalists in the tagged area can detect fellow Loyalists in danger with a Mental + Awareness challenge vs. 12.
-
 
 - **Status Quo**
 

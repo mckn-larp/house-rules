@@ -10,7 +10,7 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 
 ## Teaching Disciplines
 
-- PCs may teach Advanced Disciplines in-clan to packmates.
+- PCs may teach Advanced Disciplines in-clan to packmates in accordance with any Organizational regulations (such as *Thanatosis 5*, etc.)
 - To teach a **Combination Discipline**, you must have at least one of the prerequisites as an **in-Clan Discipline**.
 
 ## Discipline Rulings *(Alphabetical)*
@@ -21,10 +21,10 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 
 ### Assamite
 **Awakening the Steel**  
-***Pierce Steel's Skin***
+***Pierce Steel's Skin***  
 - As listed, this power destroys two levels of armor AND/OR Damage Reduction per level of damage it would cause. This destruction is for 3 turns and the effects providing Armor or Damage Reduction cannot be restored during that period.  
 
-***Strike the True Flesh***
+***Strike the True Flesh***  
 - Maximum **5 lethal damage**, including Potence.  
 - **Aegis cannot block** this attack nor can other **Fortitude** powers reduce the damage.
 
@@ -56,7 +56,8 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 ### Presence
 **Summon**  
 - May summon a character into danger **only if they are unaware** of the threat.  
-- Cannot summon someone into:
+- Cannot summon someone into:  
+
   - Sunlight
   - A combat they have already escaped
 
@@ -87,19 +88,17 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
   - Merit
   - Magic Item
   - Willpower  
-- An **additional Willpower** retest is also allowed **in the interest of fairness**.
+- An **additional Willpower** retest is also allowed **in the interest of balance**.
 
 ## Combination Powers *(Alphabetical)*
 
 ### Alpha Glint
-- The invoker is considered the **defender in trait comparison ties**.  
+- The invoker is considered the **defender in trait comparison ties**.
 - **Cannot be used at the same time** as **Majesty**.
 
 ### Blood Temper
-
 - **Weapons**: Grants **+1 damage**  
-  - Requires **1 Blood point per foot** of length
-
+  - Requires **1 Blood point per foot** of length  
 - **Armor**: Grants **+1 Health Level**  
   - Maximum equals the user's **Fortitude rating**  
   - Requires **3 Blood points per Health Level**

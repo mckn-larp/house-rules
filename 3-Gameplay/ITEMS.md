@@ -10,6 +10,7 @@ You are limited to **5 items per category** at any given time. Items must be rec
 
 ### 1. Major Items
 These create **permanent magical effects** and include:
+
 - Fetishes
 - Mage Talismans
 - Mage Enchantments
@@ -17,6 +18,7 @@ These create **permanent magical effects** and include:
 
 ### 2. Minor Items
 These create **one-time magical effects** and include:
+
 - Kyasid Potions
 - Incantation Items
 - Assamite Poisons
@@ -26,6 +28,7 @@ These create **one-time magical effects** and include:
 
 ### 3. Mundane Items
 These are non-magical and include:
+
 - Vehicles
 - Regular Weapons (e.g., stakes)
 - Regular Armor
@@ -33,6 +36,7 @@ These are non-magical and include:
 ## Magic Items
 
 All magical items must include:
+
 - **Type of magic paradigm used**
 - **Caster’s name**
 - **Date of casting**
@@ -47,6 +51,7 @@ You may not carry more **fetishes or talens** than **half your permanent Willpow
 ## Weapon Enchantments
 
 Weapons may only be enchanted with a number of rituals **equal to or less than the traits they provide**. This applies to:
+
 - **Temporary** rituals
 - **Permanent** rituals
 
@@ -55,6 +60,7 @@ Weapons may only be enchanted with a number of rituals **equal to or less than t
 ## Crafting Rules
 
 ### Time to Craft
+
 - Crafting takes a number of **days equal to the bonus traits** the item will have.
 - **0-trait items** still require **1 full day** to craft.
 - Use *Dark Epics* for base stats unless a different source is cited.
@@ -85,11 +91,14 @@ If you choose to chop with a Storyteller for a **special modification**, the fol
 - The Storyteller chooses a benefit appropriate to the item.
   - *Examples*: “High Caliber” (gun), “Shield Break” (sword), etc.
 
+> Each option may only be chosen **once**.
+
 ### On a Tie
 - You may choose **one of the following**:
   - Gain a Bonus Trait
   - Remove a Negative Trait
-  - Deliver/Soak +1 damage  
+  - Deliver/Soak +1 damage
+
 > Each option may only be chosen **once**.
 
 ### On a Loss
@@ -97,7 +106,7 @@ If you choose to chop with a Storyteller for a **special modification**, the fol
 - The Storyteller chooses the drawback based on the item.
   - *Examples*: “Loud” (gun), “Fragile” (sword), loss of a health level on armor, etc.
 
-> The player does **not get to choose** the effect in either case.
+> The player does **not get to choose** the effect in either case nor are these limited to once (A weapon could receive *Loud x2* for instance)
 
 Let staff know if you'd like help building your item index cards or to check if something falls under a Major, Minor, or Mundane category.
 
@@ -123,14 +132,14 @@ Let staff know if you'd like help building your item index cards or to check if 
 | Lance| +3  | Heavy, Slow  | None  | Three Lethal  | Versatile, Staking (if wooden tipped and sharpened)  |
 | Morning Star  | +3  | Clumsy | Trenchcoat  | Two Bashing| Versatile  |
 | Spear/Staff/Trident | +3  | Heavy  | None  | Spear/Pitchfork: Two Lethal; Staff: Two Bashing | Two-hand Requirement, Versatile, Staking (if wooden tipped and sharpened) |
-| Greatsword/Polearm/Scythe | +4  | Clumsy, Heavy| None  | Two Lethal | Two-hand Requirement, Versatile |
+| Greatsword / Polearm / Scythe | +4  | Clumsy, Heavy| None  | Two Lethal | Two-hand Requirement, Versatile |
 
 #### Thrown
 | Weapon          | Traits | Neg Traits     | Conceal | Damage     | Notes/Special Abilities                                   |
 |----------------|--------|----------------|---------|------------|------------------------------------------------------------|
 | Thrown Dagger  | +1     | Clumsy          | Pocket  | One Lethal | Versatile                                                  |
 | Paint Popper   | +2     | Clumsy          | Pocket  | One Bashing| Spray (paint), Versatile; Coats area, obscures evidence    |
-| Sm. Thrown Axe | +2     | Clumsy, Heavy   | Jacket  | One Lethal | Versatile                                                  |
+| Small Thrown Axe | +2     | Clumsy, Heavy   | Jacket  | One Lethal | Versatile                                                  |
 | Thrown Spear   | +3     | Clumsy, Heavy   | Jacket  | One Lethal | Versatile, Staking (if wooden tipped and sharpened)        |
 
 #### Ranged
@@ -149,7 +158,7 @@ Let staff know if you'd like help building your item index cards or to check if 
 |Submachine Gun    |+2    |Loud x2               |Jacket   |2 Lethal   |Spray, Full-Auto                                                 |
 |Assault Rifle     |+3    |Loud x2               |None     |2 Lethal   |Spray, Full-Auto, Two-Hand Req                                  |
 |Combat Shotgun    |+3    |Loud x2               |None     |2 Lethal   |Spray, Mass Trauma, Full-Auto, Two-Hand Req                     |
-|Compound/Longbow  |+3    |Fragile, Heavy        |None     |2 Lethal   |Staking (wood), Destroy Shield, Two-Hand Req                    |
+|Compound Bow / Longbow  |+3    |Fragile, Heavy        |None     |2 Lethal   |Staking (wood), Destroy Shield, Two-Hand Req                    |
 |Rifle             |+3    |Loud x2               |None     |2 Lethal   |Two-Hand Req                                                     |
 |Shotgun           |+3    |Loud x2               |Trenchcoat|2 Lethal  |Mass Trauma, Spray, Two-Hand Req                                |
 |Sniper Rifle      |+3    |Loud                  |None     |2 Lethal   |High-Caliber, Two-Hand Req                                      |

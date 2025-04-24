@@ -87,14 +87,14 @@ This section outlines the specific process for creating **Sabbat Vampire charact
 | Nine       | 13          | 5              | 14/2   | 6/10      |
 | Eight      | 14          | 5              | 15/3   | 6/12      |
 
-\*: Blood is total traits / maximum spent per round.
-\^: Willpower is starting traits / maximum traits.
+- \*: Blood is total traits / maximum spent per round.
+- \^: Willpower is starting traits / maximum traits.
 
 ## Available Sabbat Clans
 
 All **non-R&U Sabbat Clans** are open for play with Storyteller approval:
 
-- **Assamite Antitribu (Warriors)**
+- **Assamite Antitribu** *(Warriors)*
 - **Brujah Antitribu**
 - **Gangrel Antitribu** *(City and Country)*
 - **Lasombra**
@@ -108,7 +108,7 @@ All **non-R&U Sabbat Clans** are open for play with Storyteller approval:
 - **Tzimisce**
 - **Ventrue Antitribu**
 
-> Clans with access to **Blood Magic** will require a **background submission** and potential approval in accordance with House Rules.
+> Clans or Blood Lines not listed here or with access to **Blood Magic** will require a **background submission** and potential approval in accordance with House Rules and Organization Bylaws.
 
 ## Sabbat Factions
 
@@ -118,5 +118,6 @@ You may select a Sabbat Faction for flavor, advantages, or RP focus. The followi
 - **The Inquisition**
 - **The Associates**
 - **The Cult of Lilith**
+- **Any Heretical Affiliations**
 
 If your concept involves something not listed above, **please work with staff** to explore possibilities and approvals.

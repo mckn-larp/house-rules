@@ -63,6 +63,7 @@ Once you have signed in, you are under the control of the Storyteller (ST) staff
 | CB Form Shift        | —    |  |
 
 **Elemental Form bonuses:**
+
 - Fire: +1 aggravated damage in Brawl
 - Earth: Gain 3 levels of armor
 - Air: Free retest on stealth
@@ -70,47 +71,52 @@ Once you have signed in, you are under the control of the Storyteller (ST) staff
 
 ## Rule of Five
 
-Any game mechanic with a variable trait expenditure is capped at **5 traits max**, unless otherwise specified by a published rule. STs may override this.
+Any game mechanic with a variable trait expenditure is capped at **5 traits max**, unless otherwise specified by a published rule. Storytellers may override this.
 
 ## Carrier Attacks
 
 Carrier attacks are:
+
 - Limited to **1 per round**
 - Require **trait expenditure prior to attack**
 
 ### Listed Carrier Attacks
 
 **Animalism**: Quell the Beast  
-**Necromancy**: Mortus Path – Mercy for Seth  
+**Necromancy**: Mortus Path – *Mercy for Seth*  
 **Quietus**: Scorpion’s Touch *(if traits not pre-spent)*  
 **Thanatosis**: Putrefaction, Withering, Necrosis  
-**Vicissitude**: Fleshcraft, Bonecraft (as per Tzimisce Packet)  
+**Vicissitude**: Fleshcraft, Bonecraft (per Tzimisce Packet)  
 **Valeren**: Burning Touch *(Not a carrier; requires continued Grapple)*
 
 **Thaumaturgy**:
-- Path of Blood: Blood Rage, Cauldron of Blood
-- Mastery of the Mortal Shell: Vertigo, Contortion, Seizure, Body Failure
-- Vine of Dionysus: Methyskein, Hamaratia
-- Neptune’s Might: Blood to Water
-- Path of Corruption: Addiction
-- Hands of Destruction: Atrophy
+
+- *Path of Blood*: Blood Rage, Cauldron of Blood
+- *Mastery of the Mortal Shell*: Vertigo, Contortion, Seizure, Body Failure
+- *Vine of Dionysus*: Methyskein, Hamaratia
+- *Neptune’s Might*: Blood to Water
+- *Path of Corruption*: Addiction
+- *Hands of Destruction*: Atrophy
 - Any Ritual requiring touch
+
+Additional carrier attacks are at the storyteller's descretion.
 
 ## Additional Defenses
 
 Defenders may spend **1 additional Temporary Willpower** to retest the following powers:
 
-- Chimerstry: Horrid Reality
-- Mytherceria: Riddle Phantastique
-- Necromancy: Bone Path – Soul Stealing
-- Path of the Focused Mind: One Tracked Mind
-- Thaumaturgy: Gift of Morpheus – Enchanted Slumber
-- Mastery of the Mortal Shell: Body Failure
-- Path of Du’at: Consignment to Du’at
+- *Chimerstry*: Horrid Reality
+- *Mytherceria*: Riddle Phantastique
+- *Necromancy*: Bone Path – Soul Stealing
+- *Path of the Focused Mind*: One Tracked Mind
+- *Gift of Morpheus*: Enchanted Slumber
+- *Mastery of the Mortal Shell*: Body Failure
+- *Path of Du’at*: Consignment to Du’at
 
 ## Ties in Challenges
 
 When a trait total tie occurs:
+
 - Each party may add their **permanent levels of one appropriate Ability**.
 - Adding traits **only** applies on challenges that tie on trait totals
 
@@ -118,6 +124,7 @@ When a trait total tie occurs:
 Bob (attacker) may add **Brawl**. Tina (defender) may add **Dodge**.
 
 Additional resources for traits in challenge resolution:
+
 - Weapon stats **(limit one item)**
 - Specializations **(limit one specialization)**
 - Merits
@@ -132,6 +139,7 @@ Additional resources for traits in challenge resolution:
 - **Merit**
 - **Advantage (Tribe, Effect, etc.)**
 - **Temper**
+
 > Note, you can only declare and use **one and only one** retest per category.
 
 **Auspex vs. Obfuscate Tie**:  
@@ -139,22 +147,25 @@ Additional resources for traits in challenge resolution:
 - Add **levels of Obfuscate + Stealth** for concealment  
 - Each level = +1 Trait
 - Combination powers **do not** add levels above the core discipline
+
 > Note that Combination powers **still** gain the benefits of the core discipline so using *See the True Form* (Auspex 2, Protean 4) with Auspex 5 and 5 levels of Investigation would net +10 traits.
 
 If both parties have **"Win on Ties"**, it is treated as if neither has it.
 
 ## Bidding Addendum
 
-Unless a power/merit explicitly overrides it, **bidding is capped at twice the generational cap**.
+Unless a power/merit explicitly overrides it, **bidding is capped at twice the generational/rank cap**.
 
 Allowed to exceed the cap:
+
 - Impressive Visage
 - Pater Szlachta
-- Other ST-approved powers or merits
+- Other Storyteller-approved powers or merits
 
 ## Retests
 
 Only **one retest per source** is allowed per challenge. Sources include:
+
 - Ability
 - Discipline or Supernatural Power
 - Magic Item
@@ -181,7 +192,7 @@ These rules outline the structure, etiquette, and mechanical systems in place du
 - **Do not coach other players** on how to run their sheets.
 - **Ask rules questions to the ST** only — not to other players.
 - **Know your damage output** and its sources. Be able to explain this to an ST.
-  - Players may ask STs about **other players’ combat stats** (not directly to other players).
+- Players may ask STs about **other players’ combat stats** (not directly to other players).
 
 ## Armor Hierarchy  
 You are allowed 3 types of armor and this is the order the armor levels are utilized when taking damage.
