@@ -163,7 +163,7 @@ To create some of these items, a character needs a corresponding level of the Lo
 | Blood Shield | VA | N/A | +4 Bonus traits but the costs the character 3 blood traits. |
 | Kduva’s Mask | VA | N/A | +2 Bonus traits to Intimidation and Leadership challenges.  All items within a 10 foot radius burst into green flame. All mortals take 1 aggravated damage a round.  Any attempts to aura read the vampire are down 2 traits. |
 | Pledge Sword | VA | N/A | The pledge-sword’s owner may wield the sword once against anyone who has come into contact with it.  The owner pronounces the name of his target, then either stabs the blade into the ground or jabs it towards the sky during rainfall.  If the target is either touching the earth or beneath the same rainstorm, he is slashed as though cut by the blade.  This weapon does aggravated damage and ignores non-supernatural forms of defense. |
-| Incantations, General | IN | 2025-01-04 00:00:00 | New Incantations are approved on a case by case basis, but generally will use the mechanics for Blood Magic rituals up to level 4.  Only Rituals that appear as general or in multiple paradigms may be used. |
+| Incantations, General | IN | 1 to 40 | New Incantations are approved on a case by case basis, but generally will use the mechanics for Blood Magic rituals up to level 4.  Only Rituals that appear as general or in multiple paradigms may be used. |
 | For Luck (Potion or Amulet) | IN | N/A | +3 retests on any challenge which are used when called upon. |
 | For Wounds | IN | N/A | Heals 1 level of aggravated damage or two levels of lethal damage |
 | To Bestill the Grave (amulet) | IN | N/A | If the wearer dies they may not come back in any way. |
