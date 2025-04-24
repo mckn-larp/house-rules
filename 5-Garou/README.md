@@ -1,4 +1,4 @@
-# Rules: Garou & Changing Breeds Specific
+# GAROU & FERA SPECIFIC RULES
 
 ## Additional Resources
 

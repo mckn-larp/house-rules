@@ -1,7 +1,6 @@
-# Silent Striders Gifts
+## Silent Striders Gifts
 
------
-## Basic
+### Basic Gifts
 - **Axis Mundi** (W20) - Per the Lupus Gift.
 - **Blissful Ignorance** (LOTWR) - Per the Ragabash Gift.
 - **Dust-Talking** (LOTWW) - Per LOTWW.
@@ -20,7 +19,7 @@
 - **Tread Sebek’s Back** (Silent Striders Tribebook Revised) - Per Silent Striders Tribebook Revised.
 - **Visions of Duat** (W20) - Spend 1 Gnosis + Mental challenge (Occult) to see and hear ghosts.
 
-## Intermediate
+### Intermediate Gifts
 - **Adaptation** (LOTWR) - Per LOTWR.
 - **Attunement** (LOTWR) - Per LOTWR.
 - **Black Mark** (W20) - Spend 1 Gnosis on claw attack; target becomes haunted for 1 day per damage level.
@@ -39,56 +38,43 @@
 - **Speed Beyond Thought** (LOTWR) - Per LOTWR.
 - **Tongues** (W20) - Per the Homid Gift.
 
-## Advanced
+### Advanced Gifts
 - **Gate of the Moon** (LOTWR) - Per LOTWR.
 - **Invocation of the Pharaoh** (Silent Striders Tribebook 1st Ed) - Temporarily take on a powerful Homid-like Crinos form. Socially potent and immune to silver.
 - **Reach the Umbra** (LOTWR) - Per LOTWR.
 - **Train of Thought** (LOTWW) - Per LOTWW.
 
----
+### Silent Strider Camp Gifts
 
-# Silent Strider Camp Gifts
-
-## Bitter Hex
-
+#### Bitter Hex
 **Basic:**
 - **Curse of Hatred** (LOTWR) - Per the Metis Gift.
-
 **Advanced:**
 - **Fetish Doll** (LOTWR) - Per the Uktena gift.
 
-## Dispossessed
-
+#### Dispossessed
 **Basic:**
 - **Graceful Strike** - Per Silent Striders Tribebook Revised.
 
-## Eater of the Dead
-
+#### Eater of the Dead
 **Intermediate:**
 - **Touch of Death** - Per Silent Striders Tribebook Revised.
 
-## Harbingers
-
+#### Harbingers
 **Basic:**
 - **Grim Resolve** - Per Silent Striders Tribebook Revised. May be used alongside Inspiration.
 - **Trouble Seeker** - Mental Challenge (Engimas), diff 8. Lead to dangerous trouble spots quickly.
-
 **Intermediate:**
 - **Ghost Touched** - Per Silent Striders Tribebook Revised.
 
-## Seekers
-
+#### Seekers
 **Basic:**
 - **Sense of the Prey** (LOTWR) - Per the Ragabash Gift.
 
-## Sword of Night
-
+#### Sword of Night
 **Intermediate:**
 - **Mindblock** (LOTWR) - Per the Silver Fang Gift.
 
-## Wayfarers
-
+#### Wayfarers
 **Basic:**
 - **Call to Duty** (LOTWR) - Per the Philodox Gift.
------
-

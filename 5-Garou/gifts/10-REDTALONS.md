@@ -1,7 +1,6 @@
-# Red Talons Gifts
+## Red Talons Gifts
 
------
-## Basic
+### Basic
 - **Aura of Ferocity** (WWW) - Per the Intermediate Wild West Lupus Gift *Wyld Ferocity*.
 - **Beast Speech** (LOTWR) - Per the Galliard Gift.
 - **Beastmind** (LOTWR) - Per LOTWR.
@@ -20,7 +19,7 @@
 - **Water Sense** (WWC) - Static Mental Challenge (retest Survival, diff 6). Detects water sources within 100 yards +100 per Mental Trait spent.
 - **Wolf at the Door** (LOTWR) - Per LOTWR.
 
-## Intermediate
+### Intermediate
 - **Avalanche** (WtA2) - Spend 1 Gnosis, Social Challenge (retest Survival). Triggers avalanche/mudslide based on terrain and Traits spent.
 - **Dust Squall** (WWW) - Spend 1 Gnosis, Static Social Challenge (retest Primal-Urge, diff 12). Blinds and penalizes foes for 1 turn +1 per Social Trait spent.
 - **Elemental Favor** (LOTWR) - Per LOTWR.
@@ -37,63 +36,43 @@
 - **Sandstorm** (WWW) - 1 Gnosis, Social Challenge (retest Survival). Blinds enemies for minutes based on Gnosis spent.
 - **Territory / Predator’s Many Eyes** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
 - **Trackless Waste** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
-
-## Advanced
+### Advanced
 - **Blessing of the First Pack** (Red Talon Tribebook Revised) - Per Revised, except tempers gained increase rating.
 - **Curse of Lycaon** (LOTWR) - Per LOTWR.
 - **Gaia’s Vengeance** (LOTWR) - Per LOTWR.
 - **Natural Renewal** (WWC) - Spend 3 Gnosis and howl. Causes rapid natural regrowth and tech failure in 30ft radius.
 - **Scabwalker Curse** (W20) - 1 Gnosis, Social Challenge (retest Survival). Target takes bashing from contact with non-natural objects for 1 day per Social Trait spent.
 - **Shattering Howl** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
-
 ---
-
 # Red Talon Camp Gifts
-
-## Dying Cubs
-
+### Dying Cubs
 **Basic**
 - **Reap the Soul** - Per Red Talon Tribebook Revised.
-
 **Intermediate**
 - **Pain of the Land** - Gain 3 traits in cities, 5 traits around strong Wyrm threats.
-
-## Kucha Ekindu
-
+### Kucha Ekindu
 **Basic**
 - **Feed the Pack** - Per Red Talon Tribebook Revised.
 - **Speed of Thought** - Per the Silent Strider Gift.
-
 **Intermediate**
 - **Clenched Jaw** - Per the Ahroun Gift.
-
 **Advanced**
 - **Crocodile Pact** (W20) - 2 Gnosis + Static Social Challenge (retest Rituals, diff 15). Summons Mokolé allies or spirit aid.
-
-## Lodge of the Predator Kings
-
+### Lodge of the Predator Kings
 **Basic**
 - **Prey’s Cry** - Per Red Talon Tribebook Revised.
 - **Offerings of the Slain** - Per Red Talon Tribebook Revised.
-
-## Warders of the Land
-
+### Warders of the Land
 **Basic**
 - **Mark of the Prey** - Per Red Talon Tribebook Revised.
-
 **Intermediate**
 - **Snap Man’s Chains** - Per Red Talon Tribebook Revised.
-
-## Whelp’s Compromise
-
+### Whelp’s Compromise
 **Basic**
 - **Cub’s Lessons** - Per Red Talon Tribebook Revised.
 - **Judgment** - Per Red Talon Tribebook Revised.
-
-## Winter Packs
-
+### Winter Packs
 **Basic**
 - **Silence the Slain** - Per Red Talon Tribebook Revised.
 - **Rampage** - Per Red Talon Tribebook Revised.
 -----
-

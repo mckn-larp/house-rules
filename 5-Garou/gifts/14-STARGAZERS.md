@@ -1,8 +1,6 @@
-# Stagazer Gifts
+## Stagazer Gifts
 
------
-
-## Basic Gifts
+### Basic Gifts
 - **Balance** (W20) – Spend 1 Gnosis to walk narrow, slippery, or treacherous surfaces for one session.
 - **Catfeet** (LOTWW) – Per the Lupus Gift.
 - **Channeling** (Stargazer Tribebook Revised) – Per Stargazer Tribebook Revised. *(Note: Once per session)*
@@ -26,7 +24,7 @@
 - **Threads of the Weaver** (WWW) – Static Mental (Enigmas) diff 6–8; detect recent/present/future Weaver influence.
 - **Wuxing** – Per Stargazer Tribebook Revised.
 
-## Intermediate Gifts
+### Intermediate Gifts
 - **Anahata (Serpent Fire)** – Gnosis + Social (Empathy) diff 7; gain emotional insight and bonus to sway.
 - **Avoid Fate** (PG2) – Spend 1 Gnosis for an extra retest on any challenge.
 - **Burning Fire-Mind (Mantra)** – Per Stargazer Tribebook Revised.
@@ -50,7 +48,7 @@
 - **Walk the Web** – Allows unnoticed travel through Weaver realms if not aggressive.
 - **Wind’s Returning Favor** – Per Stargazer Tribebook Revised.
 
-## Advanced Gifts
+### Advanced Gifts
 - **Ancestral Incarnation** – Per Stargazer Tribebook Revised.
 - **Atma (Serpent Fire)** – Gnosis + Mental (Enigmas); double Enigmas bonus on next Enigmas challenge.
 - **Break the Loom** – Gnosis + Mental (Enigmas); reduce Gauntlet, cancel paradox effect.
@@ -62,29 +60,21 @@
 - **Vision of the True Spirit** (LOTWW) – Per LOTWW.
 - **Wisdom of the Seer** (W20) – 15 min sky watching, Static Mental (Enigmas) diff 7. Gain one truthful answer from ST.
 
----
+### Stargazer Camp Gifts
 
-# Stargazer Camp Gifts
-
-## Demon Eaters
-
+#### Demon Eaters
 **Basic Gifts:**
 - **Reverie of the Kol-Kin** – Per Stargazer Tribebook Revised.
 - **Sense the Demonic** – Per Stargazer Tribebook Revised.
 
-## The Sacred Thread
-
+#### The Sacred Thread
 **Basic Gifts:**
 - **The Teacher’s Ease** – Per Stargazer Tribebook Revised.
 - **Word-to-Weapon** – Per Stargazer Tribebook Revised.
-
 **Advanced Gifts:**
 - **Eyes of Ignorance** – Per Stargazer Tribebook Revised. *(ST Discretion on known abilities)*
 
-## Trance Runners
-
+#### Trance Runners
 **Intermediate Gifts:**
 - **Bird Bones** – Per Stargazer Tribebook Revised.
 - **Seven Mile Leap** – Per Stargazer Tribebook Revised.
------
-

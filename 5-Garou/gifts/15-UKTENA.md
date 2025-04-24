@@ -1,9 +1,6 @@
-# Uktena Gifts
+## Uktena Gifts
 
------
-
-## Basic Gifts
-
+### Basic Gifts
 - **Another’s Moccasins** — _Uktena Tribebook Revised_
 - **Blending/Natural Camouflage** — _Uktena Tribebook Revised_
 - **Coils of the Serpent** — _Uktena Tribebook Revised_
@@ -31,8 +28,7 @@
 - **Strut** — _Uktena Tribebook Revised_
 - **Uktena’s Freezing Stare** — _Uktena Tribebook Revised_
 
-## Intermediate Gifts
-
+### Intermediate Gifts
 - **Banish Totem** — _LOTWR_
 - **Bounty of the Corn Maiden** — Gnosis + Mental (Occult) challenge. Create meals from food held.
 - **Call Elemental** — _LOTWR_
@@ -60,8 +56,7 @@
 - **Wisdom of the Ancient Ways** — _See: Philodox gift_
 - **Wyrm Whispers** — Mental, retest Enigmas. Detect Wyrm minds, may cause derangement or taint.
 
-## Advanced Gifts
-
+### Advanced Gifts
 - **Call on Ancient Medicine** — _LOTWW_, use Ancestors in place of Past Lives.
 - **Eyes of the Thunderbird** — Static Mental + Mental traits. Fire lightning bolts doing 5 agg each.
 - **Fabric of the Mind** — _See: Galliard gift_
@@ -70,34 +65,25 @@
 - **Manifest the Vision** — _See: Fabric of the Mind_
 - **Uktena’s Glare** — _Uktena Tribebook Revised_
 
----
+### Camp Gifts
 
-## Camp Gifts
-
-### Bane Tenders
-
+#### Bane Tenders
 **Intermediate Gifts**
 - **Strength of the Guardian** — Gnosis challenge. Boost Strength, Stamina, Charisma, etc. Traits lost afterward.
 
-### Earth Guides
-
+#### Earth Guides
 **Intermediate Gifts**
 - **Ancestral Recall** — Mental, retest Enigmas. Spend Mental + 1 Gnosis to access lost tribal lore.
 - **Bare the Heart** — Gnosis + Mental (Empathy). Reveals masks, corruption, and intent of target.
 
-### Scouts
-
+#### Scouts
 **Basic Gifts**
 - **Fast Track** — Static Physical, retest Athletics. Makes forced march without exhaustion.
 
-### Skywalkers
-
+#### Skywalkers
 **Basic Gifts**
 - **Umbral Compass** — Static Mental, retest Survival. Lowers Gauntlet diff or helps pathfind. Failure risks being trapped.
 
-### Wyld Children
-
+#### Wyld Children
 **Basic Gifts**
 - **Call Forth the Wyld** — Static Mental, retest Repair. Spend Gnosis to destroy small tech. Creative chaos!
------
-

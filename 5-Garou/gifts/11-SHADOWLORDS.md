@@ -1,7 +1,6 @@
-# Shadow Lords Gifts
+## Shadow Lords Gifts
 
------
-## Basic
+### Basic Gifts
 - **Aura of Confidence** (LOTWR) - Per LOTWR.
 - **Aura of Nobility** (WWC) - Spend 1 Gnosis to negate one loss of Honor, once per session.
 - **Clap of Thunder** (LOTWR) - Per LOTWR. Difficulty 8.
@@ -20,7 +19,7 @@
 - **Storm Winds Slash** (Hakken) - Per *Hengeyokai MET*, weapon deals base mundane lethal damage.
 - **Whisper Catching** (Shadow Lord Tribebook Revised) - Per Shadow Lord Tribebook Revised.
 
-## Intermediate
+### Intermediate Gifts
 - **Call the Storm** (Shadow Lord Tribebook Revised) - Per Shadow Lord Tribebook Revised.
 - **Curse of Corruption** (PG2) - Spend 1 Willpower + Gnosis Challenge (Subterfuge). Victim sounds untrustworthy for the scene.
 - **Dark of Night** (Hakken) - Per *Hengeyokai MET*.
@@ -40,70 +39,53 @@
 - **Under the Gun** (W20) - Spend 1 Gnosis + Social Challenge (retest Firearms). Target takes 4-trait penalty dodging projectiles for 1 day per Social Trait spent.
 - **Unwitting Pawn** (WWC) - Spend 1 Gnosis per day to cultivate a target’s loyalty. Can evolve into obsession over time.
 
-## Advanced
+### Advanced Gifts
 - **Divine Wind** (Hakken) - Per *Hengeyokai MET*.
 - **Obedience** (LOTWR) - Per LOTWR.
 - **Shadow Pack** (LOTWR) - Per LOTWR.
 - **Wounding Lies** (Shadow Lord Tribebook Revised) - Per Shadow Lord Tribebook Revised.
 
----
+### Shadow Lord Camp Gifts
 
-# Shadow Lord Camp Gifts
-
-## Bringers of Light
-
+#### Bringers of Light
 **Basic**
 - **Purify Scent** - Per Shadow Lord Tribebook Revised.
 - **Pure Identity** - Opponent may challenge you (Mental vs. Social, retest Subterfuge) to pierce disguise.
-
 **Intermediate**
 - **Wyrm Taint** - Per Shadow Lord Tribebook Revised.
-
 **Advanced**
 - **Purity of the Blood** - Per Shadow Lord Tribebook Revised.
 
-## Children of Bat
-
+#### Children of Bat
 **Basic**
 - **Ears of the Bat** - Per Shadow Lord Tribebook Revised.
 - **Patagia** - Per Shadow Lord Tribebook Revised.
-
 **Intermediate**
 - **A Thousand Eyes** - Per Shadow Lord Tribebook Revised.
 
-## Children of Crow
-
+#### Children of Crow
 **Basic**
 - **Hidden Secrets** - Per Shadow Lord Tribebook Revised.
 - **Perceptive Servant** - Per Shadow Lord Tribebook Revised.
-
 **Intermediate**
 - **Dark Aerie** - Per Shadow Lord Tribebook Revised.
 
-## Judges of Doom
-
+#### Judges of Doom
 **Basic**
 - **Executioner’s Privilege** - Per Get of Fenris Gift *Halt the Coward’s Flight*.
 - **Interrogator** - Per Shadow Lord Tribebook Revised.
 - **True Fear** - Per Ahroun Gift (LOTWR).
-
 **Intermediate**
 - **Assassin’s Strike** - Per Shadow Lord Tribebook Revised. Deals +1 level of damage.
-
 **Advanced**
 - **Find the Transgressor** - Per Shadow Lord Tribebook Revised.
 
-## Lords of the Summit
-
+#### Lords of the Summit
 **Basic**
 - **Interrogator** - Per Shadow Lord Tribebook Revised.
 - **Paranoia** - Per Shadow Lord Tribebook Revised.
 - **True Fear** - Per Ahroun Gift (LOTWR).
-
 **Intermediate**
 - **Roll Over** - Per Philodox Gift (LOTWR).
-
 **Advanced**
 - **Mask Taint** - Spend 1 Gnosis + Social Challenge (retest Subterfuge, diff 8). You cannot be detected for Wyrm taint for the scene. Simple test on use: failure adds Wyrm taint. May not be used by fully fallen Garou.
------
-

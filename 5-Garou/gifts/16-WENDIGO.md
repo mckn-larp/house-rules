@@ -1,8 +1,6 @@
-# Wendigo Gifts
+## Wendigo Gifts
 
------
-## Basic Gifts
-
+### Basic Gifts
 - **Beat of the Heart-Drum (W20)** – Spend 1 Gnosis and make a Mental Challenge (retest Survival). Hear a quarry’s heartbeat regardless of distance for 1 day per Mental Trait spent.
 - **Buffalo Hide (FS)** – Static Physical (Primal Urge) vs 10. Gain 2 armor health levels vs missile weapons. Lasts 1 scene. Can be used on others.
 - **Call the Breeze (LOTWR)** – Per LOTWR.
@@ -26,8 +24,7 @@
 - **True Fear (LOTWR)** – Per the Ahroun Gift.
 - **Truth of the Hunted (WWC)** – Static Mental (Survival) + Mental Traits. Reveals false trails, state of prey, etc.
 
-## Intermediate Gifts
-
+### Intermediate Gifts
 - **Balance of Wormwood** – Per *Wendigo Tribebook Revised*.
 - **Bark of Willow** – Per *Wendigo Tribebook Revised*.
 - **Bloody Feast (LOTWR)** – Bite to draw blood, then Physical (Survival) vs target. Gain bonus Strength Traits = Rank for (½ Gnosis) turns. Frenzy test required.
@@ -48,8 +45,7 @@
 - **Wisdom of the Ancient Ways (LOTWR)** – Per the Philodox Gift.
 - **Wsitiplaju’s Bow** – Per *Wendigo Tribebook Revised*.
 
-## Advanced Gifts
-
+### Advanced Gifts
 - **Ghost Shirt (LOTWW)** – Per Ahroun Gift *Hail of Bullets*.
 - **Heart of Ice (LOTWR)** – Per LOTWR.
 - **Invoke the Spirits of the Storm (LOTWR)** – Per LOTWR.
@@ -57,30 +53,18 @@
 - **The Freezing Night (WWW)** – Spend 2 Gnosis + Static Willpower (diff 8) + Willpower Traits. Causes cold storm over ½ mile, doing 2 + (2 × Willpower) lethal. Kills small animals and humans. Lasts 1 hour. Night only.
 - **Tornado Rider (WWW)** – Spend 2 Gnosis + Static Willpower (diff 6). Creates twister after 2 turns. Ride safely, demolishes terrain. Others take 5+ lethal damage.
 
----
+### Wendigo Camp Gifts
 
-# Wendigo Camp Gifts
-
-## Ghost Dance
-
+#### Ghost Dance
 **Basic Gifts**
-
 - **Virgin Snow** – Per *Wendigo Tribebook Revised*.
 
-## Sacred Hoop
-
+#### Sacred Hoop
 **Basic Gifts**
-
 - **Claw-to-Thumb** – Per Silver Fang Gift *Empathy*.
-
 **Intermediate Gifts**
-
 - **Fire Water’s Quench** – Per *Wendigo Tribebook Revised*.
 
-## Warpath
-
+#### Warpath
 **Basic Gifts**
-
 - **Fog (PG2)** – Per Black Fury Gift *Curse of Aeolus*.
------
-

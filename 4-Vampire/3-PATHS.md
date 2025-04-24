@@ -1,30 +1,31 @@
 # Paths Of Enlightenment
 
 -----
+## Major Paths
 
 The following paths are approved for play based on their OWBN write-ups. If your character is NOT on a path listed, that path must be approved prior to paly
 
-### Path of Caine  
+#### Path of Caine  
 Vampires on this path see Caine, the first vampire, as a divine being and strive to emulate his legendary strength, sacrifice, and divine punishment. They embrace their vampiric nature as a holy mandate.  
 **Virtues:** Conviction, Self-Control
 
-### Path of Cathari  
+#### Path of Cathari  
 Hedonists and nihilists, Cathari believe the world is corrupt and doomed—so why not indulge in every pleasure and transgression? They seek enlightenment through sin, not restraint.  
 **Virtues:** Conviction, Instinct
 
-### Path of Death and the Soul  
+#### Path of Death and the Soul  
 Focused on spiritual detachment, followers seek to understand the soul’s fate beyond undeath, often through study of death, ghosts, and oblivion. Morality is irrelevant; transcendence is the goal.  
 **Virtues:** Conviction, Self-Control
 
-### Path of Feral Heart  
+#### Path of Feral Heart  
 This path embraces the Beast as a source of purity and primal wisdom, rejecting human morality in favor of instinctual truth. Followers live as predators unashamed of what they are.  
 **Virtues:** Conviction, Instinct
 
-### Path of Honorable Accord  
+#### Path of Honorable Accord  
 Vampires on this path live by strict codes of honor and personal conduct, not human ethics. Loyalty, truth, and discipline define them—not kindness.  
 **Virtues:** Conviction, Self-Control
 
-### Path of Metamorphosis  
+#### Path of Metamorphosis  
 Followers seek to evolve beyond vampirism and flesh, aspiring toward a new transcendent form. They view themselves as experiments in spiritual and physical transformation.  
 **Virtues:** Conviction, Self-Control  
 
@@ -34,7 +35,7 @@ Followers seek to evolve beyond vampirism and flesh, aspiring toward a new trans
 - **Path of Spirit** Concentrates on the soul’s transcendence through study, meditation, and mystical insight.  
     **Virtues:** Conviction, Self-Control
 
-### Path of Night  
+#### Path of Night  
 This path revels in darkness, embracing damnation as a divine truth. Its sub-paths explore different expressions of spiritual corruption and the vampire's role as an agent of dread.  
 **Virtues:** Conviction, Self-Control  
 
@@ -53,15 +54,15 @@ This path revels in darkness, embracing damnation as a divine truth. Its sub-pat
 - **Righteous Night** Believes the vampire is a divine executioner sent to punish the wicked.  
     **Virtues:** Conviction, Self-Control
 
-### Path of Orion  
+#### Path of Orion  
 A modern Sabbat path blending martial discipline and cosmic order; followers see themselves as chosen protectors of a greater vampiric destiny across the stars.  
 **Virtues:** Conviction, Instinct
 
-### Path of Power and the Inner Voice  
+#### Path of Power and the Inner Voice  
 Nihilistic and megalomaniacal, this path teaches that one’s own will is supreme, and power is its only measure. Followers are often charismatic leaders or tyrants.  
 **Virtues:** Conviction, Instinct
 
-### Path of Redemption  
+#### Path of Redemption  
 A rare path for those seeking to atone for their curse, striving to reclaim their humanity or find spiritual peace. Often shunned by other Sabbat.  
 **Virtues:** Conscience, Self-Control
 

@@ -44,10 +44,6 @@ All magical items must include:
   - Contained spirit type
   - Spirit statistics or additional magical information
 
-## Fetishes & Talens
-
-You may not carry more **fetishes or talens** than **half your permanent Willpower**, rounded up.
-
 ## Weapon Enchantments
 
 Weapons may only be enchanted with a number of rituals **equal to or less than the traits they provide**. This applies to:

@@ -1,30 +1,12 @@
-# GIFTS: BREED
+# Breed Gifts
 
------
+---
 
 This document details Breed-specific Gifts, sorted by Breed and Level. Click a link below to jump to a specific section:
 
-## Navigation
-
-### Homid Gifts
-- [Homid > Basic](#homid--basic)
-- [Homid > Intermediate](#homid--intermediate)
-- [Homid > Advanced](#homid--advanced)
-
-### Metis Gifts
-- [Metis > Basic](#metis--basic)
-- [Metis > Intermediate](#metis--intermediate)
-- [Metis > Advanced](#metis--advanced)
-
-### Lupus Gifts
-- [Lupus > Basic](#lupus--basic)
-- [Lupus > Intermediate](#lupus--intermediate)
-- [Lupus > Advanced](#lupus--advanced)
-
----
 ## Homid
 
-### Homid > Basic
+#### Homid - Basic
 
 - **Apecraft’s Blessings (W20)** – Spend a turn concentrating. Static Mental challenge (diff 7, retest Crafts). Gain +1 trait with a man-made tool, plus one per Rank, on next challenge.
 - **City Running/Climb Like an Ape (BoC/W20)** – Spend 1 Rage. Climb urban features at full speed. +2 traits on Athletics checks in cities.
@@ -44,7 +26,7 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 - **Stench and the City (BoC)** – Spend 1 Rage, Physical challenge (retest Primal Urge). Target loses up to 5 traits next round; lose action if 5 traits are spent.
 - **Weaver’s Eyes (W20:CW)** – Spend 1 Gnosis. Declare spending of Rage/Gnosis/Willpower at initiative.
 
-### Homid > Intermediate
+#### Homid - Intermediate
 
 - **Body Shift (W20)** – Trait shifts last the night. In combat, only shift up to Rank traits per turn.
 - **Bury the Wolf (W20)** – Spend 1 Gnosis, static Gnosis challenge (diff = Willpower). Nullifies Curse, Rage use, and shapeshifting. Locked in Homid.
@@ -59,18 +41,16 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 - **Tongues (W20)** – Spend 1 Willpower. Static Mental + Linguistics (ST-determined difficulty) to read/write languages.
 - **Web of Knowledge (W20:CW)** – Spend 1 Gnosis. Can investigate without spending Willpower for ability. Limited by topic and source availability.
 
-### Homid > Advanced
+#### Homid - Advanced
 
 - **Assimilation (LOTWR)** – Per LOTWR.
 - **Part the Veil (LOTWR)** – Per LOTWR.
 - **Ubermensch/Beyond Human (PGG)** – Influence costs 1 XP. Still requires RP/downtime unless Glass Walker.
 - **Weave of Steel (LOTWW)** – Per LOTWW.
 
-[Back to Top](#navigation) | [Homid](#homid) | [Metis](#metis) | [Lupus](#lupus)
------
 ## Metis
 
-### Metis > Basic
+#### Metis - Basic
 
 - **Burrow (LOTWR)** – Per Laws of the Wild Revised.
 - **Create Element (LOTWR)** – Volume created is 10 cubic feet per permanent Gnosis.
@@ -85,7 +65,7 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 - **Wild Cat Eyes (LOTWW)** – Superseded by Eyes of the Cat in LOTWR.
 - **Wriggle (GoC)** – Spend 1 Gnosis. For remainder of scene, squeeze through spaces half your body size.
 
-### Metis > Intermediate
+#### Metis - Intermediate
 
 - **Awaken Beast (WWPG)** – After a successful bite, spend 1 Gnosis and make Social challenge (retest Primal-Urge) vs. target’s Willpower. Target enters frenzy and believes they are a werewolf.
 - **Badger’s Heart (GoC)** – Spend 1 Gnosis and make a Willpower challenge. Success forces target to spend twice as much Rage for no additional effect. Duration: 1 day.
@@ -104,7 +84,7 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 - **Tenacious Fury (W20:CW)** – If you can spend a Rage, you do not fall unconscious from wounds and continue fighting.
 - **Wither Limb (LOTWR)** – Per LOTWR.
 
-### Metis > Advanced
+#### Metis - Advanced
 
 - **Madness (LOTWR)** – Per LOTWR.
 - **Protean Form (W20)** – Permanently modify your form for one of the following benefits:
@@ -116,17 +96,15 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 - **Twist of Fate (GoC)** – When dead, spend 1 Rage to make one final attack. Spend Willpower for +2 traits per point. Successful attack deals +10 aggravated damage.
 - **Umbral Body (PGG)** – Spend 1 Gnosis, test against Gauntlet rating. If successful, gain a free retest on all dodge/avoidance attempts for the scene.
 
-[Back to Top](#navigation) | [Homid](#homid) | [Metis](#metis) | [Lupus](#lupus)
------
 ## Lupus
 
-### Lupus > Basic
+#### Lupus - Basic
 
 - **Axis Mundi (W20)** – Per *Werewolf 20th Anniversary Edition*.
 - **Catfeet (LOTWW)** – Considered Intermediate in modern nights.
 - **Cousin’s Coat (WWW)** – Lupus form only. Social challenge (retest Survival) difficulty 7. Alters visible features and hides Pure Breed. Spend up to 3 traits to increase difficulty to see through ruse by 2 per trait.
 - **Eyes of the Eagle (WOTW)** – Declare when active. Gain +1 mile of clear vision per Rank.
-- **Find Water (WOTW)** – Mental challenge (retest Survival) difficulty 6 to locate water within 20 miles. Spend Mental Traits:
+- **Find Water (WOTW)** – Mental challenge (retest Survival) difficulty 6 to locate water within 20 miles. Spend Mental Traits:  
   - 1 trait: direction
   - 2 traits: distance
   - 3 traits: contamination status
@@ -144,16 +122,14 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 - **Spook the Herd (LOTWW)** – Per *Laws of the Wyld West*.
 - **Trapper’s Bane (W20:RATW)** – Always active. ST makes Mental + Primal Urge test when approaching traps or ambushes.
 
----
-
-### Lupus > Intermediate
+#### Lupus - Intermediate
 
 - **Beast Life (LOTWR)** – Per *Laws of the Wild Revised*.
 - **Catfeet (LOTWR)** – Per LOTWR (this version supersedes Basic use).
 - **Death Whispers (PGG)** – Stand next to corpse and remain still. Mental challenge (retest Occult), diff 7. Spend Mental Traits equal to hours corpse has been dead. Extra traits provide clearer messages. May only be used once per corpse.
 - **Gnaw (LOTWR)** – Per LOTWR.
 - **Healing Sleep (WWW)** – Spend 1 Gnosis. Physical challenge (retest Primal Urge). Enter hibernation. Wake after 1 day and night with all damage healed, including aggravated.
-- **Monkey Tail (PG2)** – May use prehensile tail (forms that have tails). Physical challenge difficulty varies by task. Tail can be used to hang or swing (if Strength > Stamina). Attacks deal 1 less damage (minimum 1).
+- **Monkey Tail (PG2)** – May use prehensile tail (forms that have tails). Physical challenge difficulty varies by task. Tail can be used to hang or swing (if Strength - Stamina). Attacks deal 1 less damage (minimum 1).
 - **Scream of Gaia (LOTWR)** – Per LOTWR.
 - **Silence the Weaver (W20)** – Spend 1 Rage. Howl for one turn. Static Social (retest Primal Urge) diff 7. Destroys delicate electronics in a 20-yard radius (+20 per Social Trait spent).
 - **Strength of Gaia (W20)** – Spend 1 Rage. In Lupus form, base Strength increases by 4 (Brawny x2, Ferocious, Tough) for a total of 8 Physical traits.
@@ -163,15 +139,9 @@ This document details Breed-specific Gifts, sorted by Breed and Level. Click a l
 - **Venom (PG2)** – After bite, Physical challenge (retest Primal Urge). Success deals 1 aggravated damage and causes target to lose 1 Physical trait until next scene.
 - **Wyld Ferocity (WWW)** – Spend 1 Rage and growl. Mundane humans take -1 trait within 20 feet. Non-hardened humans must succeed Willpower vs. your Rage or flee.
 
----
-
-### Lupus > Advanced
+#### Lupus - Advanced
 
 - **Boon of the Animal Fathers (WOTW)** – Benefits stack with Totem benefits.
 - **Dispel the Golden Plague (LOTWW)** – Spend 1 Gnosis. Static Gnosis challenge (difficulty set by ST). Turns gold into dust, makes it vanish beyond recovery.
 - **Elemental Gift (LOTWR)** – Per *Laws of the Wild Revised*.
 - **Song of the Great Beast (LOTWR)** – Per LOTWR.
-
-[Back to Top](#navigation) | [Homid](#homid) | [Metis](#metis) | [Lupus](#lupus)
------
-

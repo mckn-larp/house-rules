@@ -1,8 +1,3 @@
 # COSMOLOGY AND THE UMBRA
 
------
-
-
-
------
-
+---
