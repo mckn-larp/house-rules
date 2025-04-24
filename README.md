@@ -45,15 +45,6 @@ Click on each section below to view our local rulings and clarifications:
 - [**Game Play**](./3-Gameplay/README.md)  
   Basic, in-game mechanics rules.
 
-- [**Vampire Rules**](./4-Vampire/README.md)  
-  Sect-specific adjustments, paths, advantages, and play expectations.
-  
-- [**Garou Rules**](./5-Garou/README.md)  
-  Local rulings, flavor elements, and crossover limitations for Garou.
-
-- [**Changeling Rules**](./6-Changeling/README.md)  
-  Specific rulings for Kithain and Nunnehi play in the Knoxville chronicle.
-
 - [**Cosmology & Umbra**](./7-Cosmology/README.md)  
   How spirits, realms, and metaphysical systems function in our chronicle.
 
