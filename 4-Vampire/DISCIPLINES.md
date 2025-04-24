@@ -8,14 +8,10 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 
 > **Exception**: Any power listed in the **Custom Content Database** is subject to **staff approval** and may be adjusted or removed during sign-in.
 
----
-
 ## Teaching Disciplines
 
 - PCs may teach Advanced Disciplines in-clan to packmates.
 - To teach a **Combination Discipline**, you must have at least one of the prerequisites as an **in-Clan Discipline**.
-
----
 
 ## Discipline Rulings *(Alphabetical)*
 
@@ -84,8 +80,6 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
 - A PC may only receive **1 Vicissitude Modification per month**.
 - A PC may only perform modifications on an individual up to the number of their **Body Crafts** rating.
 
----
-
 ## One-Shot Disciplines & Powers
 
 - Powers that effectively remove a PC from play (e.g., **Soul Steal**) are limited to the following **resistance retests**:
@@ -94,8 +88,6 @@ If a MET write-up is not available, the power will be run at **Storyteller discr
   - Magic Item
   - Willpower  
 - An **additional Willpower** retest is also allowed **in the interest of fairness**.
-
----
 
 ## Combination Powers *(Alphabetical)*
 

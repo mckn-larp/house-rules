@@ -1,5 +1,6 @@
 # Combat Rules & Mechanics
---
+
+---
 
 ## Storyteller Oversight
 

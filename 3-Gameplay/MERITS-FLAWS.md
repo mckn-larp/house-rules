@@ -30,6 +30,3 @@ Active characters receive Org Max XP each month.
 
 **Active** = played in home chronicle within past 12 months  
 Players going inactive must inform staff ahead of time.
-
------
-

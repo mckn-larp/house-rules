@@ -1,10 +1,8 @@
 # Item Rules & Crafting Guidelines
 
------
+---
 
 This section outlines the policies for item usage, magic item handling, and crafting within the Knoxville: Marble City chronicle. All items must be registered and approved by staff before gameplay.
-
----
 
 ## The 5-Item Rule
 
