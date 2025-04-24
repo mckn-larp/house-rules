@@ -6,10 +6,11 @@ Welcome to the Knoxville: Marble City gameplay reference. These documents contai
 
 Refer to the sections below for detailed information:
 
-- [Combat Rules](./COMBAT.md)
-- [Backgrounds & Resources](./BACKGROUNDS.md)
-- [Merits & Flaws](./MERITS-FLAWS.md)
-- [Items](./ITEMS.md)
+- [**Combat Rules**](./1-COMBAT.md)
+- [**Backgrounds & Resources**](./2-BACKGROUNDS.md)
+- [**Merits & Flaws**](./3-MERITS-FLAWS.md)
+- [**Items**](./4-ITEMS.md)
+- [**Secrecy**](./5-SECRECY.md)
 
 ## Appearance & Required Tags
 

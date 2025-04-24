@@ -4,7 +4,7 @@
 
 ## Additional Resources
 
-- [**Disciplines**](./DISCIPLINES.md)
+- [**Disciplines**](./1-DISCIPLINES.md)
 - [**Blood Magics**](./BLOOD-MAGIC.md)
 - [**Paths of Enlightenment**](./PATHS.md)
 - [**Ritae**](./RITAE.md)
