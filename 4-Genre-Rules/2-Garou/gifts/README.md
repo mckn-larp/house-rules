@@ -1,4 +1,4 @@
-# GIFTS & RITES
+# Gifts & Rites
 
 -----
 
@@ -23,6 +23,3 @@
 - [Black Spiral Dancers](./BSD.md)  
 
 Any gifts or powers of other fera will be published should they come into play. For refernce, we will use the Changing Breeds House Rules from Chicago: New Moon Rising barring any changes herein.
-
------
-
