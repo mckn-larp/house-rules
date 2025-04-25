@@ -2,9 +2,9 @@
 
 ---
 
-Below is an optional system Vampire the Masquerade games can use to heighten tension within their games and use for themselves as an indicator of the threat of major hunter organizations coming to their city. It is also suitable for crossover games that respect the *Silence of the Blood* and the *Veil Shall Not Be Lifted* among the Garou.
+Below is our system World of Darkness games can use to heighten tension within their games and use for themselves as an indicator of the threat of major hunter organizations coming to their city. It is also suitable for crossover games that respect the *Silence of the Blood* and the *Veil Shall Not Be Lifted* among the Garou.
 
-The Masquerade Threat Level of a game generally starts at a 1. Sabbat games are never able to drop this below a 1. The chart below details what each Masquerade Threat Level means in relation on a **10-point scale**.
+The Silence Threat Level of a game generally starts at a 1. Sabbat games are never able to drop this below a 1. The chart below details what each Silence Threat Level means in relation on a **10-point scale**.
 
 ### Threat Levels Defined
 
@@ -58,10 +58,10 @@ The city is under final judgment. All supernaturals are targeted for destruction
 
 **+1** Mass Murder of Mortals (30+ in one month)  
 **+1** Witnessed supernatural powers or feeding with no cover-up  
-**+1** General breach of the Masquerade or Veil left unresolved  
+**+1** General breach of the *Silence* or *Veil* left unresolved  
 
 **-1** Coordinated Media 5, Police 5, or Street 5 efforts over 3 months to reduce threat (per instance)  
 **-1** Calculated murder of key mortal witnesses  
 **-1** Controlled use of supernatural powers to erase memory in critical witnesses  
 
-The Masquerade Threat Level should be calculated once per month and shared with players. If a game reaches level 10, it cannot be reduced. Storytellers are encouraged to add custom modifiers based on in-game events and player actions that reflect the unique politics and supernatural landscape of their setting.
+The Silence Threat Level should be calculated once per month and shared with players. If a game reaches level 10, it cannot be reduced. Storytellers are encouraged to add custom modifiers based on in-game events and player actions that reflect the unique politics and supernatural landscape of their setting.
