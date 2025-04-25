@@ -45,52 +45,52 @@
 ### Silver Fang House and Lodge Gifts
 
 #### Lodge: Sun
-**Basic Gifts:**
+##### Basic Gifts
 - **Truce of Helios** – Per Silver Fang Tribebook Revised.
-**Intermediate Gifts:**
+##### Intermediate Gifts
 - **Honor Pact** – Per Silver Fang Tribebook Revised.
 
 #### Lodge: Moon
-**Basic Gifts:**
+##### Basic Gifts
 - **Crescent Moon’s Awareness (Waxing)** – Per Silver Fang Tribebook Revised.
 - **Gibbous Moon Song (Waning)** – Per Silver Fang Tribebook Revised.
 - **Full Moon Cleansing (Waning)** – Per Silver Fang Tribebook Revised.
 - **New Moon’s Laughter (Waxing)** – Per Silver Fang Tribebook Revised.
-**Intermediate Gifts:**
+##### Intermediate Gifts
 - **Crescent Moon Fata (Waning)** – Per Silver Fang Tribebook Revised.
 - **Gibbous Moon’s Understanding (Waxing)** – Per Silver Fang Tribebook Revised.
 - **Half Moon Mnemonics (Waning)** – Retest is Awareness. Per Silver Fang Tribebook Revised.
 - **Half Moon Diplomacy (Waxing)** – Per Silver Fang Tribebook Revised.
-**Advanced Gifts:**
+##### Advanced Gifts
 - **Full Moon’s Wrath (Waxing)** – Per Silver Fang Tribebook Revised.
 - **New Moon Legerdemain (Waning)** – Per Silver Fang Tribebook Revised.
 
 #### House: Austere Howl
-**Basic Gifts:**
+##### Basic Gifts
 - **Austere Mind** – Per Silver Fang Tribebook Revised.
 - **Osprey’s Eye** – Per Silver Fang Tribebook Revised.
 - **Osprey’s Flight** – Per Silver Fang Tribebook Revised.
 
 #### House: Blood Red Crest
-**Basic Gifts:**
+##### Basic Gifts 
 - **Merlin’s Call** – Per Silver Fang Tribebook Revised.
 
 #### House: Crescent Moon
-**Basic Gifts:**
+##### Basic Gifts
 - **Wind of Buzzard’s Wings** – Per the Wendigo Gift *Call the Breeze*.
-**Intermediate Gifts:**
+##### Intermediate Gifts
 - **Leshii’s Boon** – Per Silver Fang Tribebook Revised.
 
 #### House: Unbreakable Hearth
-**Basic Gifts:**
+##### Basic Gifts
 - **Harrier’s View** – Per Silver Fang Tribebook Revised.
 - **Hidden Meaning** – Per Silver Fang Tribebook Revised.
 
 #### House: Wise Heart
-**Basic Gifts:**
+##### Basic Gifts
 - **Deep Roots** – Per Silver Fang Tribebook Revised.
 - **Locate Spirit Tutor** – Per Silver Fang Tribebook Revised.
 
 #### House: Wyrmfoe
-**Basic Gifts:**
+##### Basic Gifts
 - **Eagle’s Beak** – Per Silver Fang Tribebook Revised.

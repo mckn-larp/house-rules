@@ -4,7 +4,7 @@
 
 ## Ragabash
 
-#### Ragabash - Basic
+#### Basic
 
 - **Alter Scent (PG2)** – Spend 1 Gnosis. Static Mental Challenge (Primal Urge), difficulty 6. Replace your scent with one you’ve encountered. Heightened Senses allows one simple test to detect the true scent. If successful, cannot be fooled again that night.
 - **Beyond Fear (WWW)** – Gnosis vs. target’s Willpower. On success, target gains the *Nightmares* flaw, seeing their death in vivid dreams for one day (triggers during sleep-like states).
@@ -27,7 +27,7 @@
 - **Taking the Forgotten (LOTWR)** – May only use after successfully stealing the item.
 - **Trickster Beacon (BoA)** – Touch target, spend 1 Gnosis, Social Challenge (retest Enigmas). Lasts 1 day per Social trait spent. Marks target spiritually to attract prankster spirits. Usable once per lunar month and once per season per target.
 
-#### Ragabash - Intermediate
+#### Intermediate
 
 - **Bald-Faced Lie (LOTWW)** – Per *Laws of the Wyld West*.
 - **Empty Hand (WWW)** – Spend 1 Willpower. Small hand-held item becomes undetectable to all senses except touch for the scene—even if dropped.
@@ -55,7 +55,7 @@
 - **Umbral Dodge (W20)** – Spend 1 Gnosis. If dodge succeeds, attacker is pulled into the Penumbra (or vice versa if you're already there). -2 trait penalty to dodge.
 - **Whelp Body (LOTWR)** – May be used only once per character on a specific target.
 
-#### Ragabash - Advanced
+#### Advanced
 
 - **Blank (PGG)** – Spend 3 Rage. Extended Static Gnosis Challenge, diff 8. Each success freezes all present for 1 turn. Cannot harm targets. Ends if any target is harmed. Supernaturals may resist via Willpower vs. Gnosis.
 - **Ghost Town (GT)** – Spend 2 Willpower. Mental Challenge (retest Subterfuge), diff set by ST. On success, location appears abandoned. Duration: 3 months. Regulars perceive no change; newcomers ignore it. Others can disbelieve with Mental + Investigation vs. Ragabash’s Mental + Subterfuge.
@@ -68,7 +68,7 @@
 
 ## Theurge
 
-#### Theurge - Basic
+#### Basic
 
 - **Airt Perception (BoA)**  
   Track spirits in the Umbra like tracking animals in the material realm.
@@ -109,7 +109,7 @@
 - **Whispers from Thoth (WWW)**  
   Spend 1 Gnosis. Mental (Enigmas) Challenge, difficulty = Shroud rating + 3. Hear conversations across the Shroud for the scene.
 
-#### Theurge - Intermediate
+#### Intermediate
 - **Blurring the Mirror (W20)**  
   Spend 1 Gnosis per target. Gauntlet rating increases by 5 for them for the scene.
 - **Castigate (BoA)**  
@@ -152,7 +152,7 @@
 - **Web Walker (W20/Umbra)**  
   Spend 1 Gnosis. Social Challenge (Science), difficulty 10. Use the Pattern Web like a Moon Bridge for rapid Umbra travel.
 
-#### Theurge - Advanced
+#### Advanced
 
 - **Feral Lobotomy (LOTWR)**  
   When used on a target, add +3 to their Willpower after doubling (per Temper rules).
@@ -173,7 +173,7 @@
 
 ## Philodox 
 
-#### Philodox - Basic
+#### Basic
 
 - **Aura of the Just (WWC)**  
   Spend 1 Willpower. When the Garou commits a just act, all Garou present intuitively recognize its fairness. This aura does not guarantee respect but eliminates doubt of merit.
@@ -216,7 +216,7 @@
 - **Wrongful Death (GT)**  
   Mental Challenge (Occult retest). Reveals if the death was natural. Detects if the soul became a Wraith.
 
-#### Philodox- Intermediate
+#### Intermediate
 
 - **Balance of Man and Beast (LOTWW)**  
   Per *Laws of the Wild West*.
@@ -253,7 +253,7 @@
 - **Wisdom of the Ancient Ways (LOTWR)**  
   Per *LOTWR*.
 
-#### Philodox- Advanced
+#### Advanced
 
 - **Geas (LOTWR)**  
   Per *LOTWR*.
@@ -266,7 +266,7 @@
 
 ## Galliard 
 
-#### Galliard - Basic
+#### Basic
 
 - **Battle Cry (W20:CW)**  
   Static Social Challenge (Expression retest). All allies gain +5 initiative for the rest of the scene.
@@ -309,7 +309,7 @@
 - **Unified Force (BoA)**  
   Spend 1 Gnosis each turn to activate. All pack members act on the highest initiative. Ends if any member frenzies.
 
-#### Galliard -  Intermediate
+#### Intermediate
 
 - **Book of Years (BoA)**  
   Mental Challenge (Enigmas retest), difficulty = Gauntlet rating. Enter a trance and receive ancestor memories. Each hour = 500 years. Willpower challenge (diff 7) each hour to continue. Failure may send you to Legendary Realm or Battlefield.
@@ -340,7 +340,7 @@
 - **View the Battlefield (BoA)**  
   Spend 1 Gnosis. Static Mental Challenge (Investigation), difficulty 7–12 depending on area size. Success grants overhead view of battlefield, prevents ambush, reveals dangers. Lasts 1 turn + 1 per Mental Trait spent.
 
-#### Galliard - Advanced
+#### Advanced
 
 - **Fabric of the Mind (LOTWR)**  
   Per *LOTWR*.
@@ -351,7 +351,7 @@
 
 ## Ahroun 
 
-#### Ahroun - Basic
+#### Basic
 
 - **Empathy of Hatred (BoA)**  
   Spend an action focusing on a target to learn their temporary and permanent Rage Traits. Blocked by *Aura of Confidence*.
@@ -392,7 +392,7 @@
 - **True Fear (LOTWR)**  
   Per *LOTWR*.
 
-#### Ahroun - Intermediate
+#### Intermediate
 
 - **Black Mamba Strike (W20:CW)**  
   Spend 1 Rage. For the scene, you may attack and move double your distance without penalty.
@@ -425,7 +425,7 @@
 - **Wind Claws (W20)**  
   Spend 1 Rage. All natural attacks for the turn ignore armor. Does not bypass health levels from other sources.
 
-#### Ahroun - Advanced
+#### Advanced
 
 - **Aegis Shield (BoA)**  
   Spend 1 Willpower. For the scene, you may force retests on any successful attack against you. If you win the initial challenge, convert damage to Bashing even if they win retest.

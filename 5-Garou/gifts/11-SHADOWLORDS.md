@@ -48,44 +48,55 @@
 ### Shadow Lord Camp Gifts
 
 #### Bringers of Light
-**Basic**
+##### Basic
 - **Purify Scent** - Per Shadow Lord Tribebook Revised.
 - **Pure Identity** - Opponent may challenge you (Mental vs. Social, retest Subterfuge) to pierce disguise.
-**Intermediate**
+
+##### Intermediate
 - **Wyrm Taint** - Per Shadow Lord Tribebook Revised.
-**Advanced**
+
+##### Advanced
 - **Purity of the Blood** - Per Shadow Lord Tribebook Revised.
 
 #### Children of Bat
-**Basic**
+
+##### Basic
 - **Ears of the Bat** - Per Shadow Lord Tribebook Revised.
 - **Patagia** - Per Shadow Lord Tribebook Revised.
-**Intermediate**
+
+##### Intermediate
 - **A Thousand Eyes** - Per Shadow Lord Tribebook Revised.
 
 #### Children of Crow
-**Basic**
+
+##### Basic
 - **Hidden Secrets** - Per Shadow Lord Tribebook Revised.
 - **Perceptive Servant** - Per Shadow Lord Tribebook Revised.
-**Intermediate**
+
+##### Intermediate
 - **Dark Aerie** - Per Shadow Lord Tribebook Revised.
 
 #### Judges of Doom
-**Basic**
+##### Basic
 - **Executioner’s Privilege** - Per Get of Fenris Gift *Halt the Coward’s Flight*.
 - **Interrogator** - Per Shadow Lord Tribebook Revised.
 - **True Fear** - Per Ahroun Gift (LOTWR).
-**Intermediate**
+
+##### Intermediate
 - **Assassin’s Strike** - Per Shadow Lord Tribebook Revised. Deals +1 level of damage.
-**Advanced**
+
+##### Advanced
 - **Find the Transgressor** - Per Shadow Lord Tribebook Revised.
 
 #### Lords of the Summit
-**Basic**
+
+##### Basic
 - **Interrogator** - Per Shadow Lord Tribebook Revised.
 - **Paranoia** - Per Shadow Lord Tribebook Revised.
 - **True Fear** - Per Ahroun Gift (LOTWR).
-**Intermediate**
+
+##### Intermediate
 - **Roll Over** - Per Philodox Gift (LOTWR).
-**Advanced**
+
+##### Advanced
 - **Mask Taint** - Spend 1 Gnosis + Social Challenge (retest Subterfuge, diff 8). You cannot be detected for Wyrm taint for the scene. Simple test on use: failure adds Wyrm taint. May not be used by fully fallen Garou.

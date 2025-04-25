@@ -47,34 +47,43 @@
 ### Silent Strider Camp Gifts
 
 #### Bitter Hex
-**Basic:**
+
+##### Basic
 - **Curse of Hatred** (LOTWR) - Per the Metis Gift.
-**Advanced:**
+
+##### Advanced
 - **Fetish Doll** (LOTWR) - Per the Uktena gift.
 
 #### Dispossessed
-**Basic:**
+
+##### Basic
 - **Graceful Strike** - Per Silent Striders Tribebook Revised.
 
 #### Eater of the Dead
-**Intermediate:**
+
+##### Intermediate
 - **Touch of Death** - Per Silent Striders Tribebook Revised.
 
 #### Harbingers
-**Basic:**
+
+##### Basic
 - **Grim Resolve** - Per Silent Striders Tribebook Revised. May be used alongside Inspiration.
 - **Trouble Seeker** - Mental Challenge (Engimas), diff 8. Lead to dangerous trouble spots quickly.
-**Intermediate:**
+
+##### Intermediate
 - **Ghost Touched** - Per Silent Striders Tribebook Revised.
 
 #### Seekers
-**Basic:**
+
+##### Basic
 - **Sense of the Prey** (LOTWR) - Per the Ragabash Gift.
 
 #### Sword of Night
-**Intermediate:**
+
+##### Intermediate
 - **Mindblock** (LOTWR) - Per the Silver Fang Gift.
 
 #### Wayfarers
-**Basic:**
+
+##### Basic
 - **Call to Duty** (LOTWR) - Per the Philodox Gift.

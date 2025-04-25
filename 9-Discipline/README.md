@@ -6,8 +6,6 @@
 
 Any player who wishes to review the Code of Conduct can find it on the OWbN website, and the staff will happily email it to anyone upon request.
 
----
-
 ## Rules
 
 1. **No arguing with the staff:**
@@ -27,8 +25,6 @@ Any player who wishes to review the Code of Conduct can find it on the OWbN webs
 4. **Cheating will not be tolerated.**
 
 5. **Punishments** will be determined by staff based on the situation. Staff reserves the right to escalate directly to more severe penalties when warranted.
-
----
 
 ## Disciplinary Actions
 
@@ -56,6 +52,3 @@ Any player who wishes to review the Code of Conduct can find it on the OWbN webs
 
 6. **Additional Note**
    - Any punishment beyond a Warning will impact the player’s ability to create **Rare & Unusual (R&U)** characters.
-
------
-

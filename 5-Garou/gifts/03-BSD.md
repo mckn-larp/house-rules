@@ -20,12 +20,14 @@
 ### Ragabash Gifts
 #### Basic Gifts
 - **Defise Tension** (Wyrm)
+
 #### Intermediate Gifts
 - **Touch of the Eel** (Wyrm)
 
 ### Theurge Gifts
 #### Basic Gifts
 - **Distract Spirit** (Wyrm)
+
 #### Intermediate Gifts
 - **Blood Omen** (Wyrm)
 
@@ -37,6 +39,7 @@
 ### Galliard Gifts
 #### Basic Gifts
 - **Cover Scent** (Wyrm)
+
 #### Intermediate Gifts
 - **Allies Below** (Wyrm)
 

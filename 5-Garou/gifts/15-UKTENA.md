@@ -68,22 +68,22 @@
 ### Camp Gifts
 
 #### Bane Tenders
-**Intermediate Gifts**
+##### Intermediate Gifts
 - **Strength of the Guardian** — Gnosis challenge. Boost Strength, Stamina, Charisma, etc. Traits lost afterward.
 
 #### Earth Guides
-**Intermediate Gifts**
+##### Intermediate Gifts
 - **Ancestral Recall** — Mental, retest Enigmas. Spend Mental + 1 Gnosis to access lost tribal lore.
 - **Bare the Heart** — Gnosis + Mental (Empathy). Reveals masks, corruption, and intent of target.
 
 #### Scouts
-**Basic Gifts**
+##### Basic Gifts
 - **Fast Track** — Static Physical, retest Athletics. Makes forced march without exhaustion.
 
 #### Skywalkers
-**Basic Gifts**
+##### Basic Gifts
 - **Umbral Compass** — Static Mental, retest Survival. Lowers Gauntlet diff or helps pathfind. Failure risks being trapped.
 
 #### Wyld Children
-**Basic Gifts**
+##### Basic Gifts
 - **Call Forth the Wyld** — Static Mental, retest Repair. Spend Gnosis to destroy small tech. Creative chaos!

@@ -1,3 +1,3 @@
-# Tribe Gifts Gifts
+# Tribe Gifts
 
 ---

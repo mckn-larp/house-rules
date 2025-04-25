@@ -103,11 +103,9 @@ Unless otherwise noted, **Fera characters** follow the house rules and the appro
 
 ### Rank at Character Creation
 
-| Rank | Cost |
-|------|------|
-| Rank 0 | No Additional Cost |
-| Rank 1 | No Additional Cost |
-| Rank 2 | **Requires Background** + ST Approval. Costs **2 XP per Permanent Renown** needed for the rank. |
+- **Rank 0:** No Additional Cost
+- **Rank 1:** No Additional Cost
+- **Rank 2:** **Requires Background** + ST Approval. Costs **2 XP per Permanent Renown** needed for the rank.
 
 ## Allowed Starting Gifts
 
@@ -115,39 +113,33 @@ The following Gifts from *Laws of the Wyld Revised* (LOTWR) and *Werewolf: the A
 
 ### Breed Gifts
 
-| Breed | Allowed Gifts |
-|-------|----------------|
-| Homid | Apecraft’s Blessing, City Running, Master of Fire, Persuasion, Smell of Man |
-| Lupus | Hare’s Leap, Heightened Senses, Predator’s Arsenal, Prey Mind, Sense Prey |
-| Metis | Create Element, Primal Anger, Rat Head, Sense Wyrm, Shed |
+- **Homid:** Apecraft’s Blessing, City Running, Master of Fire, Persuasion, Smell of Man
+- **Lupus:** Hare’s Leap, Heightened Senses, Predator’s Arsenal, Prey Mind, Sense Prey
+- **Metis:** Create Element, Primal Anger, Rat Head, Sense Wyrm, Shed
 
 ### Auspice Gifts
 
-| Auspice   | Allowed Gifts |
-|-----------|----------------|
-| Ragabash  | Blur of the Milky Eye, Infectious Laughter, Liar’s Face, Open Seal, Scent of Running |
-| Theurge   | Mother’s Touch, Sense Wyrm, Spirit Snare, Spirit Speech, Umbral Tether |
-| Philodox  | Fangs of Judgment, Persuasion, Resist Pain, Scent of the True Form, Truth of Gaia |
-| Galliard  | Beast Speech, Call of the Wyld, Heightened Senses, Mindspeak, Perfect Recall |
-| Ahroun    | Falling Touch, Inspiration, Pack Tactics, Razor Claws, Spur Claws |
+- **Ragabash:** Blur of the Milky Eye, Infectious Laughter, Liar’s Face, Open Seal, Scent of Running
+- **Theurge:** Mother’s Touch, Sense Wyrm, Spirit Snare, Spirit Speech, Umbral Tether
+- **Philodox:** Fangs of Judgment, Persuasion, Resist Pain, Scent of the True Form, Truth of Gaia
+- **Galliard:** Beast Speech, Call of the Wyld, Heightened Senses, Mindspeak, Perfect Recall
+- **Ahroun:** Falling Touch, Inspiration, Pack Tactics, Razor Claws, Spur Claws
 
 ### Tribe Gifts
 
-| Tribe | Allowed Gifts |
-|-------|----------------|
-| Black Fury | Breath of the Wyld, Man Skin, Heightened Senses, Sense Wyrm, Wyld Resurgence |
-| Bone Gnawer | Cooking, Desperate Strength, Resist Toxin, Scent of Sweet Honey, Trash is Treasure, Tagalong |
-| Child of Gaia | Brother’s Scent, Jam Weapon, Mercy, Mother’s Touch, Resist Pain |
-| Fianna | Faerie Light, Hare’s Leap, Persuasion, Resist Toxin, Two Tongues |
-| Get of Fenris | Lightning Reflexes, Master of Fire, Razor Claws, Resist Pain, Visage of Fenris, Snarl of the Predator |
-| Glass Walker | Control Simple Machine, Diagnostics, Persuasion, Plug N Play, Trick Shot |
-| Red Talon | Beast Speech, Eye of the Hunter, Hidden Killer, Scent of Running Water, Wolf at the Door |
-| Shadow Lord | Aura of Confidence, Fatal Flaw, Seizing the Edge, Shadow Weaving, Whisper Catching |
-| Silent Strider | Heaven’s Guidance, Sense Wyrm, Silence, Speed of Thought, Visions of Duat |
-| Silver Fang | Eye of the Falcon, Falcon’s Grasp, Inspiration, Lambent Flame, Sense Wyrm |
-| Stargazer | Balance, Channeling, Falling Touch, Iron Resolve, Sense Wyrm |
-| Uktena | Sense Magic, Sense Wyrm, Shroud, Spirit of the Lizard, Spirit Speech |
-| Wendigo | Beat of the Heart-drum, Call the Breeze, Camouflage, Ice Echo, Resist Pain |
+- **Black Fury:** Breath of the Wyld, Man Skin, Heightened Senses, Sense Wyrm, Wyld Resurgence
+- **Bone Gnawer:** Cooking, Desperate Strength, Resist Toxin, Scent of Sweet Honey, Trash is Treasure, Tagalong
+- **Child of Gaia:** Brother’s Scent, Jam Weapon, Mercy, Mother’s Touch, Resist Pain
+- **Fianna:** Faerie Light, Hare’s Leap, Persuasion, Resist Toxin, Two Tongues
+- **Get of Fenris:** Lightning Reflexes, Master of Fire, Razor Claws, Resist Pain, Visage of Fenris, Snarl of the Predator
+- **Glass Walker:** Control Simple Machine, Diagnostics, Persuasion, Plug N Play, Trick Shot
+- **Red Talon:** Beast Speech, Eye of the Hunter, Hidden Killer, Scent of Running Water, Wolf at the Door
+- **Shadow Lord:** Aura of Confidence, Fatal Flaw, Seizing the Edge, Shadow Weaving, Whisper Catching
+- **Silent Strider:** Heaven’s Guidance, Sense Wyrm, Silence, Speed of Thought, Visions of Duat
+- **Silver Fang:** Eye of the Falcon, Falcon’s Grasp, Inspiration, Lambent Flame, Sense Wyrm
+- **Stargazer:** Balance, Channeling, Falling Touch, Iron Resolve, Sense Wyrm
+- **Uktena:** Sense Magic, Sense Wyrm, Shroud, Spirit of the Lizard, Spirit Speech
+- **Wendigo:** Beat of the Heart-drum, Call the Breeze, Camouflage, Ice Echo, Resist Pain
 
 ## Rare and Unusual (R&U) Characters
 
@@ -160,13 +152,10 @@ The following Gifts from *Laws of the Wyld Revised* (LOTWR) and *Werewolf: the A
 ## Trait Maximums
 You may have a total of Traits in each category (Physical, Social, and Mental) no greater than a limit set by your Rank:
 
-
-| Rank     | Trait Maximum |
-|----------|----------------|
-| Kinfolk  | 13 Traits      |
-| Cub      | 10 Traits      |
-| Cliath   | 11 Traits      |
-| Fostern  | 12 Traits      |
-| Adren    | 14 Traits      |
-| Athro    | 16 Traits      |
-| Elder    | 18 Traits      |
+- **Kinfolk:** 13 Traits
+- **Cub:** 10 Traits
+- **Cliath:** 11 Traits
+- **Fostern:** 12 Traits
+- **Adren:** 14 Traits
+- **Athro:** 16 Traits
+- **Elder:** 18 Traits

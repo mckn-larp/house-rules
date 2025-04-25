@@ -36,6 +36,7 @@
 - **Sandstorm** (WWW) - 1 Gnosis, Social Challenge (retest Survival). Blinds enemies for minutes based on Gnosis spent.
 - **Territory / Predator’s Many Eyes** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
 - **Trackless Waste** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
+
 ### Advanced
 - **Blessing of the First Pack** (Red Talon Tribebook Revised) - Per Revised, except tempers gained increase rating.
 - **Curse of Lycaon** (LOTWR) - Per LOTWR.
@@ -43,36 +44,51 @@
 - **Natural Renewal** (WWC) - Spend 3 Gnosis and howl. Causes rapid natural regrowth and tech failure in 30ft radius.
 - **Scabwalker Curse** (W20) - 1 Gnosis, Social Challenge (retest Survival). Target takes bashing from contact with non-natural objects for 1 day per Social Trait spent.
 - **Shattering Howl** (Red Talon Tribebook Revised) - Per Red Talon Tribebook Revised.
----
-# Red Talon Camp Gifts
-### Dying Cubs
-**Basic**
+
+### Red Talon Camp Gifts
+
+#### Dying Cubs
+
+##### Basic
 - **Reap the Soul** - Per Red Talon Tribebook Revised.
-**Intermediate**
+
+##### Intermediate
 - **Pain of the Land** - Gain 3 traits in cities, 5 traits around strong Wyrm threats.
-### Kucha Ekindu
-**Basic**
-- **Feed the Pack** - Per Red Talon Tribebook Revised.
+
+#### Kucha Ekindu
+
+##### Basic
+- **Feed the Pack** - Per Red Talon Tribebook Revised.  
 - **Speed of Thought** - Per the Silent Strider Gift.
-**Intermediate**
+
+##### Intermediate
 - **Clenched Jaw** - Per the Ahroun Gift.
-**Advanced**
+
+##### Advanced
 - **Crocodile Pact** (W20) - 2 Gnosis + Static Social Challenge (retest Rituals, diff 15). Summons Mokolé allies or spirit aid.
-### Lodge of the Predator Kings
-**Basic**
-- **Prey’s Cry** - Per Red Talon Tribebook Revised.
+
+#### Lodge of the Predator Kings
+
+##### Basic
+- **Prey’s Cry** - Per Red Talon Tribebook Revised.  
 - **Offerings of the Slain** - Per Red Talon Tribebook Revised.
-### Warders of the Land
-**Basic**
+
+#### Warders of the Land
+
+##### Basic
 - **Mark of the Prey** - Per Red Talon Tribebook Revised.
-**Intermediate**
+
+##### Intermediate
 - **Snap Man’s Chains** - Per Red Talon Tribebook Revised.
-### Whelp’s Compromise
-**Basic**
-- **Cub’s Lessons** - Per Red Talon Tribebook Revised.
+
+#### Whelp’s Compromise
+
+##### Basic
+- **Cub’s Lessons** - Per Red Talon Tribebook Revised.  
 - **Judgment** - Per Red Talon Tribebook Revised.
-### Winter Packs
-**Basic**
-- **Silence the Slain** - Per Red Talon Tribebook Revised.
+
+#### Winter Packs
+
+##### Basic
+- **Silence the Slain** - Per Red Talon Tribebook Revised.  
 - **Rampage** - Per Red Talon Tribebook Revised.
------

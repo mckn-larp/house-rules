@@ -46,16 +46,21 @@
 ### Camp Gifts
 #### Fangs of Garm
 - **Strength of Purpose** (Basic)  - Per Philodox Gift.
+
 #### Glorious Fist of Wotan
 - **Beastmind** (Basic)  - Per LOTWR.
+
 #### Hand of Tyr
 - **Sense of the Prey / Pulse of the Prey** (Basic)  - Per Ragabash Gift.
+
 #### Mjolnir’s Thunder
 - **Clenched Jaw** (Intermediate)  - Per Ahroun Gift.
+
 #### Swords of Heimdall
 - **Mark the Enemy** (Intermediate)  - Touch target. Static Social (Occult), diff 10. Mark visible only to Swords of Heimdall via Mental (Occult), diff 8. Can be removed by another with this gift.
+
 #### Valkyria of Freya
 - **Coup De Grace** (Intermediate)  - Per Black Fury Gift.
+
 #### Ymir’s Sweat
 - **Chill of Early Frost** (Intermediate)  - Per LOTWR (Wendigo Gift).
------

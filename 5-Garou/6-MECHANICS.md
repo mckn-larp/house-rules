@@ -1,12 +1,10 @@
 # Mechanics: Garou & Changing Breeds Specific
 
------
+---
 
 ## Gurahl Rage
 
 - When a **Gurahl** spends Rage to gain **physical traits or health levels**, the benefit **lasts until the end of the scene**.
-
----
 
 ## Out-of-Tribe / Breed / Auspice *(TBA)* Gifts
 
@@ -15,8 +13,6 @@
   - Gifts granted by **Fetishes**, **Totems**, or **external sources** not on your sheet **do not count** against this limit.
   - Gifts granted by **Celestines** are also **excluded** from this limit.
 
----
-
 ## Rage Challenges
 
 - **Any challenge that uses Rage** automatically triggers a **standard frenzy challenge** afterward.
@@ -24,14 +20,10 @@
   - Use **current Rage** if it exceeds your permanent rating.
   - Otherwise, use your **permanent Rage**.
 
----
-
 ## Silver & Supernatural Weaknesses
 
 - **Silver weapons** deal **+2 aggravated damage** to targets vulnerable to silver (e.g., Garou).
 - **Gold, cold iron**, and similar supernatural weaknesses function **similarly** for their respective species.
-
----
 
 ## Tempers in Challenges
 
@@ -42,35 +34,28 @@
 
 > **Note**: You can **never hold more than twice your permanent Temper**.
 
----
-
 ## Trait Expenditures
 
 - When **spending extra traits** to enhance effects (e.g., damage, duration):
   - If no maximum is listed, you may spend **up to half your permanent traits** in the relevant category.
 
----
-
 ## Wraith Interaction (Per *MET Oblivion*, p. 249)
 
 The following **Gifts and Rites** are known to **interact with Wraiths**:
 
-- Spirit Ward  
-- Sense Wyrm  
-- Sense the Unnatural  
-- Scent of the True Form  
-- Name the Spirit  
-- Spirit Speech  
-- Exorcism  
-- Pulse of the Invisible *(Drumbeat of the Shadow)*  
-- Spirit Drain *(Uktena Version)*  
-- Attunement  
-- Howl of the Banshee  
-- Cybersenses  
-- Mindblock  
-- Sense Magic  
-- Summon the Restless Shade  
+- Spirit Ward
+- Sense Wyrm
+- Sense the Unnatural
+- Scent of the True Form
+- Name the Spirit
+- Spirit Speech
+- Exorcism
+- Pulse of the Invisible *(Drumbeat of the Shadow)*
+- Spirit Drain *(Uktena Version)*
+- Attunement
+- Howl of the Banshee
+- Cybersenses
+- Mindblock
+- Sense Magic
+- Summon the Restless Shade
 - Rite of Cleansing
-
------
-

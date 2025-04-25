@@ -38,13 +38,11 @@ These are consolidated into a **joint background** and function as the owner’s
 - Spirits within the Domain are **protective of the owner and the space**.
 
 #### Ratings & Size / Gnosis
-| Dots | Urban Size / Rural Size | Gnosis per Day |
-|------|--------------------------|----------------|
-| 1    | House / 1 sq. mile       | 1              |
-| 2    | Mansion / 2 sq. miles    | 2              |
-| 3    | City block / 5 sq. miles | 3              |
-| 4    | 2 blocks / 10 sq. miles  | 4              |
-| 5    | 5 blocks / 20 sq. miles  | 5              |
+- **Level x1:** House / 1 sq. mile, 1 Gnosis/day
+- **Level x2:** Mansion / 2 sq. miles, 2 Gnosis/day
+- **Level x3:** City block / 5 sq. miles, 3 Gnosis/day
+- **Level x4:** 2 blocks / 10 sq. miles, 4 Gnosis/day
+- **Level x5:** 5 blocks / 20 sq. miles, 5 Gnosis/day
 
 
 ### Equipment *(Kinfolk)*
@@ -53,13 +51,11 @@ Access to **specialized, rare, or supernatural equipment** not otherwise availab
 > Items are **not replaceable** through dots once used, lost, or destroyed. Must be reacquired via roleplay.
 
 #### Equipment Tiers
-| Dots | Examples |
-|------|----------|
-| 1 | Silver bullets, Kevlar vests, street-level drugs |
-| 2 | Laser sights, healing herbs, gas masks, pepper spray |
-| 3 | Explosive ammo, wiretaps, field kits, espionage tools, lesser Talen (with Gnosis 5 Merit) |
-| 4 | Specialized vehicles, military firearms, electron microscopes, greater Talen (with Gnosis 6 Merit) |
-| 5 | Unique items (experimental firearms, crystal balls, untraceable poisons); may own a powerful Talen (with Gnosis 7 Merit) — *requires ST approval* |
+- **Equipment x1:** Silver bullets, Kevlar vests, street-level drugs
+- **Equipment x2:** Laser sights, healing herbs, gas masks, pepper spray
+- **Equipment x3:** Explosive ammo, wiretaps, field kits, espionage tools, lesser Talen (with Gnosis 5 Merit)
+- **Equipment x4:** Specialized vehicles, military firearms, electron microscopes, greater Talen (with Gnosis 6 Merit)
+- **Equipment x5:** Unique items (experimental firearms, crystal balls, untraceable poisons); may own a powerful Talen (with Gnosis 7 Merit) — *requires ST approval*
 
 
 ### Fate / Destiny
@@ -94,14 +90,11 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
 - Gains **XP per month equal to dot rating**, if the player attends game and submits for it.
 - Created using base character creation rules.
 - **Bonus XP at creation**:
-
-| Dots | Bonus XP |
-|------|-----------|
-| 1    | 5 XP      |
-| 2    | 10 XP     |
-| 3    | 15 XP     |
-| 4    | 20 XP     |
-| 5    | 25 XP     |
+  - **Retainer Kinfolk x1:** 5 XP
+  - **Retainer Kinfolk x2:** 10 XP
+  - **Retainer Kinfolk x3:** 15 XP
+  - **Retainer Kinfolk x4:** 20 XP
+  - **Retainer Kinfolk x5:** 25 XP
 
 - May not:
   - Start with **Numina**
@@ -152,13 +145,11 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
 - Must coordinate with ST on why/how Renown was earned.
 - Kinfolk **can never gain Garou rank**, but may still be recognized for service.
 
-| Dots | Renown |
-|------|--------|
-| 1    | One temporary point |
-| 2    | Two temporary points |
-| 3    | Three temporary points |
-| 4    | Four temporary points |
-| 5    | Five temporary points |
+  - **Renown x1:** One temporary point
+  - **Renown x2:** Two temporary points
+  - **Renown x3:** Three temporary points
+  - **Renown x4:** Four temporary points
+  - **Renown x5:** Five temporary points
 
 > **Note**: Kinfolk with this background must **wear a visible tag** showing their prestige.
 
@@ -170,13 +161,11 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
   - 3 for Intermediate
   - 5 for Advanced
 
-| Background Points | Rites Gained |
-|-------------------|--------------|
-| 2                 | Level 1 Rite |
-| 4                 | Level 2 Rite |
-| 6                 | Level 3 Rite |
-| 8                 | Level 4 Rite |
-| 10                | Level 5 Rite |
+- **Rites x2:** Level 1 Rite
+- **Rites x4:** Level 2 Rite
+- **Rites x6:** Level 3 Rite
+- **Rites x8:** Level 4 Rite
+- **Rites x10:** Level 5 Rite
 
 > After creation, Rites cost 1/2/4/6 **unless learned with a teacher**.
 
@@ -198,13 +187,11 @@ This background can be purchased **multiple times**. Declare **Standard** or **R
 
 You have a **bonded spirit companion** who stores supernatural energy for you.
 
-| Dots | Familiar Type & Traits |
-|------|------------------------|
-| 1 | Small Gaffling. Must use Spirit Speech or be near in the Umbra. Stores 3 points (Gnosis, Rage, or Willpower – one type at a time). Cannot Peek. |
-| 2 | Larger Gaffling. Stores 5 points (one type). Can Peek occasionally and knows your location. |
-| 3 | Average Jaggling. Can speak aloud if nearby. Stores 5 points (choose 2 types). Sees through your eyes. Can Peek. |
-| 4 | Bright Jaggling. Telepathy if nearby. Mutual sight and awareness. Stores 5 points (any mix). Can Manifest. |
-| 5 | Intelligent Jaggling tied to an Incarna. Unlimited distance telepathy. Share senses and Gifts. Stores 6 points (any mix). |
+- **Spirit Familiar x1:** Small Gaffling. Must use Spirit Speech or be near in the Umbra. Stores 3 points (Gnosis, Rage, or Willpower – one type at a time). Cannot Peek.
+- **Spirit Familiar x2:** Larger Gaffling. Stores 5 points (one type). Can Peek occasionally and knows your location.
+- **Spirit Familiar x3:** Average Jaggling. Can speak aloud if nearby. Stores 5 points (choose 2 types). Sees through your eyes. Can Peek.
+- **Spirit Familiar x4:** Bright Jaggling. Telepathy if nearby. Mutual sight and awareness. Stores 5 points (any mix). Can Manifest.
+- **Spirit Familiar x5:** Intelligent Jaggling tied to an Incarna. Unlimited distance telepathy. Share senses and Gifts. Stores 6 points (any mix).
 
 
 ## Spirit Heritage
@@ -227,12 +214,9 @@ You receive bonuses **only when dealing with a broad class of spirits** (e.g., e
 ### Gurahl Totems
 If not benefiting from a purchased Totem or multi-fera pack Totem, Gurahl are considered to have **Bear** as their Personal Totem.
 
-Must choose one at creation:
-| Bear Totem | Benefits |
-|------------|----------|
-| First Cub / Ursa Minor | +1 Expression, +1 Larceny, +1 Survival |
-| Great She-Bear / Ursa Major | +1 Medicine, +1 Empathy, +1 Survival |
-| Mangi, the Death Bear | +1 Brawl, +1 Enigmas, +1 Survival |
+- **First Cub / Ursa Minor:** +1 Expression, +1 Larceny, +1 Survival
+- **Great She-Bear / Ursa Major:** +1 Medicine, +1 Empathy, +1 Survival
+- **Mangi, the Death Bear:** +1 Brawl, +1 Enigmas, +1 Survival
 
 
 ## Trinket *(Bastet)*

@@ -56,15 +56,16 @@
 ### Wendigo Camp Gifts
 
 #### Ghost Dance
-**Basic Gifts**
+##### Basic Gifts
 - **Virgin Snow** – Per *Wendigo Tribebook Revised*.
 
 #### Sacred Hoop
-**Basic Gifts**
+##### Basic Gifts
 - **Claw-to-Thumb** – Per Silver Fang Gift *Empathy*.
-**Intermediate Gifts**
+
+##### Intermediate Gifts
 - **Fire Water’s Quench** – Per *Wendigo Tribebook Revised*.
 
 #### Warpath
-**Basic Gifts**
+##### Basic Gifts
 - **Fog (PG2)** – Per Black Fury Gift *Curse of Aeolus*.

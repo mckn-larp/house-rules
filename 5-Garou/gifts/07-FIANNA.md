@@ -58,5 +58,6 @@
 ### Camp Gifts
 #### Songkeepers
 - **Cairbre’s Tongue**  - *Intermediate*. Spend 1 Gnosis. Contested Social (Performance) vs Willpower. If successful and target is Wyrm-tainted, they lose all Appearance traits. Blotches appear for the scene.
+
 #### Tuatha de Fionn
 - **Sense the Unnatural** (LOTWR)  - Per Lupus Gift.

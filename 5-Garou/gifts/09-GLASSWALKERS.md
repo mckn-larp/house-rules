@@ -58,52 +58,67 @@
 - **Technotheocratic Apocalyptica** (PGG) - Spend 3 Rage + Social Traits. Static Social (Science, diff 12). Creates berserk electronics storm doing unsoakable agg to all.
 
 ### Camp Gifts
+
 #### Boli Zouhisze
-**Basic Gifts**
+##### Basic Gifts
 - **Fu Xi’s Honor** - Spend 1 Rage to gain twice your Rank in Physical Traits when defending helpless family or pack.
 - **Sheng-Nong’s Eyes** - Per Glass Walker Tribebook Revised.
-**Intermediate Gifts**
+
+##### Intermediate Gifts
 - **Elemental Favor / Yao’s Command** - Per LOTWR. Elemental choice: Water, Wood, Fire, Earth, Metal.
 - **Heart of the Mountain / Yu’s Endurance** - Per Glass Walker Tribebook Revised.
-**Advanced Gifts**
+
+##### Advanced Gifts
 - **Huang Di’s Sacrifice** - Per Glass Walker Tribebook Revised.
-#### City Farmers
-**Basic Gifts**
+
+#### City Farmers  
+##### Basic Gifts
 - **Agro Culture** - Social challenge (retest Science or Herbology) to plant seeds and purify toxic ground. Diff set by ST.
-#### Corporate Wolves
-**Basic Gifts**
+
+#### Corporate Wolves  
+##### Basic Gifts
 - **Budget Approval Process** - Per Glass Walker Tribebook Revised.
 - **Buzzword Language** - Per Glass Walker Tribebook Revised.
-**Advanced Gifts**
+
+##### Advanced Gifts
 - **Takeover** - Per Glass Walker Tribebook Revised.
-#### Cyber Dogs
-**Basic Gifts**
+
+#### Cyber Dogs  
+##### Basic Gifts
 - **Cool Mind** - Per Glass Walker Tribebook Revised.
 - **Steel Made Flesh** - Per Glass Walker Tribebook Revised.
-#### Dies Ultimae
-**Basic Gifts**
+
+#### Dies Ultimae  
+##### Basic Gifts
 - **Last Ditch** - Per Glass Walker Tribebook Revised.
 - **Well-Oiled Running** - Per Glass Walker Tribebook Revised.
-**Intermediate Gifts**
+
+##### Intermediate Gifts
 - **Steel Blowfish** - Per Glass Walker Tribebook Revised.
-#### Random Interrupts
-**Basic Gifts**
+
+#### Random Interrupts  
+##### Basic Gifts
 - **Mind Partition** - Per Glass Walker Tribebook Revised. Does not allow multiple combat actions.
 - **Network Terminal** - Per Glass Walker Tribebook Revised.
-**Intermediate Gifts**
+
+##### Intermediate Gifts
 - **Cooling System** - As Wendigo Gift Chill of the Early Frost.
 - **Universal Interface** - Per Glass Walker Tribebook Revised.
-**Advanced Gifts**
+
+##### Advanced Gifts
 - **Phone Travel** - Superseded by Signal Rider.
-#### Wise Guys
-**Basic Gifts**
+
+#### Wise Guys  
+##### Basic Gifts
 - **Tommy’s New Trick** - Spend 1 Gnosis. Firearms challenge vs multiple targets. Spend Willpower to turn failures into single target success.
 - **Mother’s Touch** - Per Theurge Gift.
 - **Image of the Saints** - Per Glass Walker Tribebook Revised.
 - **Garafena’s Crown** - Superseded by Hands Full of Thunder.
-**Intermediate Gifts**
+
+##### Intermediate Gifts
 - **Corner Shot** - Per Glass Walker Tribebook Revised.
 - **Whispers on the Street** - Per Glass Walker Tribebook Revised.
 - **Umbral Motorcade** - Per Glass Walker Tribebook Revised.
-**Advanced Gifts**
+
+##### Advanced Gifts
 - **Family Debt** - Per Glass Walker Tribebook Revised.

@@ -16,13 +16,11 @@ All **non-Garou** and **non–Changing Breed-specific abilities** are **subject 
 ### Biorhythms *(Gurahl Only)*
 Can be used in place of Subterfuge. Affects your own biological systems. Modifiers to Subterfuge **do not** apply to Biorhythms. (*PGCBR p.159*)
 
-| Level | Effects |
-|-------|---------|
-| 1 | Minor adjustments to heart rate and internal body temperature |
-| 2 | Can mimic hibernation by slowing metabolism |
-| 3 | Control over respiratory and involuntary muscles |
-| 4 | Isolate parts of metabolism (e.g., suspend poison processing) |
-| 5 | Stop heartbeat and restart after extended periods |
+- **Biorhythms x1:** Minor adjustments to heart rate and internal body temperature
+- **Biorhythms x2:** Can mimic hibernation by slowing metabolism
+- **Biorhythms x3:** Control over respiratory and involuntary muscles
+- **Biorhythms x4:** Isolate parts of metabolism (e.g., suspend poison processing)
+- **Biorhythms x5:** Stop heartbeat and restart after extended periods
 
 ### Crafting
 - **Reshape Object & Crafting**: Items created with *Reshape Object* are base objects with 0 Crafts rating (except where modified by the gift itself).
@@ -85,13 +83,11 @@ Used to represent **instinctive insight** and "sixth sense" reasoning.
 
 - May be used in place of **Empathy** to detect lies
 
-| Level | Description |
-|-------|-------------|
-| 1 | Your instincts help you find the right track. |
-| 2 | You follow your gut over second-guessing. |
-| 3 | You know when something’s going down. |
-| 4 | You identify the source behind the issue. |
-| 5 | Your hunches are eerily accurate. |
+- **Intuition x1:** Your instincts help you find the right track.
+- **Intuition x2:** You follow your gut over second-guessing.
+- **Intuition x3:** You know when something’s going down.
+- **Intuition x4:** You identify the source behind the issue.
+- **Intuition x5:** Your hunches are eerily accurate.
 
 
 ### Iskakku *(Child of Gaia)*
@@ -120,6 +116,3 @@ Used to represent **instinctive insight** and "sixth sense" reasoning.
 - Spend 5 minutes grooming, then spend 1 level of Style to:
   - **Gain +1 Appearance** for the scene
   - **Only 1 level** may be spent this way per scene
-
---
-

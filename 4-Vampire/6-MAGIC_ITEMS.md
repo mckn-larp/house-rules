@@ -337,12 +337,12 @@ To create some of these items, a character needs a corresponding level of the Lo
 #### Airborne Faerie Weapons
 - **Type:** SM
 - **Level:** 4
-- **Effect:**  
-    - fly around corners or through twisting woods (weapon ignores any modifiers for cover;)  
-    — soar straight towards a drawn mundane weapon (attacker may “shoot to disarm” at no penalty)  
-    - seek out the most villainous person in a pack of targets (weapon selects the most “offensive” (to fae sensibilities) target; no modifiers to the actual roll)  
-    — seek out a target who carries cold iron (weapon is automatically attracted to nearest target bearing cold iron, and the difficulty to hit is lowered by 1)  
-    — always return to the hero who launches it
+- **Effect:**
+  1. fly around corners or through twisting woods (weapon ignores any modifiers for cover;)
+  2. soar straight towards a drawn mundane weapon (attacker may “shoot to disarm” at no penalty)
+  3. eek out the most villainous person in a pack of targets (weapon selects the most “offensive” (to fae sensibilities) target; no modifiers to the actual roll)
+  4. seek out a target who carries cold iron (weapon is automatically attracted to nearest target bearing cold iron, and the difficulty to hit is lowered by 1)
+  5. always return to the hero who launches it
 
 #### Bone Flute
 - **Type:** SM

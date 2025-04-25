@@ -118,14 +118,11 @@ You may change the names of your original traits, or even have a mix of Traits t
 ### Linguistics
 - May be used to purchase **basic codes** (e.g., Morse) *[Advanced ciphers still require **Enigmas**]*
 - **Linguistics Levels**:
-
-| Level | Languages Known |
-|-------|------------------|
-| 1     | 1 (2 with specialty) |
-| 2     | 2 (4 with specialty) |
-| 3     | 4 (8 with specialty) |
-| 4     | 8 (16 with specialty) |
-| 5     | 16 (32 with specialty) |
+- **Lingustics x1:** 1 (2 with specialty)
+- **Lingustics x2:** 2 (4 with specialty)
+- **Lingustics x3:** 4 (8 with specialty)
+- **Lingustics x4:** 8 (16 with specialty)
+- **Lingustics x5:** 16 (32 with specialty)
 
 ### Melee
 - Possessing 1+ dot in Melee allows you to apply **shield traits** to hand-to-hand combat
@@ -160,12 +157,10 @@ You may change the names of your original traits, or even have a mix of Traits t
 
 **Updated Disposable Income (Inflation Adjusted):**
 
-| Level | Income |
-|-------|--------|
-| 0     | $400 and a bus pass |
-| 1     | $1,000 |
-| 2     | $2,000 |
-| 3     | $6,000 |
-| 4     | $20,000 |
-| 5     | $60,000 |
-| 6+    | At ST discretion |
+- **Resources x0:** $400 and a bus pass
+- **Resources x1:** $1,000
+- **Resources x2:** $2,000
+- **Resources x3:** $6,000
+- **Resources x4:** $20,000
+- **Resources x5:** $60,000
+- **Resources x6+:** At ST discretion
