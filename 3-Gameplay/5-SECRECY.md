@@ -2,7 +2,7 @@
 
 ---
 
-Below is an optional system Vampire the Silence games can use to heighten tension within their games and use for themselves as an indicator of the threat of major hunter organizations coming to their city. It is also suitable for crossover games that respect the *Silence of the Blood* and the *Veil Shall Not Be Lifted* among the Garou.
+Below is our system World of Darkness games can use to heighten tension within their games and use for themselves as an indicator of the threat of major hunter organizations coming to their city. It is also suitable for crossover games that respect the *Silence of the Blood* and the *Veil Shall Not Be Lifted* among the Garou.
 
 The Silence Threat Level of a game generally starts at a 1. Sabbat games are never able to drop this below a 1. The chart below details what each Silence Threat Level means in relation on a **10-point scale**.
 
