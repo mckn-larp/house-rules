@@ -6,8 +6,6 @@
 [Garou Creation Steps](../5-Garou/README.md#character-creation-steps)  
 [Changling Creation Steps](../6-Changeling/README.md#character-creation-steps)  
 
----
-
 ## General Creation Rules
 
 ## Nature & Demeanor
@@ -56,8 +54,6 @@ These are not all possible Natures and Demeanors; just about any one- or two-wor
 ### Regaining Willpower with your Nature
 If you are low on unspent Willpower Traits and you role-play in a way you feel uniquely satisfies your Nature, inform a Storyteller. The Storyteller may opt to give you simple Rock-Paper-Scissors throw. On a win or a tie, you earn back one Willpower Trait. Alternatively, the Storyteller can opt to reward you one Willpower trait without requiring a challenge for particularly good demonstration of roleplaying your character's Nature. This may only be done once per Scene.
 
----
-
 ## Traits: Physical, Social, & Mental
 Physical, Social, and Mental Traits are three categories of Traits that describe your character. They are used in the game's main resolution system, Challenges.
 
@@ -100,8 +96,6 @@ You may change the names of your original traits, or even have a mix of Traits t
 - *Perceptive*: Alert, Attentive, Aware, Discerning, Insightful, Observant, Vigilant, Watchful
 - *Wily*: Clever, Creative, Cunning, Intuitive, Inventive, Patient, Quick-Thinking, Shrewd
 
----
-
 ## Abilties
 
 #### General Rules
@@ -135,8 +129,6 @@ You may change the names of your original traits, or even have a mix of Traits t
 
 ### Tactics
 - As per *Laws of the Reckoning*
-
----
 
 ## Backgrounds
 

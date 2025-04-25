@@ -10,6 +10,8 @@
 
 # House Rules: Knoxville – Marble City
 
+---
+
 Welcome to the **House Rules repository** for *Knoxville: Marble City*, a satelite chronicle within One World by Night.
 
 Our chronicle uses the [**Western Shore House Rules**] as our **baseline ruleset**. These provide the shared framework used across multiple games within the Western Shore collective, including Milwaukee, Jefferson, and Chicago. We build upon this foundation with **local clarifications and additions** specific to our setting and player needs.
@@ -57,6 +59,3 @@ Click on each section below to view our local rulings and clarifications:
 If you have questions about any rule listed here or would like to propose a clarification or update, please open a [Discussion](https://github.com/mckn-larp/house-rules/discussions) or speak with a storyteller directly.
 
 > Let’s keep Knoxville dark, strange, and unforgettable.
-
------
-

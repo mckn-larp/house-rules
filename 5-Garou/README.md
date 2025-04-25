@@ -1,15 +1,5 @@
 # GAROU & FERA SPECIFIC RULES
 
-## Additional Resources
-
-- [**Abilities**](./1-ABILITIES.md)
-- [**Backgrounds**](./2-BACKGROUNDS.md)
-- [**Merits & Flaws**](./3-MERITS-FLAWS.md)
-- [**Gifts & Rites**](./gifts/README.md)
-- [**Renown & Rank**](./5-RENOWN.md)
-- [**Garou-Specific Mechanics**](./6-MECHANICS.md)
-- [**Items, Fetishes, & Talens**](./7-ITEMS.md)
-
 ## Character Creation Steps
 
 1. **Choose Breed, Auspice, and Tribe**  
@@ -20,13 +10,13 @@
 
 3. **Choose a Rank**  
    - **Cliath (Rank 1)** is available at no cost.
-   - **Fostern (Rank 2)** requires Storyteller approval and a background.  
+   - **Fostern (Rank 2)** requires Storyteller approval and a background.
      - Cost: **2 points per dot of Permanent Renown** required.  
      - Starting Permanent Renown may not exceed what is required for Rank 2 at creation.
 
 4. **Assign Traits (Physical, Social, Mental)**  
    Initially, you receive 7/5/3 traits. Additional traits cost **1 point each**, with no distinctions between categories.  
-   - Maximum of 5 per category without special approval.  
+   - Maximum of 5 per category without special approval.
    - Players are responsible for ensuring their spread is reasonable and thematic to the concept.
 
 5. **Choose Abilities**  
@@ -35,57 +25,57 @@
 
 6. **Assign Tempers: Rage, Gnosis, Willpower**  
    - You receive the following for free:
-     - **Rage:** 1  
-     - **Willpower:** 1  
-     - **Gnosis:** 2  
-   - Your **Breed**, **Auspice**, and **Tribe** may adjust these values.  
-   - Additional dots in each cost **3 points per dot**.  
+     - **Rage:** 1
+     - **Willpower:** 1
+     - **Gnosis:** 2
+   - Your **Breed**, **Auspice**, and **Tribe** may adjust these values.
+   - Additional dots in each cost **3 points per dot**.
    - Your total in these may not exceed your caps (as per MET/W20 standards).
 
 7. **Choose Gifts**  
-   - You may choose **Basic-level Gifts** only at creation.  
-   - Gifts from your **Breed**, **Auspice**, and **Tribe** are available.  
-   - Each Gift costs **3 points**.  
-   - All Gifts must be chosen from the **approved list**.  
+   - You may choose **Basic-level Gifts** only at creation.
+   - Gifts from your **Breed**, **Auspice**, and **Tribe** are available.
+   - Each Gift costs **3 points**.
+   - All Gifts must be chosen from the **approved list**.
    - You are not limited to 3 Gifts; you may spend points freely, but all must be Basic level.
 
 8. **Assign Backgrounds**  
-   - Backgrounds cost **1 point per dot**.  
-   - Up to 14 dots are allowed at creation.  
-   - Backgrounds **must be justified** in your submitted backstory (due within 90 days).  
+   - Backgrounds cost **1 point per dot**.
+   - Up to 14 dots are allowed at creation.
+   - Backgrounds **must be justified** in your submitted backstory (due within 90 days).
      - If not submitted in time, spent points will be removed.
 
 9. **Apply Breed, Auspice, and Tribe Advantages**  
    Any approved traits, restrictions, or bonuses from Breed, Auspice, and Tribe should now be recorded. These may affect maximums, Gift access, or character expectations.
 
-10. **Assign Renown**  
-   - Cliath characters start with 3 Temporary Renown, distributed appropriately.  
-   - Additional Temp Renown may be acquired, with ST approval.  
+10. **Assign Renown**
+   - Cliath characters start with 3 Temporary Renown, distributed appropriately.
+   - Additional Temp Renown may be acquired, with ST approval.
    - Permanent Renown must be purchased to meet your Rank’s requirement, if starting above Rank 1, at **2 points per dot**.
 
-11. **Choose Flaws and Negative Traits**  
-   - Take up to **7 points of Flaws** to gain an equal number of bonus points.  
-   - You may also select up to **5 Negative Traits**, each granting **1 bonus point**.  
+11. **Choose Flaws and Negative Traits**
+   - Take up to **7 points of Flaws** to gain an equal number of bonus points.
+   - You may also select up to **5 Negative Traits**, each granting **1 bonus point**.
    - Flaws and Negative Traits must make sense for the concept.
 
-12. **Gain Additional Bonuses**  
-   - You receive **5 Freebie Points**.  
-   - You also gain **30 Starting XP** to spend on further development.  
+12. **Gain Additional Bonuses**
+   - You receive **5 Freebie Points**.
+   - You also gain **30 Starting XP** to spend on further development.
    - XP may be spent using standard OWbN XP costs.
 
-13. **Finalize Sheet and Submit**  
-   - Submit your complete character sheet and background within **90 days** detailed below.  
+13. **Finalize Sheet and Submit**
+   - Submit your complete character sheet and background within **90 days** detailed below.
    - After that time, no mechanical changes are permitted without ST approval.
 
 ## Notes on Advancement & House Rulings
 
-- All character builds use a **160-point creation pool**, excluding freebies and XP.  
-- Of these, **X points** are accounted for above, leaving the **30 points** listed in step 12.  
-- **Tempers (Rage, Gnosis, Willpower)** cost **3 points per dot**.  
-- **Traits and Abilities** cost **1 point per dot**.  
+- All character builds use a **160-point creation pool**, excluding freebies and XP.
+- Of these, **X points** are accounted for above, leaving the **30 points** listed in step 12.
+- **Tempers (Rage, Gnosis, Willpower)** cost **3 points per dot**.
+- **Traits and Abilities** cost **1 point per dot**.
 - **Basic Gifts** cost **3 points each**.
-- All Gifts **must be Basic-level** at creation, regardless of how many are selected.  
-- **No Talents/Skills/Knowledges split** — only **Abilities** are used.  
+- All Gifts **must be Basic-level** at creation, regardless of how many are selected.
+- **No Talents/Skills/Knowledges split** — only **Abilities** are used.
 - No Ability or Trait may exceed **5** without **explicit Storyteller approval** and justification.
 
 ## Character Sheet Changes

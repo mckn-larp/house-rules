@@ -142,6 +142,3 @@ In the event of a **PvP (player vs. player)** situation:
 - **The 10-minute break or "follow mode" cannot be used to avoid PvP.**
 
 Our chronicle values both immersive storytelling and the well-being of our players. Safety and mutual respect come first.
-
------
-

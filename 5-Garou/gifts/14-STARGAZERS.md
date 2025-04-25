@@ -63,18 +63,22 @@
 ### Stargazer Camp Gifts
 
 #### Demon Eaters
+
 ##### Basic Gifts
 - **Reverie of the Kol-Kin** – Per Stargazer Tribebook Revised.
 - **Sense the Demonic** – Per Stargazer Tribebook Revised.
 
 #### The Sacred Thread
+
 ##### Basic Gifts
 - **The Teacher’s Ease** – Per Stargazer Tribebook Revised.
 - **Word-to-Weapon** – Per Stargazer Tribebook Revised.
+
 ##### Advanced Gifts
 - **Eyes of Ignorance** – Per Stargazer Tribebook Revised. *(ST Discretion on known abilities)*
 
 #### Trance Runners
+
 ##### Intermediate Gifts
 - **Bird Bones** – Per Stargazer Tribebook Revised.
 - **Seven Mile Leap** – Per Stargazer Tribebook Revised.

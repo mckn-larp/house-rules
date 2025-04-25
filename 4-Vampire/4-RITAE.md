@@ -4,7 +4,6 @@
 Any Ritae not on the following list must be approved at the start of game and prior to it's use. Note that faction and pack specific ritae have NO affect to those not of that association.
 
 ## Auctoritas
-
 **Allegiance**  
 This ritus inducts an Embraced vampire into the Sabbat before they receive full membership, emphasizing loyalty and embedding a permanent Vicissitude-crafted mark. It restricts participation in Sabbat rites and imposes social limitations until the vampire completes Creation Rites.  
 *System:* The vampire gains the Flaw “Probationary Sect Member,” and their Vicissitude-created mark cannot be removed or altered.
@@ -57,10 +56,7 @@ This ritus mobilizes Sabbat packs to hunt and destroy a powerful enemy, often a 
 Used to punish traitors who have endangered the Sabbat, this grim ritus involves hunting, torture, interrogation, and ultimate destruction of the offender and their accomplices. It reaffirms unity through vengeance.  
 *System:* May be replaced with Contrition Ritus at ST discretion. Otherwise, generally results in Final Death for the traitor and accomplices.
 
----
-
 ## Ignoblis Ritae
-
 **Acceptance Ritus**  
 This ritus welcomes new members into a pack through personal recognition and pledges of allegiance. It's more social than mystical, ensuring pack cohesion and acknowledgment.  
 *System:* Once per night, participants may invoke an Acceptance Ritus retest in Social Challenges against other pack members.
@@ -165,8 +161,6 @@ A long-lost rite offering protection against faith; now rare, only a few ancient
 A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St. Gustav’s guidance. It’s deeply revered by the Order of St. Blaise.  
 *System:* Ventrue antitribu with no Presence may roll Int + Occult (diff 7) to replace Presence with Auspex; 5+ successes may grant “Blessed by St. Gustav” Merit.
 
----
-
 ## Factional Ritae
 
 - **Moderates**
@@ -248,6 +242,7 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     *System:* Honest candidates emerge with a temporary derangement. Dishonest ones suffer lethal damage and frenzy tests. Participants must pass digging challenges or be left behind.
 
 - **Occult Underground**
+
     **Wisdom of the Crone**  
     By consuming brains, the Sabbat briefly boost occult insight and deepen their web of knowledge.  
     *System:* +2 Bonus points to Occult or Sabbat Lore for one scene.
@@ -255,7 +250,9 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     **Eyes of the Lowlands**  
     To guard against ghostly surveillance, this rite allows the Sabbat to see spirits at a cost.  
     *System:* Gain the ability to see ghosts/wraiths for a scene, but lose 1 Mental and 1 Social Trait during the effect.
+
 - **Order of St. Blaise**
+
     **Martyr’s Eyes**  
     A safeguard against danger, this rite lets the caster sense threats to their ghouls or bonded allies.  
     *System:* Grants a permanent psychic flash when bonded individuals are endangered.
@@ -279,7 +276,9 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     **Exorcism Rites**  
     Used against possession, this extended ritual exorcises demons through willpower and resistance.  
     *System:* Requires learning the demon’s name, then winning contested Willpower tests equal to the demon’s Faith or Gnosis.
+
 - **Children of the Dracon**
+
     **Lay of the Land**  
     A wilderness-focused rite that teaches survival and reverence for nature.  
     *System:* +2 Bonus Traits to all Survival tests. If the priest heals the initial wound, the ritual fails.
@@ -303,7 +302,9 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     **Blood Communion**  
     A Catholic-style Vaulderie, this rite replaces wine with vitae to sanctify bonds.  
     *System:* Works as a Vaulderie for vampires; causes blood bond and euphoria in mortals.
+
 - **Crimson Tide**
+
     **Way of the Road**  
     A rite for nomadic Sabbat, this ritual blesses their journey and binds their path to Cainite tradition.  
     *System:* Participants may reroll one failed Survival or Streetwise challenge during travel, once per game.
@@ -319,7 +320,9 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     **Single Combat**  
     Establishes honorable duels among Crimson Tide packs to resolve disputes without wider conflict.  
     *System:* Forbids outside interference. Winner earns one temporary Status and Leadership Trait.
+
 - **Inquisition**
+
     **Auto-De-Fe**  
     A public rite of judgment, it burns heretics and infernalists in communal fire and faith.  
     *System:* All participants gain +2 Conscience or Conviction Traits in the next game.
@@ -327,7 +330,9 @@ A sacred rite for Ventrue antitribu to replace Presence with Auspex, invoking St
     **Malleus Maleficarum**  
     This rite brands infernalists, making their evil visible to the faithful.  
     *System:* Target’s aura reveals infernal taint to participants for one week. Victims cannot mask this aura.
+
 - **Black Hand**
+
     **The Call is Issued**  
     Summons Black Hand members across regions by burning a sacred bone as a beacon.  
     *System:* Within 24 hours, all bonded Black Hand within 100 miles receive a dreamlike summons.
