@@ -8,60 +8,38 @@ The Silence Threat Level of a game generally starts at a 1. Sabbat games are nev
 
 ### Threat Levels Defined
 
-**0 - Obscured:**  
+**0 - Obscured**  
 The organized hunters have no presence of interest in this city. Vampires and other supernaturals are too well hidden to present any interest.
 
-![Obscured](../Media/00-Obscured.png)  
-
-**1 - Dormant:**  
+**1 - Dormant**  
 The standard starting Threat Level of a game. No active organized hunters involvement. Heightened sense of vigilance and light monitoring.
 
-![Dormant](../Media/01-Dormant.png)  
-
-**2 - Aware:**  
+**2 - Aware**  
 The organized hunters are aware of the city and is considering sending monitoring groups. Still no direct involvement.
 
-![Aware](../Media/02-Aware.png)  
-
-**3 - Probing:**  
+**3 - Probing**  
 The organized hunters send scouts and informants. A few unmarked operatives begin noting supernatural movements.
 
-![Probing](../Media/03-Probing.png)  
-
-**4 - Investigating:**  
+**4 - Investigating**  
 Organized hunter scouts are in the city. Supernaturals risk exposure while active.
 
-![Investigating](../Media/04-Investigating.png)  
-
-**5 - Engaged:**  
+**5 - Engaged**  
 Organized hunters operate openly. Teams are working on offensives.
 
-![Engaged](../Media/05-Engaged.png)  
-
-**6 - Aggressive Measures:**  
+**6 - Aggressive Measures**  
 Coordinated strikes begin. Havens, Caerns, and safehouses are under pressure. Multiple groups mobilize under tactical leadership.
 
-![Aggressive Measures](../Media/06-Aggressive-Measures.png)  
-
-**7 - Excommunicado:**  
+**7 - Excommunicado**  
 The city is marked high-risk. Hostile action is frequent. Hunter groups are working in concert against larger threats.
 
-![Excommunicado](../Media/07-Excommunicado.png)  
-
-**8 - Siege:**  
+**8 - Siege**  
 Hunters working with the government have established control across areas. Curfews, checkpoints, and surveillance become the norm. Government and non-governmental forces coordinate at the startegic and tactical levels.
 
-![Siege](../Media/08-Seige.png)  
-
-**9 - Martial Presence:**  
+**9 - Martial Presence**  
 The city is functionally occupied. No supernatural being may safely move. Total saturation and operational dominance.
 
-![Martial Presence](../Media/09-Martial-Presence.png)  
-
-**10 - Anathema:**  
+**10 - Anathema**  
 The city is under final judgment. All supernaturals are targeted for destruction. Hunters enact scorched-earth protocols. Only miracles, mass exodus, or total destruction can save the city.
-
-![Anathema](../Media/10-Anathema.png)  
 
 ### Threat Level Modifiers (Monthly)
 
