@@ -2,4 +2,4 @@
 
 ## Fetishes & Talens
 
-You may not carry more **fetishes or talens** than **half your permanent Willpower**, rounded up.
+You may not have bound (active and spiritually linked) more **fetishes or talens** than **half your permanent Willpower**, rounded up.

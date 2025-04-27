@@ -109,13 +109,13 @@ Let staff know if you'd like help building your item index cards or to check if 
 ## Item Baselines
 
 #### Notes:  
-- Conceal:  
+- Conceal (*C*):  
   - NA: Cannot be concealed
   - P: Pocket concealable
   - S: Sleeve
   - J: Jacket concealable
   - T: Trenchcoat concealable
-- Damage:  
+- Damage (*DMG*):  
   - B: Bashing
   - L: Lethal
   - A: Aggrevated
@@ -123,7 +123,7 @@ Let staff know if you'd like help building your item index cards or to check if 
 ### Weapons
 
 #### Melee
-|Weapon|Traits|Negative Traits|Conceal|Damage|Notes/Special Abilities|
+|Weapon|Traits|Neg Traits|C|DMG|Notes/Special Abilities|
 |---|---|---|---|---|---|
 |Brass Knuckles/Knuckle Dusters|+1|Short|P|1 L|Retest with Brawl instead of Melee|
 |Knife/Dagger|+1|Short|P|1 L|Optional: Gutting Hook|
@@ -143,7 +143,7 @@ Let staff know if you'd like help building your item index cards or to check if 
 |Greatsword / Polearm / Scythe|+4|Clumsy, Heavy| NA|2 L|Two-hand Requirement, Versatile|
 
 #### Thrown
-|Weapon|Traits|Neg Traits|Conceal|Damage|Notes/Special Abilities|
+|Weapon|Traits|Neg Traits|C|DMG|Notes/Special Abilities|
 |----------------|--------|----------------|---------|------------|------------------------------------------------------------|
 |Thrown Dagger|+1|Clumsy|P|1 L|Versatile|
 |Paint Popper|+2|Clumsy|P|1 B|Spray (paint), Versatile; Coats area, obscures evidence|
@@ -151,7 +151,7 @@ Let staff know if you'd like help building your item index cards or to check if 
 |Thrown Spear|+3|Clumsy, Heavy|J|1 L|Versatile, Staking (if wooden tipped and sharpened)|
 
 #### Ranged
-|Weapon|Traits|Neg Traits|Conceal|Damage|Notes/Special Abilities|
+|Weapon|Traits|Neg Traits|C|DMG|Notes/Special Abilities|
 |------------------|------|----------------------|---------|-----------|-----------------------------------------------------------------|
 |Flame Thrower|0|Clumsy, Hot, Heavy|NA|2 Agg|Incendiary, Spray, Two-Hand Req, Versatile|
 |Muzzle Loader|+1|Loud, Heavy|NA|2 L|Two-Hand Req, reload 1 action/shot|
@@ -182,9 +182,11 @@ There are three types of armor:
 
 You may have only one effect of each type in place at one time. All mundane armor listed here has the type Apparel, which means you can't wear Chain Mail under a Riot Suit for extra protection -- only one of the two effects will apply, and the other is ignored.
 
+Magical defensive items (such as Luna’s Armor, etc) are treated as Major Items under the 5-item rule, while mundane armor and shields are considered Mundane Items.
+
 
 #### Armor
-|Armor|HL|Neg Traits|Conceal|Special|
+|Armor|HL|Neg Traits|C|Special|
 |----------------|--|---------------|------------------|--------------------------------------------------------|
 |Light Armor|1|NA|Disguised as clothing|No protection vs. Firearms|
 |Ballistic Vest|2|NA|Under/disguised clothing|No protection vs. Melee|
@@ -194,7 +196,7 @@ You may have only one effect of each type in place at one time. All mundane armo
 |Riot Suit|3|Heavy, Clumsy|NA|—|
 
 #### Shields
-|Shield|Bonus|Neg Traits|Conceal|Special|
+|Shield|Bonus|Neg Traits|C|Special|
 |--------------|-----|------------------|----------|--------------------------------------------------------------------|
 |Small Shield|+1|NA|J|No protection vs. Ranged; Versatile|
 |Body Shield|+2|Clumsy, Heavy|NA|No protection vs. Spray weapons; Versatile|

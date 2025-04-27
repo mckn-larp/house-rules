@@ -6,6 +6,7 @@ Only the following magic items are allowed in MCKN
 
 - Those that appear on the chart below
 - Items created by Blood Magic Rituals (Ward Versus Kindred, Protean’s Curse, Principal Focus, etc)
+- Abide by the maximum 5 items per category (*Major, Minor, or Mundane*)
 - Plot Items created for and given out specifically by MCKN Staff.
 
 To create some of these items, a character needs a corresponding level of the Lore Ability as dictated on the chart. Some of these items may not be created and must be found in order to acquire them, and thus do not have a level requirement listed.

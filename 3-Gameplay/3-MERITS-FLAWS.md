@@ -28,5 +28,6 @@
 
 Active characters receive Org Max XP each month.
 
-**Active** = played in home chronicle within past 12 months  
-Players going inactive must inform staff ahead of time.
+**Active** = played in home chronicle within past 12 months. Players going inactive must inform staff ahead of time.
+
+Inactive characters must be approved by staff to return to play in **ANY** OWBN chronicle before use.

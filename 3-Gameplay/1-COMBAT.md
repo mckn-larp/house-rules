@@ -14,7 +14,11 @@ Once you have signed in, you are under the control of the Storyteller (ST) staff
 
 ## Buffs
 
-- Only **chronicle-controlled NPCs** may provide buffs to PCs.
+- Buff can be applied to player characters from the following:
+
+  - **Signed in** PCs *(either present or proxied)*
+  - **Chronicle-controlled NPCs** on approval.
+  - **Coordinator-controlled NPCs** with prior notification and approval.
 - **Retainers** must have an approved sheet on file to be valid sources of buffs.
 
 ## Initiative & Turn Order
@@ -118,22 +122,24 @@ Defenders may spend **1 additional Temporary Willpower** to retest the following
 When a trait total tie occurs:
 
 - Each party may add their **permanent levels of one appropriate Ability**.
-- Adding traits **only** applies on challenges that tie on trait totals
+- Adding Ability Levels **only** applies on challenges that tie on trait totals
 
-**Example**:  
-Bob (attacker) may add **Brawl**. Tina (defender) may add **Dodge**.
+***Example***:  
+On a tie, Bob (attacker) may add **Brawl**. Tina (defender) may add **Dodge**.
 
 Additional resources for traits in challenge resolution:
 
-- Weapon stats **(limit one item)**
+- Weapon stats **(limit one item)^**
 - Specializations **(limit one specialization)**
 - Merits
 - Disciplines
 - Magic Items **(limit one item)**
 
+> \^: Note that shields can be added upon storyteller descretion if the wielder has at least **Melee x1**
+
 ### Retest Categories:
 - **Ability**
-- **Supernatural Power(Discipline/Gift/Arcanoi)**
+- **Supernatural Power(Discipline/Gift/etc.)**
 - **Item**
 - **Rite/Ritae/Ritual**
 - **Merit**
@@ -143,8 +149,8 @@ Additional resources for traits in challenge resolution:
 > Note, you can only declare and use **one and only one** retest per category.
 
 **Auspex vs. Obfuscate Tie**:  
-- Add **levels of Auspex + Investigation** for detection  
-- Add **levels of Obfuscate + Stealth** for concealment  
+- Add **levels of Auspex/Supernatural Awareness + Investigation** for detection  
+- Add **levels of Obfuscate/Concealment Power + Stealth** for concealment  
 - Each level = +1 Trait
 - Combination powers **do not** add levels above the core discipline
 
@@ -208,6 +214,6 @@ You are allowed 3 types of armor and this is the order the armor levels are util
 ## Damage Reduction (Armor & Similar Effects)
 
 - **Flat damage reduction effects do not function as per book.**
-- Instead, they provide **temporary Healthy health levels** equal to the stated reduction value.
+- Instead, they provide **temporary *"Healthy"* health levels** equal to the stated reduction value.
   - These health levels **refresh at the beginning of the next round**, unless stated otherwise in house rules.
   - They can be **damaged like normal health levels**.

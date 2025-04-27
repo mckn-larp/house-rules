@@ -47,6 +47,8 @@ Requires a private residence and a written description.
 - **Library x4:** 1 uncommon Lore (up to level 4)
 - **Library x5:** 1 rare/unusual Lore (up to level 2)
 
+Lores are classified as *Common* if they are in-genre. They are *Uncommon* if they are genre-tangential (Garou learning about Spirits, Sabbat learning about Camarilla.) They are *Rare* if they are out-of-genre. All these classifications are determined by the storyteller staff.
+
 ## Influences
 
 Handled as per *Dark Epics*, using the same stacking rules described above.
