@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://owbnknoxville.net/wp-content/uploads/2022/07/mckn-title.png" alt="Knoxville: Marble City Logo" width="400px" />
+  <img src="https://owbnknoxville.net/wp-content/uploads/2022/07/mckn-title.png" alt="MCKN Logo" width="400px" />
 </p>
 
 <p align="center">
@@ -8,11 +8,11 @@
   <a href="https://github.com/mckn-larp"><img alt="Chronicle Repo" src="https://img.shields.io/badge/Chronicle-Repo-blue?style=for-the-badge&logo=github" /></a>
 </p>
 
-# House Rules: Knoxville – Marble City
+# House Rules: MCKN
 
 ---
 
-Welcome to the **House Rules repository** for *Knoxville: Marble City*, a satelite chronicle within One World by Night.
+Welcome to the **House Rules repository** for *Marble City: Knoxville Nights (MCKN)*, a satelite chronicle within One World by Night.
 
 Our chronicle uses the [**Western Shore House Rules**] as our **baseline ruleset**. These provide the shared framework used across multiple games within the Western Shore collective, including Milwaukee, Jefferson, and Chicago. We build upon this foundation with **local clarifications and additions** specific to our setting and player needs.
 
@@ -22,7 +22,7 @@ This repository outlines those local rulings. If a rule or mechanic is not speci
 
 ## Signing In
 
-By signing into this game, each participant affirms their understanding and acceptance of all house rules as defined by the Marble City: Knoxville Nights storytelling staff. This includes compliance with OWbN bylaws, organizational policies, and the standards of our local chronicle.
+By signing into this game, each participant affirms their understanding and acceptance of all house rules as defined by the MCKN storytelling staff. This includes compliance with OWbN bylaws, organizational policies, and the standards of our local chronicle.
 
 Signing in also serves as confirmation that **both the player and their character are authorized for play** within the One World By Night organization. Characters who have not been formally reviewed, approved, or updated to meet current chronicle or organizational standards may be restricted from play until resolved.
 

@@ -2,7 +2,7 @@
 
 ---
 
-This section outlines the specific process for creating **Sabbat Vampire characters** in the *Knoxville: Marble City* chronicle. It replaces and updates prior Vampire-specific creation sections and brings Sabbat-specific systems in line with current play guidelines and OWBN approval processes.
+This section outlines the specific process for creating **Sabbat Vampire characters** in the *MCKN* chronicle. It replaces and updates prior Vampire-specific creation sections and brings Sabbat-specific systems in line with current play guidelines and OWBN approval processes.
 
 ## Character Creation Steps
 
