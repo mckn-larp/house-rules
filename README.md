@@ -12,8 +12,8 @@
 
 ---
 
-**Date:** *2025-APR-27*  
-**Version:** *RC1 - Baited Fish*
+**Date:** *2025-APR-29*  
+**Version:** *1.0.0 - Ashfall Shiver Misty*
 
 Welcome to the **House Rules repository** for *Marble City: Knoxville Nights (MCKN)*, a satelite chronicle within One World by Night.
 
