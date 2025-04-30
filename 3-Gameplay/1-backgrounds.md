@@ -2,10 +2,6 @@
 
 -----
 
-## Retainers
-
-Retainers can die. They must have an approved sheet in BE to earn XP.
-
 ## Stacking Backgrounds
 Use the Laws of Ascension method:
 
@@ -15,6 +11,10 @@ Use the Laws of Ascension method:
 4. Repeat until no value remains
 
 Example: Resources x3 + (three x2) = Resources x4
+
+## Retainers
+
+Retainers can die. They must have an approved sheet in BE to earn XP.
 
 ### Resources
 - Players must have a **Resources card**.

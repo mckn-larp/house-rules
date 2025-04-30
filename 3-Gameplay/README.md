@@ -6,11 +6,11 @@ Welcome to the MCKN gameplay reference. These documents contain local chronicle 
 
 Refer to the sections below for detailed information:
 
-- [**Combat Rules**](./1-COMBAT.md)
-- [**Backgrounds & Resources**](./2-BACKGROUNDS.md)
-- [**Merits & Flaws**](./3-MERITS-FLAWS.md)
-- [**Items**](./4-ITEMS.md)
-- [**Secrecy**](./5-SECRECY.md)
+- [**Backgrounds & Resources**](./1-backgrounds.md)
+- [**Merits & Flaws**](./2-merits-flaws.md)
+- [**Combat Rules**](./3-combat.md)
+- [**Items**](./4-items.md)
+- [**Secrecy**](./5-secrecy.md)
 
 ## Appearance & Required Tags
 
