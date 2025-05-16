@@ -106,6 +106,57 @@ The tax is based on:
 
 Everyone deserves a game where they feel **welcome, valued, and safe**—even while playing monsters. We build that environment together, with care, flexibility, and respect for both the story and each other.
 
+## Characters & You: Shared Ownership in a Shared World
+
+At MCKN, your character is more than just a sheet — it's a narrative contribution to something larger than yourself. We believe that characters are **co-owned by the player and the chronicle**, with both parties sharing responsibility in how those characters live, grow, and sometimes fall within the story.
+
+### Shared Stewardship
+
+When you bring a character to life in our chronicle, you retain ownership of your concept, voice, and personal creativity. However, by joining MCKN, you grant the chronicle a shared role in developing, interpreting, and progressing that character within the context of our shared world.
+
+- Players **own** their characters’ backgrounds, personalities, motivations, and development arcs.
+- The Chronicle **stewards** those characters within a living setting — one that evolves, challenges, and occasionally changes them.
+
+This agreement isn't about control — it's about cooperation. We build this together.
+
+### What Shared Ownership Means
+
+- Characters can be referenced, involved in plots, or affected by events while players are away.
+- Staff may retcon, advance, or resolve scenes in a character’s absence to preserve game continuity.
+- Significant changes will always consider the character’s context, prior history, and the player's intent — but the game world keeps moving.
+
+When you create a character here, you grant the chronicle a **non-exclusive license** to include them in stories, scenes, and consequences that serve the broader narrative.
+
+### Rails, Not Walls
+
+Shared ownership does not mean unchecked freedom. The following principles apply to players and staff alike:
+
+- Players cannot use out-of-character tools to shield characters from earned consequences.
+- Staff cannot use narrative authority to override player agency without clear justification.
+- Consequences, growth, and change are all part of meaningful storytelling.
+
+If you step away from a scene, the story doesn't pause. Your character may continue under storyteller guidance, and outcomes will be determined fairly based on context.
+
+### Protecting the Spirit of the Game
+
+To prevent misuse of safety systems or narrative authority:
+
+- **Timeouts and content withdrawals** are honored without question for real-life safety, but do not shield characters from in-game ramifications.
+- **Storytellers apply realistic outcomes**, from subtle changes to character death, always grounded in the story.
+- **Players are not punished** for caring for their own well-being — but neither are characters granted immunity from the consequences of the world.
+
+This isn’t about mechanical punishment — it’s about narrative integrity.
+
+### The Bottom Line
+
+- Characters belong to both the player and the chronicle.
+- Storytelling rights are shared, and responsibility is mutual.
+- Staff and players alike are stewards of the narrative.
+- All actions carry consequence — in-character and out.
+- Everyone is here to have fun, feel safe, and tell powerful stories.
+
+By participating in MCKN, you agree to this shared model — one that balances **respect for your character** with **respect for the game as a whole**. It’s how we tell lasting stories, together.
+
 ## A Shared Love of the Game
 
 We come together because we love this world, this system, and the stories we create. That love is the foundation we return to when misunderstandings arise.
