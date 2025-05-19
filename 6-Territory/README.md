@@ -1,6 +1,6 @@
 # TERRITORIES
 
--
+- The following counties detail the Eat Tennessee area. Note that only those *Under Control* are held by this satelite chronicle.
 
 ##Under Control
 | Name       | Region              | Metro Area        | Zone                        |
